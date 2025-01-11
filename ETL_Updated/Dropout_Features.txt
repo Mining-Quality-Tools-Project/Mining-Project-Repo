@@ -1,0 +1,82 @@
+Conditions for Dropout Status = True
+Student-Level Conditions
+Older Age + Low Attendance Rate + Poor Academic Performance
+Older students struggling academically and with attendance issues are at a very high risk of dropping out.
+
+Female Student + Large Household Size + Low Household Income + No Access to Electricity
+Female students in large, low-income households without electricity face compounded barriers to education.
+
+Married Student or Student with Children + Low Attendance Rate + No Community Support
+Marriage or childcare responsibilities reduce attendance, especially without external support.
+
+Special Needs + No Electricity + Poor Academic Performance
+Students with special needs in resource-poor households are more vulnerable to dropout.
+
+Language Spoken ≠ School Language + Low Attendance Rate + Poor Academic Performance
+Language barriers reduce comprehension and engagement, leading to poor performance and eventual dropout.
+
+Socioeconomic and Household-Level Conditions
+Low Household Income + Large Household Size + Low Parent Education + No Electricity
+Large, low-income households without educated parents or electricity struggle to sustain children’s education.
+
+Political Instability (Conflict Zone) + Low Household Income + Distance to School > 10 km
+In conflict zones, long travel distances and financial hardships deter regular school attendance.
+
+No Internet Access + No Computer Lab + Poor Attendance
+Lack of access to modern educational resources reduces engagement and academic success.
+
+School-Level Conditions
+High Student-Teacher Ratio + Few Teachers + Poor Attendance Rate
+Overcrowded classrooms with few teachers discourage students and reduce retention.
+
+No Library + Poor Academic Performance + No Community Support
+Lack of access to reading materials and resources, combined with poor performance and no support, increases dropout risk.
+
+School Language ≠ Majority Language in Region + No Teacher Language Expertise
+Schools not accommodating regional languages and lacking bilingual teachers face higher dropout rates.
+
+Teacher-Level Conditions
+Unqualified Teachers + Few Teachers + Poor Attendance Rate
+Schools with unqualified or insufficient teachers cannot effectively engage or retain students.
+
+Years of Experience < 2 + High Student-Teacher Ratio
+Inexperienced teachers in overcrowded classrooms fail to provide quality education, increasing dropout rates.
+
+Location-Level Conditions
+Distance to School > 15 km + No Access to Transport + Poor Attendance Rate
+Long distances without transport options drastically reduce attendance and retention.
+
+Remote Village + No Electricity + No Internet Access + Large Household Size
+Rural areas lacking infrastructure and support systems lead to higher dropout risks.
+
+Conflict Zone + Low Government Aid Coverage + High Household Size
+Families in unstable regions with minimal government aid cannot sustain children’s education.
+
+Government Aid and Community Support
+No Government Aid + Low Household Income + Large Household Size
+Lack of financial aid increases the burden on households to sustain education.
+
+No Parental Involvement + No Community Support + Low Attendance Rate
+Students without supportive family or community networks struggle to remain engaged.
+
+Complex Combined Conditions
+Older Female Student + Low Attendance Rate + Poor Academic Performance + Large Household Size + Conflict Zone
+A combination of socio-economic pressures, poor academic engagement, and regional instability makes dropout almost inevitable.
+
+Language Spoken ≠ School Language + No Teacher Language Expertise + Distance to School > 10 km + Remote Village
+Students facing multiple layers of linguistic and logistical barriers are at extreme risk.
+
+Married Student + Children + Low Household Income + No Government Aid + Political Instability
+Marriage and childcare responsibilities compounded by financial and regional instability lead to dropout.
+
+Special Needs + No Teacher Expertise in Inclusive Education + No Community Support + Low Attendance Rate
+Students with disabilities in unsupportive environments face significant dropout risks.
+
+Remote Village + No Internet Access + No Library + Low Household Income + Few Teachers
+Rural schools lacking infrastructure and resources have high dropout rates, especially for financially disadvantaged students.
+
+Political Instability + Distance to School > 20 km + Large Household Size + No Access to Transport + Low Attendance Rate
+Combining conflict, logistical challenges, and socioeconomic pressures leads to guaranteed dropouts.
+
+Household Size > 8 + Low Household Income + Female Student + No Electricity + High Student-Teacher Ratio
+Large, resource-strapped households combined with gender and educational disadvantages increase dropout probabilities.
