@@ -1,0 +1,1001 @@
+aid_key,program_name,region,aid_type,aid_coverage
+1d37ceeb-0376-4aa8-880e-a0801eae5866,Aid_Program_68,North,Infrastructure,False
+4baeb875-60bf-4fe8-99cb-f3b66646310e,Aid_Program_40,Centre,Scholarship,False
+c1311f8d-d560-4734-94b1-bc160bd135e3,Aid_Program_26,Far North,Infrastructure,True
+9b672f4c-31cc-4195-b0c1-ee4cbf79f1ca,Aid_Program_3,Northwest,Scholarship,True
+14d0fd6f-9d29-41ea-a51f-37db824e559c,Aid_Program_72,North,Teacher Training,True
+051060f0-75a6-4636-b9cf-86ae8c077d56,Aid_Program_45,Centre,Scholarship,True
+ae351674-fee1-4e45-bd9e-49bfff7aae68,Aid_Program_75,South,Infrastructure,True
+4e597ba2-4937-4f3f-99e9-3bddd3441ad9,Aid_Program_32,Northwest,Infrastructure,False
+53c2449a-c195-477e-b00b-93a27893bcdc,Aid_Program_75,Adamawa,Scholarship,False
+f4f5a0bd-fe6a-4b0b-9921-ebf3c84affed,Aid_Program_82,Centre,Scholarship,False
+4960b40f-4aa1-4363-84a9-fbcb27afe94f,Aid_Program_54,Centre,Scholarship,False
+83a9c5ca-4120-4913-b06e-22d2bd75ba48,Aid_Program_24,Far North,Teacher Training,True
+1fe7d1c8-3ea3-4b60-b31a-de0ea18a6cb2,Aid_Program_83,Centre,Infrastructure,False
+b86f0e4b-6150-4fa5-b3fb-32316c576346,Aid_Program_47,Southwest,Scholarship,False
+54c131ff-c559-42e8-a67b-231b4c02dce6,Aid_Program_20,South,Teacher Training,True
+6dd36468-6268-43db-865a-545028e42bc5,Aid_Program_24,North,Scholarship,True
+c08169de-2ca2-4ef7-9570-dcab67bdf2fb,Aid_Program_27,Adamawa,Infrastructure,True
+54ee195b-399e-4ef5-835d-4eaece5a793b,Aid_Program_36,West,Teacher Training,True
+0657c68a-4de2-4067-86ca-2ff6947ffa8b,Aid_Program_46,Littoral,Infrastructure,False
+d098846d-459e-40ac-86ce-8d0854a4c50d,Aid_Program_42,Centre,Scholarship,False
+c39a4629-d0be-4ba1-9a56-31920bea1174,Aid_Program_83,North,Scholarship,False
+f2900e85-6b54-4ba7-87b6-180dffca6f98,Aid_Program_100,West,Infrastructure,True
+c86717f4-532b-4afc-b0b7-08832f88e5ac,Aid_Program_98,Southwest,Infrastructure,False
+48b0b1a5-754c-4090-a131-27a085f66b48,Aid_Program_90,South,Infrastructure,True
+3c683479-fac3-4cc0-bf80-6af4a9d0f0a6,Aid_Program_91,South,Infrastructure,False
+bcea7467-c066-4b2e-9f15-f29c11f3690b,Aid_Program_59,East,Scholarship,False
+ca2ad2a1-4e0c-4bc4-9615-1109439f80f8,Aid_Program_49,Adamawa,Teacher Training,True
+853962f8-0be9-4c97-9fbd-06a3cc34b46d,Aid_Program_91,Far North,Infrastructure,False
+ea7d0397-baf7-49df-9893-42ee4177fdb2,Aid_Program_44,South,Infrastructure,True
+bfcca11a-bd50-47d8-8779-d97ff9cc16b8,Aid_Program_40,Adamawa,Infrastructure,True
+27b4a67e-368d-4412-99c2-43329f3d3ffe,Aid_Program_18,East,Teacher Training,False
+adbfd7cb-9871-4b03-a2a2-74e2df1cb39a,Aid_Program_94,East,Teacher Training,True
+e701c9f8-78b4-4070-a505-a7cc42517406,Aid_Program_18,South,Infrastructure,True
+52114d64-fb23-4501-bae6-78c464c3f900,Aid_Program_73,West,Scholarship,False
+253793c4-263c-40d0-b1eb-6ec8541f7ee8,Aid_Program_40,Northwest,Teacher Training,True
+5ea43d40-9e07-43e6-949f-f06cc0efffd2,Aid_Program_84,Centre,Teacher Training,False
+d01ab998-4c9b-471c-9495-080e4e017d6d,Aid_Program_94,North,Teacher Training,False
+1a65cf25-53a3-41da-b64f-56a430a28302,Aid_Program_7,Centre,Scholarship,False
+e27a3543-809a-412a-ae14-4677fb79bf56,Aid_Program_37,East,Infrastructure,True
+97bf7afe-a150-4d5e-a254-944296e65c14,Aid_Program_82,East,Teacher Training,True
+37d59733-868e-4a3e-9f9d-6770aac82b93,Aid_Program_97,Far North,Infrastructure,False
+bd9b784a-1224-463d-8ec3-b0bca30bac83,Aid_Program_17,West,Teacher Training,True
+c44e74a8-63d3-40aa-83c4-3ab3ef49b460,Aid_Program_62,Littoral,Teacher Training,True
+1210a39a-2414-4ca3-8ff9-6cbf99b71ecf,Aid_Program_88,Far North,Teacher Training,True
+42176184-d837-4b6c-a02c-cb5fccd5fc54,Aid_Program_63,South,Teacher Training,True
+823a6869-fe48-4457-b596-c7f7a17fe52d,Aid_Program_29,Adamawa,Scholarship,True
+826e64de-a94d-4c38-bc6d-70b90b6e9123,Aid_Program_73,Adamawa,Scholarship,True
+ae53e1f9-5e63-4725-87a2-c78dbb0eec38,Aid_Program_87,Centre,Teacher Training,True
+b7433148-b0a6-49f9-91f0-e227ef71967a,Aid_Program_93,North,Scholarship,False
+793d9b5e-925c-4061-a314-cdfdefcbc4a6,Aid_Program_6,Adamawa,Scholarship,True
+86fe01e4-ac96-4c83-8042-2280d1d054c3,Aid_Program_59,North,Infrastructure,True
+284338d6-a35e-440c-a1ee-63356fc35cc4,Aid_Program_62,South,Infrastructure,False
+2182934e-fafe-47d2-bc60-650f4d03d5d4,Aid_Program_45,Adamawa,Infrastructure,False
+e3eb1a3f-66d9-4a27-9283-e67ead175271,Aid_Program_90,Littoral,Teacher Training,False
+7ae5bafc-be73-4d0f-a1ea-04f3c55612e1,Aid_Program_69,North,Scholarship,False
+3b387b6b-9220-43ba-8847-b2722d68a4d1,Aid_Program_79,Littoral,Scholarship,False
+a06cffef-fefc-4503-9019-55c811357d0c,Aid_Program_100,Centre,Infrastructure,True
+5a72c210-4f63-4b72-8132-1aff4afb77c0,Aid_Program_88,Adamawa,Teacher Training,False
+dd4b76a0-41a3-4cf8-a39c-90671ff34981,Aid_Program_7,Far North,Scholarship,True
+d21ceb20-8091-45ac-b115-dd199616ee08,Aid_Program_78,Adamawa,Scholarship,True
+c8b8a286-e41d-4e2a-b613-2518457d2abc,Aid_Program_15,Centre,Scholarship,True
+c46a3c40-afd6-4ec8-b143-48e61e4a039d,Aid_Program_31,South,Infrastructure,False
+cda52585-0ebb-4ce8-9271-0e6621a342fb,Aid_Program_2,South,Infrastructure,False
+2e19d9cb-ffe6-437a-9584-92eb0c73a880,Aid_Program_94,Adamawa,Infrastructure,True
+7a53ca7d-6b74-403b-b0d6-781f6b141f7a,Aid_Program_77,Littoral,Teacher Training,True
+73cd292e-0fbb-4e06-91f9-c529292d9bda,Aid_Program_87,North,Scholarship,False
+b28ce254-c2a7-44e8-8ec0-555623435d8a,Aid_Program_89,Northwest,Scholarship,True
+5810c324-f831-4218-b694-c4dc394c5243,Aid_Program_75,Centre,Scholarship,False
+0f5c505a-f5c0-487d-8f66-b45252bfa7b6,Aid_Program_37,Northwest,Infrastructure,False
+7963d498-e3bc-4f1f-bd6d-0fbae0871c38,Aid_Program_87,Far North,Teacher Training,True
+f5078111-f8da-4045-a028-52d031f18771,Aid_Program_43,Far North,Teacher Training,False
+83270f2e-9f4d-4cf6-9e5c-db8dddfc4a65,Aid_Program_20,Adamawa,Infrastructure,True
+630e20cd-28c2-438a-ade9-5bc6ec3fb0cf,Aid_Program_4,Far North,Scholarship,False
+4b1fbb54-0f90-4185-ba99-dc3a2d0710be,Aid_Program_94,Adamawa,Scholarship,False
+042b14e0-0113-4004-9886-3b360d3af7ff,Aid_Program_48,Southwest,Infrastructure,False
+47b616e7-27ad-45f9-8731-df8ea530fc6e,Aid_Program_72,South,Teacher Training,False
+a9da6447-a3c0-4144-9ae3-ac9ecafae6e2,Aid_Program_85,West,Teacher Training,True
+17824601-ebc0-4ac2-92a4-661531f7b143,Aid_Program_55,Littoral,Scholarship,True
+d2ceec89-c090-4670-afb9-288c1f82fafb,Aid_Program_28,Littoral,Scholarship,True
+98b47031-c814-4ebf-8bdd-0167b6f6dd62,Aid_Program_3,West,Infrastructure,True
+aed02211-7762-4c87-9f08-dcbbb379614d,Aid_Program_2,Far North,Teacher Training,False
+e568ee52-7f5f-4126-b63d-02610653600e,Aid_Program_8,Northwest,Teacher Training,False
+db226df0-7c56-4b2f-b451-dde81a3d5692,Aid_Program_17,South,Infrastructure,True
+95d12fee-c1fb-4f37-8b70-785df1fa5d67,Aid_Program_84,Far North,Scholarship,False
+d0e2a934-e13d-4244-ac04-c9375d40451f,Aid_Program_12,East,Infrastructure,False
+87c24e80-b298-4cf5-9a6c-68f37a698d8f,Aid_Program_13,Southwest,Teacher Training,True
+8085d7bf-0bc4-4b99-ad77-7b7f85f95eda,Aid_Program_62,South,Scholarship,True
+ee2a073a-d6bd-4500-968a-cfaaf78bb7ac,Aid_Program_76,Southwest,Teacher Training,False
+44696c00-82e8-45c9-88e9-cb09d164d14a,Aid_Program_58,East,Teacher Training,True
+ef6b5b41-7509-4f10-9682-c2272a401695,Aid_Program_2,East,Infrastructure,False
+7663f352-9ec3-4b1d-9e63-dbfb402c2f8b,Aid_Program_70,South,Scholarship,True
+e8531740-9741-42c6-9175-637717ee1d04,Aid_Program_90,Littoral,Scholarship,False
+0a244023-7684-4778-bec9-3062e80a0486,Aid_Program_50,Northwest,Infrastructure,False
+8bf5f212-41db-45a8-a163-a33e83d13696,Aid_Program_15,North,Teacher Training,True
+1e3ed8da-92a4-49cd-8586-da6ff94bf599,Aid_Program_42,Adamawa,Infrastructure,False
+f131d5b1-dd64-4e40-b362-e489f56ae130,Aid_Program_78,East,Infrastructure,False
+afb3af9f-391f-4e5b-9fb8-10a8e0a32de4,Aid_Program_74,Far North,Scholarship,False
+7efecd28-7ede-4e52-bd46-300cc65bf24e,Aid_Program_52,Northwest,Teacher Training,False
+89334b98-090f-4b3e-886f-055c0604e9a6,Aid_Program_72,North,Teacher Training,True
+5457d5f4-495e-40e9-afeb-c57142d24fb0,Aid_Program_34,West,Scholarship,True
+4d66165b-97e6-4228-964b-5b37c035a2ac,Aid_Program_3,North,Infrastructure,True
+e4daeeab-5fe1-4fc8-b96a-723b4d8c7fde,Aid_Program_96,Adamawa,Scholarship,True
+3ec8a67d-4f29-403c-b13c-1991b4550810,Aid_Program_59,West,Scholarship,True
+9f14c512-a841-4e75-8ba6-ef8f6c257f67,Aid_Program_47,West,Scholarship,True
+46411079-3a13-488b-ba40-71633e1085ce,Aid_Program_67,South,Teacher Training,True
+eb7d060b-3b60-44ca-b9c4-3628dab87382,Aid_Program_100,Far North,Infrastructure,True
+0d5832c7-ccff-4c4d-8fea-0ab1a8706cb9,Aid_Program_99,Centre,Infrastructure,True
+ec3bc001-b7ff-43ba-b509-339775af2814,Aid_Program_100,West,Infrastructure,True
+ddc7966a-f809-43c3-a1c9-9dd8fc55081a,Aid_Program_80,South,Scholarship,False
+c61c5635-28f3-4e4a-aefa-f8207fd8b57d,Aid_Program_4,Centre,Teacher Training,True
+3b005d40-7e43-4810-bdaf-91e012e20eb2,Aid_Program_50,Littoral,Infrastructure,True
+be755a54-ccab-4813-ad0d-ee555e47ba87,Aid_Program_45,North,Infrastructure,True
+f19d67b0-f1e3-4b33-be76-540627aa780c,Aid_Program_56,Littoral,Teacher Training,False
+a6728565-07b8-4d5a-b710-91aa23cdbe9f,Aid_Program_22,North,Infrastructure,False
+ac536474-370d-49ae-a871-53256b09f0e3,Aid_Program_73,Southwest,Scholarship,True
+5dd59d7e-d40b-42a6-b9a0-138d5685958f,Aid_Program_56,Far North,Scholarship,True
+fd164526-6391-4326-a7c1-ee06b54f8920,Aid_Program_25,East,Teacher Training,False
+20294e0f-b77c-4c73-b3e5-90e333ed14b4,Aid_Program_65,Far North,Teacher Training,True
+55b873e7-272c-41ba-b870-f03bfb1153d9,Aid_Program_47,Northwest,Infrastructure,True
+5002b07b-4e6d-4aad-88ee-7136d7bfc979,Aid_Program_86,Far North,Scholarship,False
+cc4d3705-f91f-4058-91b7-a456cf63c5ec,Aid_Program_79,North,Infrastructure,False
+f9db9098-3e5a-44d0-ad34-85453397a00b,Aid_Program_83,North,Teacher Training,False
+814666fe-c821-4c92-8e6a-000a6419578b,Aid_Program_30,Northwest,Scholarship,True
+491c4682-7d68-4ef4-8fe9-f8c71ac0cb8d,Aid_Program_52,South,Teacher Training,True
+7f584e25-6054-4e86-bb75-b4bd5723a450,Aid_Program_35,South,Infrastructure,True
+2a77e1f9-0bc0-4f65-aa46-7a876789b09f,Aid_Program_67,Far North,Infrastructure,True
+44fe0919-8711-4ee9-9567-0ba4093fa63d,Aid_Program_27,Far North,Infrastructure,True
+d7b8dba0-4d81-4a1c-b40e-91098b2c1e2c,Aid_Program_65,Far North,Teacher Training,False
+718e90d2-b140-4254-ba1d-241437d2b22e,Aid_Program_20,West,Infrastructure,True
+67d7f9d1-053d-4052-83ec-2f7ee7a21456,Aid_Program_28,Adamawa,Infrastructure,True
+2ecc685a-30ed-4a9f-81f7-1b57058468fc,Aid_Program_24,Centre,Scholarship,False
+7dc4e5db-d3bd-40a5-ac33-3c0b4bbe3658,Aid_Program_92,Southwest,Teacher Training,True
+70e659f8-1b68-40a1-9168-8985f54638ab,Aid_Program_18,West,Infrastructure,False
+5bb4b7cc-4e30-4b09-b3eb-556ddbf6104e,Aid_Program_17,Northwest,Teacher Training,True
+ae87ea6a-d24c-44e4-8700-d554cd473bc0,Aid_Program_90,North,Infrastructure,True
+8c97f24b-4b08-4a6e-9118-e6d69a97ef4a,Aid_Program_48,Far North,Teacher Training,False
+c3baf031-c56f-4c2d-99f4-d1a57c283f06,Aid_Program_50,Littoral,Infrastructure,False
+03d53bec-62e2-4134-9370-30bc154f2f0c,Aid_Program_59,Centre,Infrastructure,True
+d6e63206-2f08-4de6-967b-a0cf5a09465f,Aid_Program_78,Far North,Teacher Training,True
+3f62dc9a-a5db-41d3-8a90-8e960a778d8a,Aid_Program_16,Southwest,Infrastructure,False
+08d48bc4-6363-4cbe-b5fb-ed5b0dd741f9,Aid_Program_99,North,Teacher Training,False
+87205d87-ad03-4850-9e99-b46fcdc778a9,Aid_Program_32,East,Teacher Training,False
+7e11fe53-5776-4af6-9905-8b2eb8ecce9b,Aid_Program_64,Littoral,Infrastructure,True
+e3cdfd97-3e1b-4d51-a042-5a35f85d6e7a,Aid_Program_8,North,Teacher Training,False
+56a17d93-71cf-4daf-8a5d-319287686e80,Aid_Program_79,West,Teacher Training,True
+1b04c5c3-50ec-48c9-9f3a-ade64276c475,Aid_Program_74,Centre,Infrastructure,False
+bc78e25e-1376-4c4d-bc03-a8cd9aa530c4,Aid_Program_33,Southwest,Teacher Training,False
+53143a67-b5ed-48da-bc9a-dee13d519389,Aid_Program_89,Littoral,Teacher Training,False
+89136078-231f-4085-92ee-5b89d926e839,Aid_Program_25,Littoral,Infrastructure,False
+7c379e4b-eef3-424e-bb42-251a48478566,Aid_Program_71,Southwest,Infrastructure,False
+c221d857-2625-4412-ab83-1fa7f27d5ee5,Aid_Program_17,Southwest,Teacher Training,False
+1ea3bd59-f308-44e0-acfa-f1e5558f0010,Aid_Program_72,Far North,Scholarship,True
+8085e0d9-aa53-4d8c-b080-36b4e4966d0f,Aid_Program_50,South,Teacher Training,True
+e88efa94-cfdc-4bce-8475-ae444e678783,Aid_Program_57,Littoral,Infrastructure,False
+cbfa1839-60ac-48c0-8a6d-f9fe8140d83c,Aid_Program_86,West,Teacher Training,True
+c4f9e408-4adb-4eb1-9672-23e9f5d7564c,Aid_Program_16,North,Scholarship,True
+27c34f86-5c9d-4419-a08a-9fb7bb70ffc9,Aid_Program_70,West,Infrastructure,False
+3eb62804-9121-4ad3-948b-da763d142833,Aid_Program_44,North,Infrastructure,False
+1aa24a53-aa0c-43f7-accf-d8578e146acf,Aid_Program_78,Littoral,Infrastructure,True
+fabe5a4d-a8e5-4641-b99c-f59cf17bb89a,Aid_Program_51,Adamawa,Infrastructure,True
+864cfb36-2a86-49cf-bb5d-599500791309,Aid_Program_47,South,Scholarship,True
+97f92605-7dcd-4f14-8628-49785793606e,Aid_Program_83,Littoral,Infrastructure,True
+7519c1e9-8eb5-491d-b0f7-d72247a85b70,Aid_Program_99,Adamawa,Teacher Training,True
+95d8abfc-5f93-4821-a030-52046943f78c,Aid_Program_37,Far North,Teacher Training,True
+f26852ee-ce08-4755-b106-4b21faa313b3,Aid_Program_50,South,Scholarship,False
+758bc9b2-4288-4e4e-9e36-4815080cfc2f,Aid_Program_68,Far North,Teacher Training,True
+000f74bc-669a-438a-92e1-c3622cd98f5a,Aid_Program_65,West,Infrastructure,True
+f3c82aca-04a6-4180-bb84-5bc1ea7cde72,Aid_Program_82,East,Infrastructure,False
+aedf5c32-6457-49e6-8760-f72a6cb9babb,Aid_Program_4,Centre,Infrastructure,True
+c5135964-7f68-4216-9809-c807fe97a58f,Aid_Program_55,Adamawa,Infrastructure,True
+763c0807-dde1-4084-9e70-e56230c3901b,Aid_Program_84,West,Scholarship,True
+ab0cf98c-b896-4a6b-ba85-362e755892f6,Aid_Program_48,Adamawa,Scholarship,False
+1de8d534-430a-4259-82f1-1ffcd11b8203,Aid_Program_39,South,Teacher Training,True
+8d6b6ca8-57b4-4d9e-8fa5-1adab00c67e5,Aid_Program_97,Southwest,Infrastructure,True
+d568e69f-209e-4561-9cb5-266f481babd0,Aid_Program_63,Adamawa,Teacher Training,True
+62d908e1-0253-4954-a62b-51605d995ac1,Aid_Program_59,Far North,Infrastructure,False
+37775a02-61b4-4203-a8d4-0e30d3b0a8fe,Aid_Program_73,West,Teacher Training,False
+2a9f8b3d-3fac-4fd6-96b5-0de1710982f8,Aid_Program_94,Littoral,Scholarship,True
+74f63a1b-1ef0-4d2a-b59b-24d3dec8f7d5,Aid_Program_4,Northwest,Scholarship,False
+13ff6b98-18dd-4647-9558-47c1d2ad8736,Aid_Program_61,North,Teacher Training,False
+57e7a782-4783-454f-9a0f-ed03186b8db5,Aid_Program_82,Centre,Teacher Training,False
+e7b03acb-b47a-4324-8ad3-a1474d19120d,Aid_Program_47,Centre,Teacher Training,True
+3c043b64-b40e-4dcc-8066-a40d978686dc,Aid_Program_65,Centre,Scholarship,False
+ffdae21b-2122-46cf-a28d-7dfff0b71306,Aid_Program_73,Littoral,Infrastructure,False
+06303475-97b9-457e-adf3-b99105143eac,Aid_Program_7,Centre,Scholarship,False
+b5f2f6c5-b9a3-49fa-a6df-ceda2752767e,Aid_Program_92,Littoral,Infrastructure,True
+eeb17ee8-addc-4428-ad4f-32719518a70e,Aid_Program_45,Centre,Teacher Training,True
+9fd7fae2-ecd5-4564-b657-079c003ed9ad,Aid_Program_87,Northwest,Teacher Training,True
+75309cca-385c-483b-a88c-e2f4697e4709,Aid_Program_45,Centre,Scholarship,False
+fe462f11-9dd9-4348-a704-3b6dfe085798,Aid_Program_37,Southwest,Infrastructure,True
+5da6fa51-bdc8-44af-87cd-a526af37c241,Aid_Program_66,Northwest,Infrastructure,False
+502866d1-1f34-4122-9301-8280ca63f23c,Aid_Program_65,Adamawa,Infrastructure,True
+5103a50d-abe3-41e8-99c3-8ee1a11d21fa,Aid_Program_88,South,Infrastructure,True
+567ba63c-4aba-49c2-8d2b-5bd44a162a15,Aid_Program_73,West,Teacher Training,True
+02321afc-82d9-4ef6-aff1-0940cee34cc7,Aid_Program_23,West,Infrastructure,True
+c890860f-5ccc-4f0d-8ddc-c55ea7b0e8d0,Aid_Program_55,Adamawa,Teacher Training,True
+ef1d12cd-59ef-4249-8e32-d1f32182b8c0,Aid_Program_71,Far North,Infrastructure,False
+41e03648-71cc-4771-9f8f-89cb14b62c00,Aid_Program_23,South,Teacher Training,False
+673884c1-84e8-4624-9527-2b5c8b7ef367,Aid_Program_90,West,Infrastructure,True
+d7c3a6f9-f7e5-4c5f-becf-c9189f2bf273,Aid_Program_95,North,Infrastructure,True
+c95b431d-d7df-4aeb-9afb-e2edbe3e7945,Aid_Program_47,South,Teacher Training,False
+a8ac03de-a0b0-4251-9054-a6d3dfda14ba,Aid_Program_77,North,Scholarship,True
+20ebb9eb-0752-4cb9-b7c6-4d4de85af067,Aid_Program_78,East,Scholarship,True
+9e3c335c-146b-420c-80dd-99f7af6a08b8,Aid_Program_98,Littoral,Infrastructure,True
+b187fe4a-7536-44e2-835e-13895f525995,Aid_Program_78,South,Scholarship,False
+2e430253-bd94-4888-8dd7-b2c76fc744ff,Aid_Program_36,Northwest,Scholarship,True
+c7e41f9d-ac4e-4934-9951-70503ba73c61,Aid_Program_99,North,Teacher Training,False
+7648fd47-cd36-4818-83ab-378b6c8a0139,Aid_Program_93,Littoral,Infrastructure,True
+5ed5a781-d0d7-46c5-8009-f1002d919103,Aid_Program_34,Littoral,Infrastructure,True
+3216e2c2-a14f-4100-8f2b-db45cca2efb5,Aid_Program_35,Southwest,Teacher Training,False
+8f65bab8-5a5e-40d4-95cc-f925e891a337,Aid_Program_60,West,Infrastructure,False
+6f7277d7-183a-4dd5-967e-ff11a500921b,Aid_Program_24,Far North,Scholarship,False
+f49e78cb-2de0-449e-af74-528bbe566b55,Aid_Program_2,South,Infrastructure,True
+836ef729-04cc-4994-a6ad-9116b8a69f79,Aid_Program_71,West,Scholarship,False
+deb88556-4ebe-4980-92e6-5dbaeffccdce,Aid_Program_70,Adamawa,Teacher Training,True
+d720206a-e249-4a59-888a-d34fcbd9f115,Aid_Program_100,South,Teacher Training,True
+6c923f43-90ea-4546-b175-a65345de905b,Aid_Program_1,Southwest,Infrastructure,False
+04ce27f0-b174-452f-84b8-7fa46767c69e,Aid_Program_84,Centre,Teacher Training,False
+d92c2a4c-f989-4f24-a3b6-127168e5c70f,Aid_Program_7,South,Teacher Training,False
+83deb17a-480f-43f0-95c7-259b53f189c7,Aid_Program_60,West,Scholarship,False
+51b862ad-d7c3-49aa-8b4e-35c018efb9b1,Aid_Program_69,East,Teacher Training,True
+9a37715c-8b07-4902-985a-ffad1db4f05e,Aid_Program_13,Centre,Teacher Training,True
+710929e6-99dc-40c0-85fd-61a3972d9445,Aid_Program_86,Southwest,Infrastructure,False
+a13de672-e1a2-4d63-bfb5-d99575a5d9ff,Aid_Program_31,East,Scholarship,False
+15a52651-92d2-427b-9b01-126a269f9a3a,Aid_Program_85,West,Teacher Training,True
+8d5701eb-0632-46c9-9a08-32b55701dd22,Aid_Program_37,North,Scholarship,True
+f89bab30-1eb2-4d9a-962a-8cd4a4ce08a8,Aid_Program_86,West,Infrastructure,False
+1bec0fdc-b67a-4f3f-94df-f50c96ce7cac,Aid_Program_66,Northwest,Teacher Training,False
+3eaf67a2-7b44-46d3-a36c-919ea271c4d4,Aid_Program_37,South,Scholarship,False
+3e48386c-81c4-4c60-a478-bbd833a2beb5,Aid_Program_54,Northwest,Infrastructure,False
+cf3dc6bb-c06f-4148-88eb-4f78563c0c1f,Aid_Program_44,South,Teacher Training,True
+ceb706db-a756-4d67-8403-13af3b6d1c92,Aid_Program_83,Littoral,Infrastructure,False
+fd9c9406-2d95-4356-a808-6b379281b83f,Aid_Program_89,Littoral,Scholarship,True
+742e23f8-ee67-4c94-a55c-b992cf0a9e46,Aid_Program_94,Centre,Scholarship,False
+787b2e54-4ead-4560-b69b-4fb5847e6079,Aid_Program_67,South,Scholarship,False
+22c305e0-72cf-43dd-988a-94300ac1dbf9,Aid_Program_4,West,Teacher Training,True
+0636f89c-1819-47ee-bac5-91953f9b4b48,Aid_Program_98,West,Infrastructure,True
+5964715c-d2f6-4bb0-a8c1-27ecf762d017,Aid_Program_32,Southwest,Teacher Training,False
+494078b3-1951-46e9-badb-af82e15d0321,Aid_Program_98,Southwest,Infrastructure,False
+fe0dee85-7ae0-4c15-b14f-e199c45a8a1e,Aid_Program_73,Adamawa,Scholarship,True
+734296ae-15a6-4877-814a-003d67c1243d,Aid_Program_47,West,Scholarship,False
+a63668b5-da37-4500-b569-dbb9912c8867,Aid_Program_71,Littoral,Teacher Training,True
+dcccc8fa-c01d-4a3b-9a3a-da9c1e613884,Aid_Program_89,Adamawa,Infrastructure,False
+941d6f79-0328-4422-9377-d20d16526579,Aid_Program_67,Southwest,Infrastructure,False
+26a3dbaf-f892-487d-bb6e-9774d2737123,Aid_Program_3,Littoral,Infrastructure,False
+673105fa-094a-45c7-9a8e-0d41613767d9,Aid_Program_79,East,Teacher Training,True
+5d6fcc09-c9d8-4207-8ad1-f0112bf77dd2,Aid_Program_8,South,Infrastructure,True
+39d05efb-f6cb-4f42-94f7-ae9f5d0494b7,Aid_Program_64,Northwest,Scholarship,True
+8ca5ff2e-4255-4aea-aaf6-a8de9ac15407,Aid_Program_22,Northwest,Scholarship,False
+32c51fc1-0f2a-4373-826b-9557c3442f15,Aid_Program_62,East,Teacher Training,False
+b8e166bd-c3ac-48c8-8df3-aa431e037b5b,Aid_Program_82,Adamawa,Teacher Training,True
+73b24c1c-5953-4601-9f41-cf5d560ec9dc,Aid_Program_33,Southwest,Infrastructure,False
+262fac6c-701f-4566-af28-25dc72334e97,Aid_Program_100,West,Teacher Training,False
+75bf2020-5cad-495c-b32b-501224b24a35,Aid_Program_75,Littoral,Scholarship,True
+4d13ea39-dcf1-4601-8322-d6b95eca6050,Aid_Program_62,South,Teacher Training,False
+34b87ae8-8a3d-46dd-ac3b-99a75d23f76b,Aid_Program_11,Littoral,Teacher Training,True
+37aa0ac5-f20c-4231-9744-d5bd4bc99382,Aid_Program_78,Centre,Teacher Training,True
+a934caff-8757-4ec0-a374-58e46bb590b1,Aid_Program_76,Centre,Infrastructure,True
+4a1162d6-d11b-489f-8ed3-aa79684f04c7,Aid_Program_68,East,Scholarship,False
+f37c8fcc-d308-4948-9df8-81363a1bed33,Aid_Program_22,Littoral,Teacher Training,False
+f04f7294-ba7a-453d-9431-2f23872c59a7,Aid_Program_53,West,Infrastructure,False
+40513d23-028c-42b0-a668-0a0e078fc885,Aid_Program_13,North,Scholarship,False
+fca98e29-2a2b-40cd-8d42-7992db7b9b53,Aid_Program_51,Northwest,Scholarship,False
+7a3ce609-e2ab-41d2-8c5d-ee11f7d3b67f,Aid_Program_80,Centre,Teacher Training,True
+21b4bd01-e478-4cc8-bebb-881decde8cd8,Aid_Program_36,East,Teacher Training,True
+744c4073-2166-4d6c-a4b8-e2aebd7d74d6,Aid_Program_12,Southwest,Teacher Training,False
+41dc1620-9723-4a36-a930-f9765ac28eb2,Aid_Program_80,North,Teacher Training,False
+6851fc5e-ed5e-4485-8dee-5d1e922e98d5,Aid_Program_16,South,Teacher Training,False
+0085b164-1d61-4eae-bd4e-ff639f6ef6d9,Aid_Program_19,Centre,Teacher Training,True
+d2bd5c36-6e82-4c5e-a1fc-9e01c4087117,Aid_Program_46,Littoral,Scholarship,False
+49e3ea55-7bbf-4ed3-80eb-acbd7668478a,Aid_Program_85,West,Scholarship,False
+79182a89-bfc0-4173-be39-8f82bf5c7d1a,Aid_Program_85,Littoral,Infrastructure,False
+3ee1829b-7e49-4af5-b205-e172f445bae3,Aid_Program_8,North,Scholarship,True
+d17ea2ca-80e5-4a5c-9725-46e676a7c543,Aid_Program_43,East,Scholarship,True
+fbbeb4e3-5b2e-4eb4-9a7f-d5da945d91e3,Aid_Program_48,Adamawa,Scholarship,True
+0373f5b8-2c08-438a-9627-2243651a1f0c,Aid_Program_7,Southwest,Scholarship,True
+cb00ad5b-402b-4dfc-b254-bbcac0e85cac,Aid_Program_93,Northwest,Teacher Training,True
+3b676363-f2e4-451b-9951-4a7b03d28697,Aid_Program_44,Adamawa,Infrastructure,True
+9b9aff0e-bb61-4d4a-9b47-b4e7f56eeed4,Aid_Program_89,West,Teacher Training,True
+96be479e-b738-4305-a57b-6bfe8ce67df4,Aid_Program_60,East,Infrastructure,True
+992484be-9614-48ab-953d-7cf0e1985dc9,Aid_Program_93,Adamawa,Infrastructure,True
+f0686f75-3d02-496e-9988-0785cf364154,Aid_Program_32,Southwest,Infrastructure,False
+ba391a4a-881a-4870-9f63-a3a7bb017d0f,Aid_Program_22,East,Teacher Training,False
+d4a8aa3d-a846-44dc-9509-bddf6d593ad9,Aid_Program_1,Far North,Scholarship,True
+9411db5c-9063-4b78-bb48-f2a2be7e6aff,Aid_Program_1,Adamawa,Infrastructure,False
+e0f68b70-e9f1-45c5-8e20-98f3e96751c2,Aid_Program_51,Far North,Scholarship,False
+b9855111-05d7-4165-a83a-5d33efa6ec36,Aid_Program_17,Centre,Teacher Training,True
+8627dde8-5616-400a-a2d8-8287faf36cad,Aid_Program_11,North,Teacher Training,True
+14c4cb66-d8d0-4f06-91af-dd1d81adebc9,Aid_Program_5,North,Teacher Training,True
+cdf1c839-9a19-4540-95d0-d4ad298d75cc,Aid_Program_5,Southwest,Scholarship,False
+5cc15d80-02e0-46c7-b52d-ab41db2e128a,Aid_Program_24,South,Teacher Training,True
+b52d8d7d-1c8a-4c01-9d5c-9f90886a5137,Aid_Program_58,West,Scholarship,True
+293c8a04-8f9d-4d80-9654-8e00c949d8c8,Aid_Program_41,East,Teacher Training,False
+7ef97465-e4a0-4401-a9b0-1a620971dfde,Aid_Program_74,Northwest,Infrastructure,True
+da7c21f8-21d6-4196-b715-8b92cc311cc7,Aid_Program_48,North,Infrastructure,True
+394e74e7-4987-4943-80ef-1b7cf2c48852,Aid_Program_25,Southwest,Infrastructure,True
+ef745be0-1fa1-4e27-bca1-be48a77f5afd,Aid_Program_79,West,Teacher Training,True
+68e84477-9858-4ab1-bad0-8aad3306bed4,Aid_Program_55,Southwest,Teacher Training,True
+088e9d28-32f0-4217-aa0f-89295ada47c5,Aid_Program_99,North,Infrastructure,False
+59e5184b-5053-4e36-aa01-e7aa1a40bb2a,Aid_Program_17,Southwest,Infrastructure,False
+ffe831b6-0ab6-49ec-a25d-d61c86aa1a84,Aid_Program_82,Adamawa,Teacher Training,False
+6c9d99b6-7b8f-40cc-9262-7508402d8dde,Aid_Program_100,West,Teacher Training,True
+ea86b3f6-a4f9-47d0-a2e3-48652af45769,Aid_Program_32,Littoral,Scholarship,False
+03b57a11-5e86-4f72-804e-d391d849025f,Aid_Program_55,Littoral,Scholarship,False
+dc4edeb2-9eda-40ad-b1d1-1272a9cbcc5d,Aid_Program_89,Centre,Scholarship,False
+904ad077-1eec-4164-897e-cddc9b6f63de,Aid_Program_13,West,Scholarship,False
+0a1f81c9-6146-4725-bb77-82bfc6980bce,Aid_Program_1,Far North,Scholarship,True
+a049e476-1417-4852-898b-6107ce3d1886,Aid_Program_94,Littoral,Scholarship,True
+5aa70faf-2907-4842-8bdb-dc85a3128ea7,Aid_Program_54,Southwest,Teacher Training,False
+e5199e33-e8ab-41ed-a0ba-fa327744a064,Aid_Program_24,Far North,Teacher Training,True
+a7fe8b28-dea4-4f6f-945c-d5963acff059,Aid_Program_89,East,Teacher Training,False
+c5b6ff02-a7ca-48a9-bf77-103593db6559,Aid_Program_93,Southwest,Infrastructure,True
+0fc35a49-0a84-4081-87b1-e86ede7afcc2,Aid_Program_92,East,Infrastructure,False
+75d60e22-79a9-44b3-b43e-f758b1d9b67e,Aid_Program_9,East,Teacher Training,False
+0d9657e5-f07f-4df1-adef-32e242723600,Aid_Program_60,Southwest,Infrastructure,False
+30c5d6a4-dc7b-412d-a235-e71906d0b097,Aid_Program_32,Centre,Infrastructure,True
+5b26a311-9f08-4222-a8c2-c8ae4f0d3821,Aid_Program_55,Northwest,Teacher Training,True
+85474ecc-ff9f-4990-8667-a1d7aa920c8c,Aid_Program_71,Adamawa,Teacher Training,False
+367de6fd-f86d-4706-8516-70709b8e61a5,Aid_Program_55,North,Scholarship,False
+a922c900-56dc-4553-8052-fcb67d3d6ea3,Aid_Program_33,East,Infrastructure,True
+3569082a-25f7-4327-acb6-4973da1ae564,Aid_Program_54,Far North,Infrastructure,False
+fe86e738-8635-425e-a1c7-bac2e43d6382,Aid_Program_49,West,Scholarship,True
+9d512ebd-2771-49a1-83fa-7c8cc42176cf,Aid_Program_75,South,Teacher Training,False
+02958793-b000-4eeb-b29d-c924f3a04779,Aid_Program_94,East,Scholarship,True
+d568d4fc-8221-4d56-905d-c62782801a70,Aid_Program_65,Far North,Teacher Training,False
+80c6904a-3f4f-473a-9f90-09c834102d0e,Aid_Program_51,Adamawa,Infrastructure,True
+46831da3-1f87-4e49-943b-3b7aef412dcc,Aid_Program_60,Southwest,Infrastructure,False
+02999a70-7ca3-42ba-adb0-cc470beb82f3,Aid_Program_89,West,Teacher Training,False
+be217f10-493a-437c-a3df-f39d20b25605,Aid_Program_33,Southwest,Infrastructure,False
+c7f087e0-e0f6-4ad7-a119-cad500fe297f,Aid_Program_16,Littoral,Scholarship,True
+47990bbd-6a6c-4428-bb33-679f786127ee,Aid_Program_61,South,Infrastructure,False
+a789e475-497e-47e4-9caf-548e8f5bb1cf,Aid_Program_29,Centre,Infrastructure,True
+0edd0c94-5174-4255-bd20-5a4319442112,Aid_Program_15,Southwest,Infrastructure,False
+6b6d985a-2e17-4785-b3f7-b63d7f257d0a,Aid_Program_63,Northwest,Infrastructure,False
+bd0c7c5a-5461-4e90-a6f7-10882a8842e7,Aid_Program_7,Southwest,Infrastructure,False
+366d517d-8a6d-481f-8771-c455729505f8,Aid_Program_58,South,Scholarship,False
+4643e6a7-f7f4-4296-bffd-9b716aef85ac,Aid_Program_95,Far North,Infrastructure,True
+c4e48f8a-c309-479d-aec7-6b97653fde16,Aid_Program_39,Centre,Scholarship,True
+d0a43525-b904-4118-8b56-dcaa163d163c,Aid_Program_22,East,Scholarship,True
+1a2b4f33-9653-4e85-b035-936d75d9c1a5,Aid_Program_63,East,Scholarship,False
+ffd52ad1-765e-406c-bd95-154ba055fce1,Aid_Program_46,Far North,Scholarship,False
+7d2d7edf-5e05-4c26-bbc3-42f80278afb2,Aid_Program_72,East,Teacher Training,False
+bb46c76d-5d2b-4415-9c90-a44fde01d6e9,Aid_Program_62,Littoral,Teacher Training,False
+3188ae56-2cf8-4358-b3a9-5403b6233ebe,Aid_Program_43,South,Scholarship,False
+3549b503-55fa-49d9-89df-551fc79fc5d9,Aid_Program_86,Centre,Teacher Training,True
+98189a07-2d0b-440a-87e3-6cc788cd8d5b,Aid_Program_77,Northwest,Teacher Training,False
+2efbe1dd-b46b-4945-9e1b-0a2dd6637f7b,Aid_Program_72,Southwest,Scholarship,False
+ef897e9d-9c6e-45d2-8337-30480f7a2c90,Aid_Program_66,Far North,Infrastructure,True
+1450eb6f-3c15-4f06-83e5-87bbd129d50f,Aid_Program_27,Far North,Scholarship,True
+9c948d48-6043-45eb-992c-fb5b1365c1a9,Aid_Program_73,South,Scholarship,False
+d157a54b-0b32-4231-a8f8-907e8f96951b,Aid_Program_47,South,Infrastructure,False
+749c841f-fd28-4e5f-af4b-bcd11278d653,Aid_Program_54,Far North,Scholarship,True
+74272ed4-1a9c-40e6-8e3d-1e7e1d60fa8f,Aid_Program_6,Southwest,Scholarship,False
+bc18b7e2-aa2a-4035-b5a7-792352d6ff40,Aid_Program_76,Littoral,Scholarship,False
+074bcd8f-d0ea-470a-9507-90d59d43bf16,Aid_Program_96,Southwest,Teacher Training,False
+ea0f64ec-a025-47f1-986b-87c571126b00,Aid_Program_84,Northwest,Infrastructure,True
+b7d92b89-2489-4630-b04c-584089ec0fee,Aid_Program_72,South,Infrastructure,False
+f24856f8-94ef-421a-a8ff-25fa5e5907d8,Aid_Program_26,East,Scholarship,True
+7c8f201c-a956-417b-90de-a1f5118f6e05,Aid_Program_48,West,Infrastructure,False
+a1485e8d-293a-4fdc-8958-748422bcc4b2,Aid_Program_43,South,Scholarship,False
+a73100e8-48a3-4928-9587-630cef150a61,Aid_Program_46,South,Teacher Training,False
+3c618a77-cf21-467d-9afa-cb83d6400946,Aid_Program_95,Littoral,Infrastructure,False
+00e8b9c1-72c2-40cb-982a-bc75c863460a,Aid_Program_83,South,Infrastructure,False
+6a73acf4-5921-4d89-b277-7ca5629ce9ed,Aid_Program_1,Far North,Teacher Training,False
+1ff64792-43f8-4592-bb9c-db3a4ba812de,Aid_Program_74,North,Teacher Training,True
+9f426797-fe74-4333-8aef-2f86723c855f,Aid_Program_77,Littoral,Infrastructure,True
+ebb42dbc-8985-4103-ab40-7c57be165f63,Aid_Program_59,Littoral,Teacher Training,False
+e57bfe84-0b65-44f4-ae49-64f032c33c27,Aid_Program_23,North,Infrastructure,False
+7593bf79-4c8d-422f-83b2-9b80bc39c735,Aid_Program_22,North,Infrastructure,True
+0262c4cc-11d8-48a5-aeb3-bea79fd364aa,Aid_Program_80,South,Teacher Training,False
+e1c52219-38db-4ee8-a671-4896337f107d,Aid_Program_58,Far North,Infrastructure,True
+60155951-82f2-411e-998d-0ac628bd5353,Aid_Program_74,South,Infrastructure,False
+a7d2b1ad-0494-41ef-9556-8b40e9c801e1,Aid_Program_24,West,Scholarship,True
+006620ef-c838-4dd6-9b62-bb74f1e6a618,Aid_Program_46,Centre,Scholarship,False
+b6f2c7f7-e6c9-411c-a988-2dd01efadc3b,Aid_Program_63,Adamawa,Teacher Training,True
+8d74df77-36cc-46bb-a198-0d466ac380e5,Aid_Program_34,West,Infrastructure,True
+8fe956c8-023a-4a57-ba3a-67f290c8c701,Aid_Program_22,Northwest,Teacher Training,True
+b45fff78-ad66-4747-9a94-23ba70e66cd8,Aid_Program_94,Far North,Teacher Training,False
+2af36edf-a372-4cfa-b856-c9d7d886b93d,Aid_Program_19,Littoral,Infrastructure,True
+b2ca791b-f1b3-49e7-8221-253cefca2239,Aid_Program_59,Northwest,Infrastructure,False
+5363eaf6-284c-4519-972b-ab2af32b2619,Aid_Program_19,Littoral,Teacher Training,False
+9a1d51b6-828a-4d66-883b-417b777c8751,Aid_Program_15,South,Scholarship,False
+ce08a3e5-7e64-447e-8900-88992ce98fb0,Aid_Program_89,Southwest,Infrastructure,False
+32c034ad-e69a-4ae2-9bed-730b87b6886a,Aid_Program_1,East,Infrastructure,False
+aa8c9a8d-c6c7-4355-b9ed-74d8db4efd1f,Aid_Program_1,Adamawa,Scholarship,True
+8c0b3c7b-4c43-4ca9-b8d9-922fe73909f9,Aid_Program_33,East,Scholarship,True
+187c0482-f5d7-4c27-83a2-ea5838cd10be,Aid_Program_52,Adamawa,Infrastructure,True
+b550d074-e445-4cbc-831e-d16838f800ce,Aid_Program_62,Adamawa,Scholarship,True
+7fce2ed5-f5ea-48f4-b381-18b7585b0b24,Aid_Program_48,East,Infrastructure,True
+daad4ad1-1021-4436-b4f0-04d2c2d66aaf,Aid_Program_57,West,Scholarship,False
+232a8c93-3ea8-49c2-b4cd-7c4d3fd86806,Aid_Program_46,Adamawa,Infrastructure,False
+ebbe678a-c7bb-480c-b517-157f493a9aa9,Aid_Program_72,Centre,Teacher Training,True
+1ac52b8e-b071-41b5-bbea-7c34d3f5e542,Aid_Program_36,Southwest,Scholarship,True
+2edb05cf-a72d-4d70-919c-28884468861e,Aid_Program_35,West,Scholarship,False
+4c970b81-5e2a-4deb-b912-4a6b61a204da,Aid_Program_96,Northwest,Infrastructure,True
+ea644961-161d-47f8-8c67-d24efd487d33,Aid_Program_76,Centre,Infrastructure,False
+208c189a-c793-4cfd-8d56-09b6f9cdd45e,Aid_Program_33,Littoral,Infrastructure,False
+46d25a25-1a86-4cb9-95a2-cd6b3028b392,Aid_Program_86,North,Teacher Training,False
+042857a9-22bd-4c14-ab2a-4c0b37dea331,Aid_Program_19,Centre,Teacher Training,True
+0454a8e5-13c3-46d6-aa6e-f2481cef3c8d,Aid_Program_40,Littoral,Infrastructure,False
+f566e702-768d-4da9-9236-3ad66e7237f2,Aid_Program_22,Adamawa,Scholarship,True
+bc36c273-6fa8-44d7-a1be-6fbbc71d52b6,Aid_Program_93,Adamawa,Teacher Training,True
+8eec3429-8eb9-4c67-96ae-7ba7b89e76e0,Aid_Program_57,Northwest,Teacher Training,False
+0ab20975-06cc-4259-bc15-fa321e41bc18,Aid_Program_14,Littoral,Scholarship,False
+02d00a81-eecb-4b7d-bd9c-8c119fe79bd5,Aid_Program_34,West,Infrastructure,False
+9cab9bbb-5bc3-4a03-bfa8-7cc29e98e968,Aid_Program_73,Far North,Infrastructure,False
+09829b9e-8c56-4baf-a9b0-bd0acef2a919,Aid_Program_1,West,Teacher Training,True
+d0c3edf4-00a2-4a73-99ee-52cc8319623a,Aid_Program_19,Littoral,Teacher Training,False
+87f64734-72f2-4a97-9dfc-4bdcfba26d33,Aid_Program_2,Centre,Teacher Training,False
+30c12a61-e659-4483-a24a-a10d708d9e55,Aid_Program_7,Adamawa,Scholarship,False
+500640cb-c2a9-47b6-b2f2-6dc5ac380c6a,Aid_Program_40,Littoral,Teacher Training,False
+7d293dc9-c552-4b63-8a7c-9edda3cf788b,Aid_Program_48,South,Scholarship,True
+5242ca98-28e3-45b9-b3b5-c80083cad9b9,Aid_Program_23,Southwest,Infrastructure,False
+9ac9f74d-0525-468d-bcc5-45c79023f8aa,Aid_Program_99,Littoral,Infrastructure,True
+60f44ad9-f41f-4dba-a42a-7fe0e1961c78,Aid_Program_76,Littoral,Teacher Training,True
+28d085d2-0ca4-4658-aa56-1f7d350fe84f,Aid_Program_71,Northwest,Teacher Training,False
+27f431b8-856f-46c5-b02e-c0e95efae7a2,Aid_Program_57,South,Scholarship,True
+09c9e536-3d2f-4550-a3e7-72eabe121f04,Aid_Program_94,Littoral,Scholarship,False
+f56e2bfe-f52a-4cc9-9ae9-d6758609459d,Aid_Program_38,Centre,Scholarship,False
+83ec0d89-ceec-49ff-b1f9-5befead9924e,Aid_Program_82,Northwest,Teacher Training,False
+1f651442-ceab-4c55-9592-38326898c4a8,Aid_Program_86,Littoral,Scholarship,True
+6f1f0d13-f9e1-4557-b505-c99d31ec0ea6,Aid_Program_86,Southwest,Infrastructure,False
+4246ddc2-45ce-480f-b81c-7d5230817de6,Aid_Program_48,Southwest,Teacher Training,False
+a0eea484-aac9-407e-94f0-a5166eaf0ee9,Aid_Program_69,West,Infrastructure,False
+1da9165b-dbb8-4d8b-9152-4066848a3c35,Aid_Program_94,Far North,Teacher Training,False
+cb917692-b469-4f42-a870-ea32ed1b41e8,Aid_Program_22,Littoral,Infrastructure,True
+b82a0825-5f8e-4929-b3b3-29025215ea2c,Aid_Program_39,Far North,Teacher Training,False
+9a5c65af-48f5-46cc-8910-1d9deb33846f,Aid_Program_63,Littoral,Infrastructure,False
+d7c3d0bd-6029-43a8-87a8-37a16d1fc33e,Aid_Program_86,Adamawa,Infrastructure,True
+25b2bfc4-b6c3-45b9-bbd6-ba656b52581d,Aid_Program_47,West,Teacher Training,True
+c8a5c907-a041-4fc5-b9cf-20d2620f9de7,Aid_Program_14,Northwest,Teacher Training,False
+ca450775-b2f4-432e-b9d4-006b6a54271d,Aid_Program_63,East,Teacher Training,True
+65ee0ec7-d71a-4582-8365-9d2e7c74c43e,Aid_Program_59,South,Scholarship,True
+13c24b3d-2d8c-4ba8-abb0-657f42e832f4,Aid_Program_88,Adamawa,Infrastructure,True
+444c1880-1ecd-47ea-96ca-85816615fde0,Aid_Program_36,Littoral,Infrastructure,True
+2cb54335-3559-4289-aa52-814d83029719,Aid_Program_47,West,Infrastructure,False
+f2dbd6d5-0ff3-47f2-a4dd-f0f6fce703f4,Aid_Program_88,East,Infrastructure,True
+2502e24e-cdf6-44f5-927f-48b656446601,Aid_Program_96,Littoral,Infrastructure,False
+fb6184a6-f868-456a-9376-7ee0c779b993,Aid_Program_96,Northwest,Teacher Training,True
+b0c7cf92-b354-4a58-b616-66baa6abea16,Aid_Program_24,Centre,Teacher Training,False
+23d44a1c-580b-4bf0-b7e2-f03063ba51f8,Aid_Program_11,North,Scholarship,True
+4f699927-f2c4-4508-a653-aa671be2711c,Aid_Program_25,Southwest,Scholarship,False
+ca7b21c2-797f-4d05-84b3-075091824285,Aid_Program_82,Littoral,Scholarship,False
+bbc1978e-9b44-477c-8a88-f7b18bda385e,Aid_Program_55,South,Scholarship,False
+4e7138b8-3c1d-496c-8d19-4507953c8f7c,Aid_Program_55,South,Infrastructure,False
+1803d1c2-0479-477c-b384-4688234b46ee,Aid_Program_69,Northwest,Infrastructure,False
+1db806ea-a132-41dc-9de8-a0d39f956e1f,Aid_Program_6,South,Infrastructure,False
+3f46cfb6-fedb-4b3f-b476-943550d12a86,Aid_Program_89,South,Scholarship,True
+4ab2c365-e2b4-4062-985d-ef65ac7a6e13,Aid_Program_87,East,Teacher Training,False
+083cdf43-2c9d-4d23-aea0-090102d182a0,Aid_Program_89,Littoral,Infrastructure,True
+3b87bac5-1ac1-4530-bb85-ce78605f8778,Aid_Program_3,South,Teacher Training,True
+5c46ec9f-a155-404e-abe8-bcf9c1c48fc1,Aid_Program_21,West,Scholarship,False
+a24d8dcc-eb83-47c6-a8ba-6f8df104546d,Aid_Program_66,North,Scholarship,True
+97ba51f1-d46d-45d6-970b-d34741ab703a,Aid_Program_20,Adamawa,Scholarship,True
+c1689eec-9dcd-4de6-bbb7-5d1ac0149c20,Aid_Program_57,Littoral,Infrastructure,False
+7d2df0d1-c90a-498e-9997-a1f4dac59669,Aid_Program_14,Far North,Teacher Training,False
+dbc1850a-1124-4560-b032-eb307ac09fe8,Aid_Program_56,Southwest,Teacher Training,False
+45df8cd7-9e52-497a-9920-01099b44cc65,Aid_Program_47,Littoral,Scholarship,True
+d8113d80-4da6-43ac-8184-e699633de354,Aid_Program_96,Northwest,Infrastructure,True
+af5a78e3-ba35-4dd4-9851-bde12ed92db5,Aid_Program_54,Far North,Scholarship,True
+2cca4521-adaa-4031-8872-e0b1a41f27ae,Aid_Program_47,Southwest,Infrastructure,True
+a347ce83-4cca-4508-b863-64c37e2862ac,Aid_Program_89,South,Teacher Training,True
+edf5e293-960f-4547-b71f-ddd7fe8ffbe4,Aid_Program_56,Centre,Scholarship,True
+bfe1b078-f7a1-4a82-a592-03462a7a674c,Aid_Program_73,West,Infrastructure,True
+1309328e-2080-44f6-a14a-47893bc0e32d,Aid_Program_93,South,Teacher Training,True
+a1867f77-2fbe-4d9d-aa1e-461d03f05ecb,Aid_Program_69,North,Scholarship,True
+f5c4ef62-7230-4742-84c7-944ef93c9e0d,Aid_Program_89,East,Teacher Training,False
+ca891fdf-6516-47a7-a484-ad0e72cd1e52,Aid_Program_55,South,Teacher Training,True
+f1315904-2396-44c3-85d0-fb4ab8135a71,Aid_Program_41,Centre,Teacher Training,True
+0b5cbe29-d6ab-4098-b739-98210e88b319,Aid_Program_32,Northwest,Scholarship,False
+60821fa0-d4fe-4c25-842e-991a8e53221e,Aid_Program_55,Littoral,Infrastructure,True
+e2ffd31c-301b-476a-889b-fa05fa87381c,Aid_Program_14,North,Infrastructure,True
+0399bd82-47fd-46f0-b04d-de89b8a8dbfa,Aid_Program_88,West,Scholarship,False
+bb6d20a1-da80-466d-9cce-c983d5fd7ec2,Aid_Program_67,Southwest,Scholarship,False
+f896bc99-1628-434c-a1f6-dad34a5e9477,Aid_Program_77,East,Infrastructure,True
+e6932179-64ee-4d1a-b7aa-8de62944a05f,Aid_Program_8,Adamawa,Infrastructure,False
+d92a20a2-1a45-4ef1-964e-2bc368a2a8ea,Aid_Program_11,Littoral,Scholarship,False
+06a6314a-2831-4fff-808d-f6acb6b58430,Aid_Program_93,Far North,Scholarship,True
+09b98032-8695-4037-ab98-817a934b5202,Aid_Program_66,Littoral,Scholarship,True
+83af7cac-4ed7-4834-a541-a18d20f7320e,Aid_Program_10,West,Teacher Training,False
+61e22c9e-0479-49a0-a863-672d41342a85,Aid_Program_72,Littoral,Teacher Training,False
+a6c48542-c2c6-47df-a270-a1a0499ab7b4,Aid_Program_88,East,Teacher Training,True
+b8fcf91d-a455-4586-aac9-80384a029a7e,Aid_Program_68,West,Teacher Training,True
+928ae606-b7fe-4d88-ae1e-408696f7bdb8,Aid_Program_71,Far North,Infrastructure,True
+5ee5f77e-00fe-4efa-af5e-8dd0d155d29b,Aid_Program_82,Northwest,Infrastructure,True
+7452600b-7814-4dc9-b363-ba2e5acd88d4,Aid_Program_78,Southwest,Teacher Training,False
+f5a7f35e-5d09-437c-a4b4-e47bec1a1291,Aid_Program_24,Adamawa,Teacher Training,False
+249e1793-b9ae-47a5-b122-4c89b6d381e7,Aid_Program_68,Far North,Scholarship,True
+1f560055-2218-4a78-9d87-274bc13321d0,Aid_Program_97,East,Teacher Training,False
+82bc40b4-99ab-4134-90a2-5dd452867a8a,Aid_Program_69,Adamawa,Scholarship,True
+d086dbd8-44e4-4694-a2c2-247b175bbcb1,Aid_Program_90,North,Scholarship,False
+5d09c30e-dda0-4c6b-bd6d-431d3d264171,Aid_Program_97,East,Infrastructure,False
+ebb89bd0-e292-4db2-9b61-4f8b512861b2,Aid_Program_4,Adamawa,Scholarship,True
+285ed435-60e0-42c7-bb3b-168aa7647b23,Aid_Program_18,South,Infrastructure,False
+bc141e56-1baa-4f8e-8206-d1630f676636,Aid_Program_20,North,Scholarship,False
+cd38ad99-2c63-4e54-8fdb-ecf97eff1435,Aid_Program_15,North,Scholarship,False
+53a2b9de-5417-495d-b102-d137b1951489,Aid_Program_24,South,Scholarship,False
+cfc1ff0f-3943-4aca-a34b-d739f0a12338,Aid_Program_82,Adamawa,Infrastructure,True
+3ef88633-0cfd-4615-ab2f-c2a31eaacc54,Aid_Program_62,Centre,Infrastructure,True
+87032835-6d4a-4abf-ac18-77f58db0c608,Aid_Program_73,West,Infrastructure,True
+ba12de55-6127-464d-b6fb-aeb1a00d6b98,Aid_Program_58,Southwest,Teacher Training,True
+8707a54e-f6a2-496e-a166-acb8f396563d,Aid_Program_91,Southwest,Teacher Training,True
+ac7a3c58-d0e2-4151-a428-5b4555a43ab0,Aid_Program_59,North,Infrastructure,True
+cf8a8da8-5a4e-42ef-9e95-11c7359c9261,Aid_Program_89,North,Teacher Training,False
+9d979363-0841-4df0-b5f8-e1c9530bb40b,Aid_Program_2,Northwest,Infrastructure,True
+3c416c2b-0e27-4e8d-a7f8-6669787a7c5b,Aid_Program_25,Far North,Infrastructure,False
+c096f47b-da2e-4738-a00d-06e604aad9c8,Aid_Program_93,Centre,Infrastructure,True
+c1230310-5210-4716-8af5-8581cf08fce7,Aid_Program_59,Southwest,Teacher Training,True
+a06d9618-eb62-42ce-84e6-ec70c9bff8c7,Aid_Program_62,North,Teacher Training,False
+d93316f3-9125-4c6a-84ba-068990f33122,Aid_Program_81,West,Infrastructure,False
+99e2d131-7880-4192-8d19-df0a49cfa3c9,Aid_Program_87,Southwest,Infrastructure,False
+e09bb6ce-796b-440a-889b-cb1a8e3abaee,Aid_Program_44,Southwest,Teacher Training,False
+fe22d5a6-13bc-43e6-9164-a8bbf243aa1f,Aid_Program_42,Northwest,Teacher Training,False
+bb566688-f13a-4df3-b061-bfd592800027,Aid_Program_26,Littoral,Teacher Training,False
+029faa08-1c0d-4724-8433-941ec14c981f,Aid_Program_86,Northwest,Teacher Training,False
+922909cd-64d9-4c20-b5fa-10ecd8835fc0,Aid_Program_37,East,Infrastructure,False
+dab5f452-a8a2-4dab-ad1f-a866e5032be3,Aid_Program_31,North,Scholarship,False
+35d87639-9f98-4f22-9ca7-f2305b5e0309,Aid_Program_74,Northwest,Scholarship,True
+180884d7-9153-42b7-a22f-ec86b88d4244,Aid_Program_50,Far North,Scholarship,True
+c1517b7c-08d4-4344-8b06-3f7d0a6ebc73,Aid_Program_36,Centre,Scholarship,True
+f9c481a6-b039-4408-923b-22a000182f2f,Aid_Program_19,West,Infrastructure,True
+270b4aca-13a7-4742-8cda-b33aa528dfb1,Aid_Program_47,Littoral,Infrastructure,False
+c23d3ca4-ece5-4321-be2e-84e51dd58040,Aid_Program_62,Adamawa,Infrastructure,False
+d6a2fa04-1d7f-46a5-8428-358f7431fbc0,Aid_Program_85,Far North,Infrastructure,False
+1853f425-1ff4-46cb-9709-da6e8db38652,Aid_Program_84,Northwest,Teacher Training,False
+e4b12ef0-ce43-4b9f-820c-f65934272cd8,Aid_Program_92,North,Infrastructure,True
+dd4c4b2b-8793-4ce5-9526-f576c12e19eb,Aid_Program_60,Centre,Scholarship,False
+e2eb5eb9-1536-4d72-824c-36177004d369,Aid_Program_49,Northwest,Teacher Training,True
+becf4855-dbc4-4354-b958-0c0653567d6a,Aid_Program_68,Southwest,Scholarship,True
+e8c0aa48-b008-4b81-b2c8-cd835f7749a0,Aid_Program_74,Centre,Infrastructure,True
+0747eab2-0daa-453d-aafc-d179ad990360,Aid_Program_97,North,Scholarship,False
+35f5b4bd-15b5-4c69-8f98-86064c75bdbb,Aid_Program_8,Centre,Infrastructure,False
+c7bb479a-24cb-4ae9-98cb-5afc9f55b804,Aid_Program_8,Centre,Scholarship,False
+9efcfb04-5182-4c61-bf9c-7bbcf7f5f7cb,Aid_Program_76,West,Scholarship,False
+ed089398-0113-4aa5-9790-7180691be5a6,Aid_Program_2,Far North,Infrastructure,False
+923e2559-0bd8-4907-871c-1168e3f7fe20,Aid_Program_92,North,Teacher Training,False
+6cb60c44-e02a-4bbe-aa8c-8b271f2b5e21,Aid_Program_10,East,Infrastructure,True
+7e7c8509-8cfa-4cc1-8b95-4f4874894d09,Aid_Program_41,Southwest,Teacher Training,True
+32f0eace-3beb-41b6-99ef-277c700ee624,Aid_Program_66,Southwest,Scholarship,False
+f2af8635-2a81-4409-9a62-fecb292f3e23,Aid_Program_70,Northwest,Scholarship,False
+df31b3a6-5bb4-4c29-b5df-d6810b175645,Aid_Program_49,East,Teacher Training,True
+31aa1e77-ce33-41dc-a52a-e51efee95859,Aid_Program_54,Far North,Infrastructure,True
+bbd80bf4-b980-4e47-9f3a-a7dce3f88ede,Aid_Program_81,Northwest,Teacher Training,True
+9075cd5d-b88e-42ab-b9c3-9132bb40ead5,Aid_Program_70,Adamawa,Infrastructure,False
+31d6c82e-078b-471b-b1bf-4e16939f3efd,Aid_Program_51,East,Teacher Training,True
+0bf28138-97f2-4769-8edb-6fbf8290ec48,Aid_Program_85,Northwest,Teacher Training,True
+3bf878b8-9474-4667-8afb-f11515669c61,Aid_Program_49,Far North,Teacher Training,False
+12dacf2e-9ad7-43bf-9372-0018bc1a0a3e,Aid_Program_67,Southwest,Infrastructure,False
+d0fb1930-f106-4b37-8b2a-d8f648706f8d,Aid_Program_25,West,Teacher Training,False
+4b769e84-ac0c-4b5c-bde2-30bd264cab7a,Aid_Program_24,Southwest,Teacher Training,False
+7d8e3f97-41fc-45f5-bee5-ba9b0945e07e,Aid_Program_35,Far North,Scholarship,True
+72bd74c5-ebe1-4c4a-ba2a-f459be2baeca,Aid_Program_90,Littoral,Teacher Training,True
+e76b88c9-4260-4d55-b541-1c06bab0ea06,Aid_Program_91,Adamawa,Scholarship,True
+eda78a97-dde2-4bd8-9afb-725e4d127d79,Aid_Program_6,Northwest,Scholarship,False
+46c16d70-ac7e-41ed-bad2-f3f7b55f7b6b,Aid_Program_88,West,Teacher Training,False
+c462ae32-366a-4ea7-a796-92d97004e3ce,Aid_Program_41,North,Scholarship,True
+ee8af68a-8928-4f23-aacc-abd881e1c547,Aid_Program_71,East,Infrastructure,True
+b91133fc-50f1-4681-8cdb-1e64a86f6e8a,Aid_Program_74,Far North,Scholarship,True
+478f5558-9758-4a80-bfa9-f23e185c74a1,Aid_Program_83,Adamawa,Teacher Training,True
+a791e82e-5823-4552-91b5-f42546138d13,Aid_Program_23,South,Infrastructure,False
+371c901e-23b4-4ffd-963e-bf232ec0b9a7,Aid_Program_3,Adamawa,Infrastructure,False
+dab81af2-56e2-4559-8599-7f69d9513de4,Aid_Program_53,South,Scholarship,False
+99c47662-edef-4670-be48-097e40b07c03,Aid_Program_60,South,Teacher Training,True
+2ee7938b-a179-4f67-b3b7-705f2a0fe037,Aid_Program_16,Centre,Infrastructure,True
+8a920668-2f1b-402d-a5be-c095135b2d40,Aid_Program_31,Littoral,Scholarship,False
+501faf53-d691-4e3c-96cb-e61e073ae2e8,Aid_Program_91,Northwest,Teacher Training,False
+c2bb5de5-1c24-45c5-940a-cce7f7b5c40b,Aid_Program_32,North,Infrastructure,True
+73748daf-d35a-48c5-93b6-70b8ae7137c7,Aid_Program_41,South,Scholarship,True
+fb101a19-2284-46fc-9ced-bfd1c14223f6,Aid_Program_60,West,Infrastructure,True
+98f34d7f-662b-4ede-8858-36c5a671f2a8,Aid_Program_4,East,Teacher Training,False
+ff1d0463-ec63-4d9a-ba60-23093a4ac6c9,Aid_Program_55,Southwest,Scholarship,False
+b2f399b0-a5db-4079-9a09-d08c47bd1acb,Aid_Program_13,Centre,Scholarship,True
+8a948e24-8b64-4f30-99a3-a40ffa5de554,Aid_Program_4,Far North,Scholarship,False
+ccbcd3a1-07a1-42ba-8e4f-fa00c33c41ba,Aid_Program_49,Centre,Teacher Training,True
+57c6e7f2-261c-4100-8110-52c9b7288ae8,Aid_Program_26,Northwest,Infrastructure,False
+bc3b10aa-f53c-426e-b82b-07b40347ec1a,Aid_Program_77,East,Scholarship,True
+6e45d192-eb8c-45e3-b92c-7869794093ef,Aid_Program_99,East,Scholarship,True
+658ba509-3a96-413d-b463-4a3979c7b9ef,Aid_Program_36,Southwest,Teacher Training,False
+878d4191-a1b9-4138-8012-7de2d48d7f0c,Aid_Program_91,South,Infrastructure,True
+069b5d2c-2093-45f3-a574-1b11e90c7708,Aid_Program_56,South,Scholarship,False
+85b52a09-fe4c-488e-a0c3-994dc73784ea,Aid_Program_88,Littoral,Scholarship,True
+c5fc2b2d-0d41-461d-9889-4cab4b36a57c,Aid_Program_21,Littoral,Infrastructure,True
+1c5553f9-e108-41e1-92be-7c6f0703c5ea,Aid_Program_43,West,Teacher Training,True
+6f9a337b-2208-42bd-be8e-b14c0fd8db18,Aid_Program_40,Far North,Teacher Training,True
+38555738-63d6-49bf-9cb3-fb21406b2f04,Aid_Program_10,Southwest,Infrastructure,True
+af20ad6d-a0f9-48dc-a0d1-1db33829f407,Aid_Program_50,Centre,Scholarship,True
+6d8c6b13-81f0-4442-b8af-fd6c0fc95389,Aid_Program_66,Far North,Infrastructure,True
+9629e36d-a47f-4441-b198-bda10e9c3159,Aid_Program_68,South,Teacher Training,False
+1573c266-2b76-43f4-89b5-e8217ea720b2,Aid_Program_34,East,Scholarship,True
+8c2edfa3-3be9-4c18-8249-65fb17590d73,Aid_Program_80,East,Infrastructure,False
+88513b86-c9f5-42c9-b1d7-9e5fefc3d83f,Aid_Program_73,Centre,Infrastructure,False
+f0e78729-8862-4d9a-81c4-e936d343b255,Aid_Program_81,Littoral,Infrastructure,True
+bdf27817-03a9-433e-8081-c5a23b6436af,Aid_Program_33,Northwest,Infrastructure,True
+b7b628e0-c033-474d-9d6b-a25bb76b740f,Aid_Program_77,Northwest,Infrastructure,True
+5ba37435-2a00-407d-a3f2-338faf496416,Aid_Program_59,Centre,Teacher Training,False
+dbf470b6-090e-444d-94f0-69f0071f9600,Aid_Program_3,Northwest,Infrastructure,False
+c24b8059-0a30-47e7-bec5-cf61e24f8c1b,Aid_Program_14,North,Infrastructure,False
+e83f850f-6dcb-4e50-aba7-a1a33905022d,Aid_Program_11,Littoral,Teacher Training,False
+868ddf2e-59f4-4e71-b5d4-4a5e2308c57a,Aid_Program_34,South,Infrastructure,False
+f1c4e973-6e8c-4802-a5fd-f8e542238e57,Aid_Program_26,South,Infrastructure,True
+a8339c15-f792-4714-89f4-1968a7989dc7,Aid_Program_89,East,Scholarship,True
+7e95235e-192d-46c1-80a9-5077e8c27ce1,Aid_Program_20,Adamawa,Scholarship,True
+b436006c-128e-4bcf-b232-d06fc0c7c3e1,Aid_Program_40,Northwest,Infrastructure,False
+e386d7ab-83a1-4edd-8bc7-65ec6c34cfe8,Aid_Program_92,Adamawa,Infrastructure,False
+4cc0e463-7c2e-409c-9bf8-eb6d9f3357ca,Aid_Program_32,Southwest,Infrastructure,True
+95dcc3c5-49c5-4259-a53e-aa675778e953,Aid_Program_81,North,Infrastructure,False
+ebbd0a8a-bdb8-431e-89bc-8112240c4b5f,Aid_Program_67,Adamawa,Scholarship,False
+4b0cdd7c-d12f-4898-b254-b12ce3475d18,Aid_Program_100,Northwest,Scholarship,False
+4f242de7-3a9a-43c6-b0f1-12109d68c5cc,Aid_Program_11,West,Scholarship,False
+ba4ea43f-71ca-4acf-9afb-b3cabdeb3cc3,Aid_Program_75,Northwest,Infrastructure,True
+415b21ac-3eea-4fa6-b964-4118f36bdab3,Aid_Program_28,Southwest,Scholarship,True
+10f1485f-eed2-49f8-94b8-47bd391ff9b0,Aid_Program_95,Far North,Teacher Training,True
+379991ec-2388-48f8-85d3-f739b3b7d70f,Aid_Program_34,North,Infrastructure,False
+3f2d13f3-ecfd-446f-bcdd-c055a973a322,Aid_Program_90,Far North,Teacher Training,True
+bc0aaff8-d628-416b-82cf-a5829ff735ce,Aid_Program_1,Adamawa,Infrastructure,False
+66b42b43-f8fe-4625-9694-c9f20230567f,Aid_Program_17,West,Teacher Training,True
+19db2f65-a0e5-4b42-9046-a728f2cedf03,Aid_Program_17,East,Scholarship,False
+6a5021d3-7b7c-4b5e-a2d5-b5be9fd83509,Aid_Program_10,South,Infrastructure,True
+5ccf38f7-d338-4809-a342-1a165d2e70b0,Aid_Program_81,West,Infrastructure,True
+1ee724ea-68a5-47a8-86d6-ff36eaa9a7f9,Aid_Program_40,Littoral,Teacher Training,False
+dad9907e-e0de-4e73-8a2f-0a40c2cac3fa,Aid_Program_98,Southwest,Scholarship,True
+c86f7af8-a3f3-40ab-bc38-86dab606ce19,Aid_Program_97,Centre,Scholarship,False
+19eeece8-6262-4598-8058-56b2a0071700,Aid_Program_13,East,Infrastructure,False
+ce63692e-8c45-4573-b5a3-6b782a7a76c1,Aid_Program_20,Southwest,Teacher Training,False
+017e666b-2eb1-4b8f-9e75-2683fb72f210,Aid_Program_77,Adamawa,Infrastructure,False
+5d5bf0a2-058f-4847-8b5e-dc44f38eed10,Aid_Program_37,Southwest,Teacher Training,True
+01f276b2-89e1-40b2-8e4f-33df2b1c61b0,Aid_Program_61,Northwest,Scholarship,False
+08ed2702-6096-483e-be0f-f24dd69d52da,Aid_Program_30,West,Scholarship,False
+4688a0bf-aea1-49d7-826e-32441aca1600,Aid_Program_48,North,Teacher Training,False
+1398eba6-63cf-4143-b869-62af56caa5b2,Aid_Program_82,Far North,Scholarship,True
+3f041ac8-cafb-49c0-9faa-3cad0e96c27f,Aid_Program_45,Southwest,Scholarship,True
+6b1a4d89-eb02-4105-8a64-1a6dcbfa1d01,Aid_Program_56,Adamawa,Scholarship,False
+030b61c8-9eda-4b41-84a6-9f5a62493832,Aid_Program_71,Adamawa,Infrastructure,False
+d966db71-c262-4f7e-9993-776af4633dcb,Aid_Program_35,Southwest,Teacher Training,False
+f733f36a-28dc-4647-ad43-27db3525a4b0,Aid_Program_30,North,Infrastructure,False
+e33d2601-9f21-431b-bfb3-7fdbce09c270,Aid_Program_36,Centre,Teacher Training,True
+3d01679c-14f9-4783-a63e-30f8679efe61,Aid_Program_38,North,Teacher Training,False
+6b49c4a2-d7b7-4891-ba1f-432758d9396f,Aid_Program_72,Littoral,Teacher Training,True
+12e0f07a-b081-4ff9-bfa4-7c26515c6119,Aid_Program_25,Littoral,Scholarship,True
+b918113f-fa5e-4e23-b470-42597c7a5b5e,Aid_Program_39,Adamawa,Infrastructure,False
+c627055a-dca8-4a9d-a1ea-4df5bef02ca2,Aid_Program_81,South,Infrastructure,False
+89b7b15b-a373-42a8-bb16-ca4569c18656,Aid_Program_91,Adamawa,Infrastructure,True
+7bd146b3-43dc-47b6-9746-cafa80282bf5,Aid_Program_5,West,Scholarship,True
+c29d3f95-b42d-4c01-8b6b-82d2266b311b,Aid_Program_99,Northwest,Infrastructure,False
+bf861fac-4e88-41c0-9d5f-eed4999fdaf2,Aid_Program_94,Far North,Scholarship,False
+e2de7657-1819-4da7-8d0a-28ea38cc840b,Aid_Program_96,Adamawa,Infrastructure,True
+af146694-1782-4032-bbee-c13eea13a0cb,Aid_Program_66,South,Infrastructure,False
+f1372ba3-443a-43f3-99fa-21a5c300e3c8,Aid_Program_50,Adamawa,Scholarship,False
+162c1d94-0917-4b86-b10c-97ece56f54d4,Aid_Program_42,East,Scholarship,False
+1254c2ea-2ccf-4d30-a317-176851478612,Aid_Program_95,Adamawa,Teacher Training,False
+1982fbdf-0ed8-49df-9f19-ea7ff919dc09,Aid_Program_74,Adamawa,Infrastructure,True
+354dd7b3-382f-40c5-9f2b-d5bc8c866210,Aid_Program_26,Far North,Scholarship,False
+bbb274ed-7c20-4f8c-abe8-c087652d8db0,Aid_Program_98,West,Teacher Training,True
+783b545f-ff63-4c91-bc49-873442f0ac3f,Aid_Program_46,Adamawa,Infrastructure,True
+f7efa308-7910-4c03-90c1-fe7d62646558,Aid_Program_21,South,Infrastructure,True
+936f4887-97b3-45d3-b7e5-1ac71a1eb849,Aid_Program_7,West,Infrastructure,False
+6c3dc373-dbfd-4113-b95a-02918dab34e1,Aid_Program_92,Littoral,Infrastructure,True
+80e64d87-f0d4-4bf7-bd31-34c3180296b4,Aid_Program_33,Adamawa,Teacher Training,True
+956b8eb2-1d26-4821-8b49-ec3f03fc225f,Aid_Program_47,North,Scholarship,False
+3fb7eb97-0ef0-4f6e-a5b2-691beb50f49e,Aid_Program_68,Southwest,Teacher Training,True
+5cc9a81d-31df-43ea-b9f0-837cd151d6bb,Aid_Program_16,Far North,Teacher Training,True
+2e0a7474-429a-4a43-86d0-22cb7b3160b3,Aid_Program_8,North,Teacher Training,False
+d89f46c1-b77c-4d90-8301-beb4bb9edec9,Aid_Program_89,Centre,Infrastructure,True
+9641f7f3-8ac1-42dd-aad1-dcf512e0f992,Aid_Program_57,Centre,Scholarship,False
+5aef2878-fa9d-42a5-9625-b520ad893a4c,Aid_Program_27,South,Infrastructure,True
+4704b046-0b03-4b89-95cc-eadb31ca91fe,Aid_Program_73,Southwest,Teacher Training,False
+027e99fb-cd5a-4d3f-8035-a29b23c3de5a,Aid_Program_72,Adamawa,Scholarship,False
+c08f02da-c9e4-4f97-8e4a-ac366a50e357,Aid_Program_55,South,Scholarship,False
+9a0baebb-48c6-4aa5-9c04-e0059acad7cb,Aid_Program_36,North,Scholarship,False
+6e5e4ae0-1c18-404b-811c-9893129fca34,Aid_Program_93,Littoral,Infrastructure,False
+8689b3b5-b605-47c0-8b3c-c17f7b2ab7ac,Aid_Program_61,Northwest,Infrastructure,True
+4d47f9fb-435e-4918-8417-3794fbf62b6e,Aid_Program_42,South,Scholarship,False
+e0623360-144b-4532-8174-9e633bbed94b,Aid_Program_53,Centre,Scholarship,False
+d927bb21-8ae0-4f22-ba92-6ce882f79cac,Aid_Program_63,Adamawa,Infrastructure,False
+bc2ab44c-9ba2-41ed-9be3-4e0df1cfa8d6,Aid_Program_7,North,Infrastructure,False
+7d759bf1-0b9e-433d-915a-e24cdf6bee70,Aid_Program_5,West,Teacher Training,False
+60de9146-59aa-4da8-8cb0-125a0b6ef3e9,Aid_Program_32,Southwest,Infrastructure,False
+3129cc47-785b-4353-bb98-195885ab8dcc,Aid_Program_30,Far North,Scholarship,False
+258dc063-112c-4b05-b92e-0f8ecf898148,Aid_Program_17,Adamawa,Scholarship,False
+78d6e902-1431-4017-9caf-738caa0d8791,Aid_Program_51,South,Teacher Training,False
+1110ec88-e330-4305-824f-4b5afea7f04b,Aid_Program_21,South,Infrastructure,False
+d4fdd42a-e044-4828-b4e6-c8243ad11d79,Aid_Program_50,Northwest,Teacher Training,False
+be009141-4701-44db-8ea2-ae97b2ddebe7,Aid_Program_15,West,Scholarship,True
+addd17f2-10c5-444d-8e1c-b485bf7f188d,Aid_Program_94,East,Scholarship,False
+1d6b4c53-b758-4d51-9d06-d4098090ce53,Aid_Program_62,East,Scholarship,True
+2e2063cf-aa11-419c-a9ac-507cc82b75be,Aid_Program_51,Far North,Infrastructure,False
+21e5be6d-8a02-4e7b-928f-67686d079faa,Aid_Program_99,East,Teacher Training,False
+ab091206-9245-44ff-b8ea-97dd46300978,Aid_Program_33,East,Teacher Training,False
+0ed8ad9a-4a0a-4f9d-a45d-43cc1b02b1eb,Aid_Program_30,North,Infrastructure,False
+084c28a8-f75e-4cf3-bdd6-d2a23df2719c,Aid_Program_76,Littoral,Scholarship,True
+56d6e2e9-a32d-4a6d-9b1e-2accd50af86b,Aid_Program_63,Littoral,Scholarship,True
+1384b766-3aa7-484b-b992-9fbd11eb7e01,Aid_Program_90,Adamawa,Infrastructure,False
+0c18e70f-1934-401a-ac73-99fc109b2f7b,Aid_Program_41,South,Scholarship,True
+fd78ab67-6bf2-4ecc-9795-e13f98a8a3d0,Aid_Program_20,Littoral,Teacher Training,True
+f1811848-be46-490b-b045-011937b92bfc,Aid_Program_45,Far North,Teacher Training,True
+b8f8dde1-56c9-43a6-a1c9-488d61179b45,Aid_Program_6,North,Scholarship,True
+8bb4d975-5a78-4286-9623-98f5537423c6,Aid_Program_100,Far North,Scholarship,True
+7af42dc9-71b7-4b96-b16b-6d03c3d4d0e4,Aid_Program_49,North,Scholarship,False
+ad74b780-72bc-48aa-a3cf-d1394cf564cd,Aid_Program_12,Northwest,Infrastructure,False
+c36aaf29-7de3-47bd-bed7-0d4f6c8b3b36,Aid_Program_2,East,Infrastructure,False
+73e43788-469f-478d-a467-a71d73ef9ede,Aid_Program_96,Northwest,Infrastructure,False
+2396d593-7649-4deb-9770-225edf579a02,Aid_Program_99,Littoral,Scholarship,False
+f43aa01c-9afb-48ca-935f-f162f805849d,Aid_Program_52,South,Scholarship,False
+e2b2d30f-0ed6-4fe2-a9f7-1dee042aa094,Aid_Program_87,Centre,Infrastructure,False
+c3e5523a-912c-43c0-8b32-18f6bdf39f65,Aid_Program_64,West,Infrastructure,False
+2a25b232-c155-4806-908e-5c21cd4a942f,Aid_Program_55,West,Infrastructure,False
+83ccc43a-fa7e-40db-b706-ee25eafc25b2,Aid_Program_28,Littoral,Scholarship,True
+5a919d29-b1fb-466f-a1fa-225ab65e5722,Aid_Program_60,Adamawa,Teacher Training,True
+8296d222-3d9d-4bc2-a15f-c5436c251210,Aid_Program_18,South,Infrastructure,True
+f5730838-6645-48ce-b4f9-118221c68ffc,Aid_Program_99,Southwest,Infrastructure,True
+320ef8de-3fa7-46ec-836f-9a1354788b3b,Aid_Program_85,Northwest,Scholarship,True
+6872ad42-ff48-4489-a05e-79aef06eaf3c,Aid_Program_4,Far North,Teacher Training,False
+f4228b5c-c3c4-4980-86a8-10ef495fe834,Aid_Program_35,Far North,Infrastructure,False
+3e1aba2c-8e4a-4903-905d-5cc2ca70ad95,Aid_Program_38,East,Scholarship,False
+b34f94f4-cdac-4ad8-a729-7330c171d8c6,Aid_Program_90,East,Scholarship,True
+29a4e435-555b-428e-9565-34894cb223c5,Aid_Program_82,Littoral,Infrastructure,True
+54916daa-4dc1-4d34-b163-cb9a9f9a9e57,Aid_Program_62,Southwest,Scholarship,False
+b173632a-f4ec-4265-86e8-d444f0a794d2,Aid_Program_24,Centre,Scholarship,True
+9712fe1e-b609-4185-abf1-20c92a414cf0,Aid_Program_33,West,Infrastructure,True
+ac3dba21-de44-49c5-977c-11b6bc06aa5d,Aid_Program_25,Northwest,Teacher Training,True
+d423a3cc-7c03-43e5-b5ca-ff6451a941ae,Aid_Program_84,South,Scholarship,True
+be56b7d8-f9f0-479b-8772-eaabc5a72f79,Aid_Program_100,Northwest,Infrastructure,False
+ad7349e0-bd09-43fc-b56f-fe9e846e67ec,Aid_Program_52,North,Teacher Training,True
+9eacec11-9382-4505-aed8-17ece4f51fc8,Aid_Program_95,Far North,Infrastructure,True
+6a37cb3c-3eed-4138-9e93-058d7f57eb03,Aid_Program_99,Littoral,Infrastructure,False
+b3dda642-e545-4d0e-ac65-00c36c6595e8,Aid_Program_67,West,Teacher Training,True
+daff383a-ad9a-4d11-abfc-3fb6b1e0e1f7,Aid_Program_99,Adamawa,Infrastructure,True
+a71f103b-c38e-4287-ae17-0482f5bad469,Aid_Program_77,Centre,Infrastructure,False
+f6ab7c6f-3991-436a-bb93-a6d676d6f3be,Aid_Program_46,Centre,Teacher Training,False
+47079fea-3ea2-4238-b054-6d601bb039b8,Aid_Program_19,Northwest,Scholarship,True
+190b307f-d297-49ca-afdd-71d1086ccf3e,Aid_Program_25,Far North,Scholarship,True
+403f7150-1159-4d6a-8321-6acd8b5fd597,Aid_Program_88,Southwest,Teacher Training,False
+9715531d-7916-4265-89a7-1069013e2d9c,Aid_Program_41,South,Infrastructure,False
+d5442431-f1dc-49a9-ab48-fbe96abd7581,Aid_Program_54,Northwest,Scholarship,True
+78875d37-63e8-4bbc-ae02-926595833f18,Aid_Program_78,Littoral,Teacher Training,False
+2b346ba5-5625-4e42-bf16-083e4ead005f,Aid_Program_91,Southwest,Infrastructure,False
+34a30988-48db-46c4-b347-b8d083a00c71,Aid_Program_59,Far North,Scholarship,True
+4f26e58d-68f5-4859-9f62-baf6c3a1d280,Aid_Program_100,West,Scholarship,False
+e8537d3a-25ad-4274-9f0b-b0a32405d2d3,Aid_Program_21,East,Scholarship,True
+dd1ac8d4-dc5a-4b39-bd1b-54efcb3958f4,Aid_Program_36,Southwest,Infrastructure,True
+3758db6d-c2a6-4542-b702-7d0705b19d1c,Aid_Program_8,Adamawa,Scholarship,True
+c03b8f46-de06-47c6-842e-7c6e707e3d42,Aid_Program_33,Adamawa,Teacher Training,False
+1e4242c2-44cb-47ef-a6bc-7213484042ca,Aid_Program_14,Adamawa,Infrastructure,True
+8af269d0-529f-4e9c-9be8-5e59e3789414,Aid_Program_95,North,Teacher Training,False
+93ba1c07-f203-4f1f-ad17-234f2fdf2f71,Aid_Program_56,West,Teacher Training,False
+806a13ee-6892-4a6a-9bb7-e325da0288b3,Aid_Program_64,East,Scholarship,True
+bddc2704-e5c9-404f-8f36-a799af71558d,Aid_Program_99,South,Teacher Training,False
+5d96e2b5-5d38-494c-8ce6-c49dc299559b,Aid_Program_17,Far North,Scholarship,False
+5c4da6d8-2252-4bf2-8e09-0861fc52a114,Aid_Program_90,Adamawa,Scholarship,False
+69eb9f11-b2c3-480d-a18c-efa30b586641,Aid_Program_68,Littoral,Infrastructure,True
+8d0f8edb-a0fe-48de-8324-5b7271f8c992,Aid_Program_60,East,Infrastructure,True
+538cb21d-50ea-444c-9610-d5426aafc8ae,Aid_Program_26,Southwest,Teacher Training,False
+7fc9c955-3300-4e87-9a79-1fbdd7e2b8b0,Aid_Program_79,Centre,Teacher Training,False
+85a998f2-9224-4d4a-b281-ff54e07271c1,Aid_Program_51,Centre,Teacher Training,False
+b49eb886-274c-4dcd-a66e-f208dd98bb91,Aid_Program_96,Littoral,Scholarship,True
+59ffa73a-b318-4d7e-9d36-ba885e3614a9,Aid_Program_16,Far North,Teacher Training,True
+a85c4930-38cf-4410-909d-94ce7ab03655,Aid_Program_35,Northwest,Teacher Training,True
+9f119a14-c842-47d0-be9f-69e5425b18cb,Aid_Program_52,East,Scholarship,False
+abd3f166-da14-4b54-8063-1736029d9e33,Aid_Program_68,South,Scholarship,False
+b946b8c1-dacf-4b31-90d8-278399dc1250,Aid_Program_5,Adamawa,Scholarship,False
+2e66ba18-643d-42b9-8ff8-97611f721e67,Aid_Program_39,South,Scholarship,True
+52fbcab9-44de-4117-937b-7f6adf6c00f1,Aid_Program_33,West,Infrastructure,True
+b5b10708-1108-47ee-92b5-6ceb3732ad03,Aid_Program_7,Adamawa,Scholarship,True
+2363f727-34f3-4d89-a847-c9dfd5f9c1c0,Aid_Program_2,Centre,Scholarship,True
+10e9fdb1-429b-4614-8918-36b24b80f44c,Aid_Program_13,Littoral,Scholarship,True
+688f27e9-4ef5-45ae-984c-9cb90c820556,Aid_Program_51,East,Infrastructure,True
+217f3fe1-0c62-4e2e-9aa4-bbd63da64f7d,Aid_Program_55,Centre,Teacher Training,False
+78db3c1c-4fc7-4d90-80b5-56ae15b52cf8,Aid_Program_96,East,Teacher Training,True
+3cd30426-bbb4-452b-b9a2-86976636f6ad,Aid_Program_50,Littoral,Infrastructure,False
+33e2f80e-4c33-4093-9ef0-952b4a8ca822,Aid_Program_30,East,Infrastructure,True
+e15c7888-9218-4cdc-a188-cbb0bfea1681,Aid_Program_65,Northwest,Scholarship,True
+f7ed223e-bfd2-4dc5-a9d1-286ddc7dec1c,Aid_Program_3,East,Teacher Training,False
+c5e39b82-4651-486d-aa97-aaec7519ce0b,Aid_Program_22,Littoral,Scholarship,True
+a2ddb3d1-8474-4b7a-b437-48c9346430cb,Aid_Program_76,North,Infrastructure,False
+bc7212e5-c5ee-4a4b-92ed-27e4b0ddb6ac,Aid_Program_88,Far North,Infrastructure,False
+9a57daaf-ff80-47b6-9caf-84ad40b4b925,Aid_Program_16,South,Infrastructure,True
+d9999034-df03-4ddf-bc1a-cb39efde7db6,Aid_Program_95,Littoral,Scholarship,True
+75a054ee-bc12-4702-9f8b-1b99da83a4f7,Aid_Program_63,Southwest,Infrastructure,True
+a98d53bf-3687-403b-ba1c-2ba2fc4aedb9,Aid_Program_48,Adamawa,Infrastructure,True
+56bcac6f-c5b5-4d25-ab46-ac1e5fa9ce86,Aid_Program_16,Littoral,Infrastructure,False
+f6b5cf36-2187-418e-9591-4400b675f385,Aid_Program_5,Far North,Teacher Training,True
+83dbfb9c-1fff-40f1-9a8b-8115cd5d7f57,Aid_Program_23,Centre,Teacher Training,True
+337d896d-cc79-4a61-81eb-a746dc3eee01,Aid_Program_92,West,Infrastructure,True
+ac52cc36-ea3a-4220-b19d-a4b63a23d69d,Aid_Program_66,Southwest,Teacher Training,False
+e44aacbc-a167-4e7a-8c44-3771ce6cddfe,Aid_Program_30,Southwest,Teacher Training,False
+bc3e93ff-4265-4839-8971-46c7bdd3eec2,Aid_Program_30,Littoral,Teacher Training,False
+723e66b4-99e9-403b-abe1-34521b30f44f,Aid_Program_80,Littoral,Infrastructure,False
+f5dd64bd-1a4e-4307-b8f8-63da0d2244bf,Aid_Program_88,North,Infrastructure,False
+19e4c2f8-e6b9-46cf-9e02-7c43bdb69d0b,Aid_Program_66,Southwest,Teacher Training,False
+69b86c05-056f-4e61-bd6c-79cdd261b4ae,Aid_Program_21,Centre,Infrastructure,True
+a873244e-5087-4003-b00c-5bb26faf3b8f,Aid_Program_63,South,Infrastructure,False
+a2a2067e-5bbf-41c2-8980-04b8c13ce90a,Aid_Program_15,West,Scholarship,True
+25e85909-ee3f-44a6-83ad-d4e55b94f307,Aid_Program_100,East,Teacher Training,False
+58e81715-1df2-4026-ba8b-ac75a19826d8,Aid_Program_86,West,Infrastructure,True
+8a85ef8f-4e67-4152-a54e-9eae76b53bf9,Aid_Program_24,East,Scholarship,True
+3c1c48af-eba7-405f-a246-0e397488062b,Aid_Program_48,Littoral,Scholarship,False
+f7556938-4434-487f-9b79-31f8d9368e4c,Aid_Program_30,Far North,Scholarship,True
+0be2a823-5652-40fb-bac3-1fe524dda053,Aid_Program_61,North,Infrastructure,True
+72d5f68a-07e9-44d2-8a03-0777a7e80c84,Aid_Program_34,Centre,Scholarship,True
+cecaeade-47e5-4810-8bc2-8a8e4287cbc7,Aid_Program_100,East,Teacher Training,True
+1ba24046-a504-4d0a-8a68-c507e6c93bb2,Aid_Program_17,Southwest,Teacher Training,True
+568ed001-b8e6-4abe-8fd9-574ab241ecfc,Aid_Program_59,Far North,Scholarship,False
+0c7be6ae-bae9-4bae-bdcb-6ed2623fa68b,Aid_Program_99,Littoral,Scholarship,True
+809f0cea-dc31-4620-aa7b-327eb607013c,Aid_Program_50,Littoral,Infrastructure,True
+b870e444-f896-443f-a063-9076a8b3c29c,Aid_Program_23,North,Scholarship,False
+bb30f56a-7de3-485d-9eee-bd0a6ef246f7,Aid_Program_78,Southwest,Teacher Training,True
+4d494e28-6156-46da-b549-5e998f77c954,Aid_Program_100,Southwest,Infrastructure,True
+bdca8c1b-4b70-4897-861a-6eeaeabe186a,Aid_Program_61,Northwest,Scholarship,False
+9712ea88-3f07-48a5-91da-f72a7e1dbb26,Aid_Program_69,South,Scholarship,False
+07f461f8-f992-4bed-9b1b-044af435ebd8,Aid_Program_48,Centre,Teacher Training,True
+2eca15e9-fdf9-4637-94ce-b21a09c8339d,Aid_Program_69,East,Infrastructure,False
+9f614bda-940f-4b19-bd70-14874e145f9a,Aid_Program_44,Southwest,Scholarship,True
+d900f143-7ddb-45fa-b767-9c8025013966,Aid_Program_72,Southwest,Teacher Training,False
+f5362d11-b497-4804-ad0f-1413df72f029,Aid_Program_83,Far North,Scholarship,True
+9f738b29-4dd1-4b66-bba7-a496a11d253d,Aid_Program_19,Adamawa,Teacher Training,True
+1b5e4624-f066-4781-b424-80e951061eef,Aid_Program_51,West,Infrastructure,True
+c4b92f73-7812-4b0e-a660-72678f34c46a,Aid_Program_32,Littoral,Teacher Training,False
+89c43485-ec9a-4c74-b92c-68d1e06b80cf,Aid_Program_91,Centre,Infrastructure,False
+de46f9f0-01cf-4d61-8c5d-99c432666b8e,Aid_Program_96,South,Scholarship,False
+84bd16dc-096a-4f1d-b502-a61287beb36a,Aid_Program_40,West,Infrastructure,False
+fcaf9a80-bd96-4bf5-b336-bd03cf85fcdc,Aid_Program_71,Southwest,Infrastructure,False
+6f07cba4-e8dc-4167-87cf-f4e5c5d155af,Aid_Program_20,East,Teacher Training,False
+98e6fe0e-9d37-428b-86bf-fca5cacd1539,Aid_Program_37,East,Infrastructure,False
+854145ec-2950-4746-ab8a-3e6a796c543f,Aid_Program_74,Centre,Scholarship,False
+1063ebb4-b329-49d3-bfcf-7fefc9735225,Aid_Program_39,South,Teacher Training,False
+ca78a3a4-dc68-40cd-9145-010e0204a299,Aid_Program_86,South,Teacher Training,False
+8779379d-25ee-4254-b651-1cff7d2ce99a,Aid_Program_13,South,Infrastructure,False
+059fadd4-dbe8-45bf-88c4-97db8bd2a963,Aid_Program_29,North,Infrastructure,False
+748807a4-8114-47f1-a855-853ec1cc8d47,Aid_Program_18,South,Infrastructure,True
+38e35566-c32d-41b4-a7b9-d400dba451f8,Aid_Program_14,Centre,Infrastructure,True
+8264fe8c-58cf-40b6-b2c4-0ce92b4d170d,Aid_Program_73,East,Infrastructure,False
+8958cbe5-3b22-4177-a98a-7fe0aea9743d,Aid_Program_95,East,Scholarship,False
+0e5717c2-f322-4282-ae6b-36b21b8fbbf9,Aid_Program_88,Adamawa,Teacher Training,True
+50657e85-c695-4a5d-b47d-e13ae7872aff,Aid_Program_35,Far North,Teacher Training,False
+c8cd3cc3-efad-421f-954c-bf648925b574,Aid_Program_39,West,Scholarship,True
+2e4baf5a-3d09-45fd-959a-59911343f655,Aid_Program_85,Littoral,Teacher Training,True
+78cd193a-2c5c-41f1-97f0-c8ed5c2ef93a,Aid_Program_56,Northwest,Infrastructure,True
+c4f5d153-97b2-4eec-807d-ec6b6f86b6e1,Aid_Program_50,Littoral,Scholarship,True
+f0fe464d-8148-4164-86a4-fb7aa86e5944,Aid_Program_17,West,Infrastructure,False
+41819eb9-9f19-4954-9fc4-ea1edb5d11d0,Aid_Program_16,Southwest,Scholarship,False
+927f144b-7f65-4594-be66-158f411dc793,Aid_Program_68,North,Scholarship,False
+3790c555-c87c-4a55-9d7f-b729a2744877,Aid_Program_86,East,Scholarship,True
+4e884333-2a91-465c-b607-de3fd2d1bae7,Aid_Program_38,East,Teacher Training,True
+72965795-1732-419f-8668-2d6409df5378,Aid_Program_38,Adamawa,Scholarship,False
+fa380705-fa95-46a8-bf67-45f592b5ba96,Aid_Program_46,East,Infrastructure,False
+14d7963f-c914-4278-bcd1-f09892867414,Aid_Program_52,Northwest,Scholarship,False
+152b837b-8532-4552-8b0f-f9170e92aa0a,Aid_Program_41,East,Scholarship,True
+c33a4565-fa80-40c7-bef2-07870d3d0651,Aid_Program_28,Littoral,Scholarship,True
+a1ff31ce-3428-4194-a05c-4d070fb6a563,Aid_Program_11,Adamawa,Teacher Training,True
+b61a7944-c382-4816-860e-55004564e0fd,Aid_Program_17,South,Teacher Training,True
+b79be7ad-a16f-4059-8504-1c53a04387b1,Aid_Program_26,Littoral,Teacher Training,True
+c0041f71-7dce-4f3c-b79b-e718e0cffbde,Aid_Program_90,Centre,Infrastructure,True
+b525d476-7287-42ff-a9c7-89627b01d3a6,Aid_Program_42,West,Teacher Training,True
+fb4cf73f-7800-4cc1-b11e-807cc8c58db2,Aid_Program_21,Southwest,Scholarship,False
+dec21691-fb51-4513-bf70-e13c401eb724,Aid_Program_19,Northwest,Infrastructure,True
+53b96e6c-846d-4f02-8257-b6435e510db2,Aid_Program_74,Littoral,Scholarship,True
+e367d297-0d46-437c-b477-5b4c0307ffae,Aid_Program_50,Southwest,Scholarship,True
+f1ce6ac7-a9e7-48e6-b5f2-dec6227b7c1a,Aid_Program_51,Far North,Infrastructure,False
+2b234153-ac0d-4df1-be94-5dea72da7ca8,Aid_Program_92,West,Scholarship,True
+52205e04-c7ab-4406-b87d-2b2a63de948a,Aid_Program_66,North,Infrastructure,True
+21f32353-7725-4d49-b4ce-aaeebabedc17,Aid_Program_20,Adamawa,Infrastructure,True
+871ea9ae-edca-4eed-b628-3d83ba3b02cb,Aid_Program_80,Littoral,Infrastructure,True
+1c47b0ec-7c2f-4f6f-bf6c-03669c0f8221,Aid_Program_68,Adamawa,Teacher Training,False
+9989a973-1858-4a37-933a-1e7160c1b8d2,Aid_Program_5,North,Infrastructure,True
+b27dbcc0-a87c-4595-b621-36041558d7e3,Aid_Program_78,South,Infrastructure,False
+4d275ed9-30a8-4917-802c-6619a70eec35,Aid_Program_25,Adamawa,Teacher Training,True
+27c04b94-c849-418d-8e87-a50319af3dc2,Aid_Program_60,Littoral,Scholarship,False
+40dd7349-d88f-4eca-b0f4-f490b68ad792,Aid_Program_42,Far North,Teacher Training,True
+42554057-73ff-464a-87e7-ff4416242c71,Aid_Program_34,Northwest,Scholarship,False
+61795b4e-ba77-421c-8cc8-e8a682da6591,Aid_Program_11,West,Teacher Training,True
+9bec846e-82bc-4a43-ac4b-0530b2739751,Aid_Program_88,South,Scholarship,True
+55d42d63-06a4-4a62-989d-bfa93a25262f,Aid_Program_88,North,Scholarship,True
+84dd0580-adc8-4f2f-8f5b-38f035becdd2,Aid_Program_42,Adamawa,Teacher Training,False
+214252d3-8dca-4599-b8c7-f63d7d19c73a,Aid_Program_65,Northwest,Scholarship,True
+5051cdfd-90f3-4405-a146-f86c1e705ba3,Aid_Program_99,North,Infrastructure,False
+5b0676d0-a829-4b45-81c9-92f1e4abb935,Aid_Program_10,East,Scholarship,True
+08fb87da-c84f-4496-9ca9-c1ccad874e37,Aid_Program_59,South,Scholarship,False
+3b416862-8cc4-4e28-bcfb-70d32da1a66f,Aid_Program_74,West,Scholarship,True
+7cf8e3d8-d3e9-42cf-bbe2-92d0e19c11ab,Aid_Program_93,East,Scholarship,False
+2910ee31-5f6c-42a8-b563-14c7e0af2d7f,Aid_Program_24,South,Scholarship,True
+2af4f6df-be34-42d2-8cd7-ec5ed52e35c0,Aid_Program_40,Adamawa,Teacher Training,True
+e1e5227b-b7e9-4398-8c3e-d6bed13e823f,Aid_Program_70,Northwest,Scholarship,True
+706fe8dd-4bb0-4c60-98f0-47a1ab686308,Aid_Program_72,North,Infrastructure,False
+26270727-77d0-4e5f-a37f-cbe77435ada0,Aid_Program_48,South,Infrastructure,True
+7086ac5c-79ab-4ef1-982d-843b24586f6e,Aid_Program_39,Far North,Teacher Training,False
+7f45fc75-b18b-4966-b550-f5bc89befb9f,Aid_Program_14,Centre,Teacher Training,False
+8ac80811-1d5b-4001-a406-99a27e377220,Aid_Program_19,East,Scholarship,True
+e023104e-a037-41b0-b4af-a204536956d3,Aid_Program_28,Centre,Infrastructure,True
+8f7d42d3-e61c-44cb-a045-f143517dc1d8,Aid_Program_9,Far North,Infrastructure,False
+2f5e4319-6281-4d08-b7a7-7bca842818a9,Aid_Program_41,Littoral,Infrastructure,True
+3aa28443-c787-487a-b189-8ddac8eb62c7,Aid_Program_21,Northwest,Scholarship,True
+9c485ef9-ea15-459f-a465-f877ca98a548,Aid_Program_54,Littoral,Scholarship,False
+2c7254a7-61a3-44d5-b3d6-2f23c8de2f87,Aid_Program_76,Northwest,Scholarship,True
+ef84fe0d-2ddb-4794-989f-ffb7522ed5df,Aid_Program_74,West,Infrastructure,True
+9197530b-9b9d-40f8-9fa6-0f1dcceb69f4,Aid_Program_71,Far North,Scholarship,False
+193a9b9b-e6fd-4722-835b-66fc9fe302a2,Aid_Program_47,West,Teacher Training,True
+5bcf6601-46d7-436b-88cd-5614519cf5d0,Aid_Program_68,Northwest,Infrastructure,False
+cc145e3e-f152-41a8-86c3-ea72064bf594,Aid_Program_48,East,Infrastructure,True
+8532a1bd-e4e2-4dfd-b6ee-f64fda7d740e,Aid_Program_60,Centre,Infrastructure,True
+6feed6cf-4634-4edb-97bd-419ac6d148e3,Aid_Program_10,Adamawa,Teacher Training,False
+46d67522-e053-4c7a-979f-312d7f5eeba5,Aid_Program_54,Northwest,Scholarship,True
+27357f12-c8e7-4f82-acd6-807df7aa4af3,Aid_Program_35,Centre,Teacher Training,True
+a2ac184a-6da2-4778-b726-b420a2716830,Aid_Program_96,Northwest,Scholarship,True
+089bb04d-705a-4547-bdd7-e13a73d88207,Aid_Program_4,South,Scholarship,False
+df071752-915e-4e6b-ae5f-74428f674601,Aid_Program_65,North,Scholarship,False
+2e8cc7d4-585b-4f4e-bb12-5e5c45060d16,Aid_Program_55,South,Teacher Training,True
+6e7e89b8-783f-4086-8828-42b88904fb54,Aid_Program_37,Littoral,Teacher Training,False
+5ec02b12-eab8-41bf-a983-ce40f3d0ec22,Aid_Program_41,Southwest,Teacher Training,True
+6e3e6f4d-2966-49f8-9ae2-d5f82949c03f,Aid_Program_21,Northwest,Scholarship,False
+b43946f1-a0b4-4f11-8465-f044dda999c5,Aid_Program_94,East,Teacher Training,True
+a1d9ed75-3acd-4720-823e-878bd9270ab6,Aid_Program_49,East,Scholarship,True
+d1c7f46e-3536-4dc0-b916-a27f94d55241,Aid_Program_87,Far North,Infrastructure,True
+ef315038-e8cb-4e14-bc28-9772e524e6f9,Aid_Program_47,Centre,Infrastructure,True
+09ccfa86-d7cf-4d9c-a088-4be385c78b6c,Aid_Program_10,North,Scholarship,True
+a8efb408-a243-460c-8164-77fdbeef124a,Aid_Program_3,Adamawa,Teacher Training,False
+fec432dc-0d50-4d5c-9b10-dc34456073f6,Aid_Program_67,North,Infrastructure,False
+06509a02-66a8-4d06-9f8a-fc437e57687c,Aid_Program_32,East,Teacher Training,True
+96206c9b-1eff-4fc9-94eb-37f7b0359599,Aid_Program_49,Far North,Teacher Training,False
+1560dcc2-0a5c-4790-9689-1a43072d41c4,Aid_Program_18,Southwest,Scholarship,True
+c03136ff-a946-47f9-aa7b-60110e7ef117,Aid_Program_80,Northwest,Teacher Training,False
+f3df5654-0bbb-4afb-8fe0-c524d7f5be43,Aid_Program_86,Northwest,Scholarship,True
+0c0c20b4-55c8-45f6-bca8-e021f79e891c,Aid_Program_93,Littoral,Teacher Training,True
+881cc6c8-163d-4bcb-9cb3-4843a42ff99d,Aid_Program_83,Northwest,Infrastructure,True
+a3a3e35f-189f-433c-8938-4069bc95c873,Aid_Program_13,North,Scholarship,False
+9ef687b1-db2f-4e9d-b23c-3f12c4cf4dde,Aid_Program_95,Northwest,Infrastructure,False
+99c35f64-8ad8-4d43-9f7d-1e1be098be27,Aid_Program_64,Southwest,Teacher Training,False
+fc0a6c4a-7471-420d-9379-29eb4466ff2a,Aid_Program_25,Northwest,Scholarship,True
+eb019b13-1af4-4211-af31-a87db8610f47,Aid_Program_32,Littoral,Scholarship,False
+89663989-9e51-45c3-8257-217fb9bcce18,Aid_Program_69,Southwest,Teacher Training,False
+e88c9ed6-7cd9-4623-ab30-9f106f4fb2b7,Aid_Program_76,Centre,Teacher Training,True
+a0b0af86-47c6-4a8d-8600-1318f536f872,Aid_Program_67,Northwest,Scholarship,True
+8278bc9b-0e4b-492c-8926-0f4e3e94d056,Aid_Program_23,Adamawa,Scholarship,True
+04077d20-6843-4e8f-a73c-1c2906661915,Aid_Program_18,North,Scholarship,False
+ba48cac2-5ee9-4ad4-9093-1229a2a51e13,Aid_Program_22,Northwest,Infrastructure,False
+1faaf99d-3097-493b-b69a-242449aa601a,Aid_Program_6,South,Scholarship,False
+83ff1004-40e9-4c0b-a5c1-8491c20ef6ca,Aid_Program_8,Far North,Teacher Training,False
+5db3cc94-7a95-4628-8ae7-6b3f6ffb0989,Aid_Program_49,West,Teacher Training,False
+75efe3a9-4848-40de-8709-34bf8341d0fc,Aid_Program_43,West,Teacher Training,True
+a1ead6e0-ca13-4c7b-9409-8dc78cb73ecd,Aid_Program_56,Far North,Scholarship,False
+1cc212bf-63bd-420b-bc6d-ae1f3b2c9bd6,Aid_Program_82,Far North,Scholarship,True
+a342fc3b-297b-45d2-a4e1-d2782a87c32c,Aid_Program_12,Centre,Infrastructure,True
+4ffdada7-485d-4571-bc7f-2b4cc8d67334,Aid_Program_53,Littoral,Infrastructure,False
+a54b7578-8749-4277-ae81-19d9ed54ac46,Aid_Program_51,South,Infrastructure,True
+7af6512a-b3a6-4074-9013-fcb81dd1ae5b,Aid_Program_100,Centre,Infrastructure,False
+52c2e440-30b9-4c18-97c4-6bd17b5d48a2,Aid_Program_75,Southwest,Scholarship,False
+9b0cd466-cd83-4461-a994-54f522c67ae0,Aid_Program_60,Centre,Infrastructure,True
+425c5592-c825-43d6-b051-f0b9b3ba437d,Aid_Program_53,Far North,Infrastructure,True
+297fc2c4-1b15-4770-ada4-c8e4eb073d78,Aid_Program_64,West,Scholarship,False
+fb7a4a47-8aee-4154-940b-16825977ddb7,Aid_Program_16,West,Scholarship,False
+b813dd7c-1ce6-407a-b26b-e4616e0ab251,Aid_Program_13,Adamawa,Infrastructure,False
+785ee6fa-23e1-424e-b470-0189ad3c6167,Aid_Program_57,North,Teacher Training,False
+8b2210b3-04f4-4d8a-91de-252ccc215bbd,Aid_Program_14,Adamawa,Infrastructure,False
+8309dde4-ab4f-439c-9f27-ef78dbf900a0,Aid_Program_95,East,Infrastructure,False
+b79f7eaf-d304-42b0-b841-d66eed94fd69,Aid_Program_76,West,Teacher Training,False
+203592c9-01e1-4696-911d-bb124d90d1ff,Aid_Program_72,East,Scholarship,False
+b2690bac-8f75-4c49-b8ed-8ad6486b4184,Aid_Program_19,South,Scholarship,True
+2610cd5f-1caa-45ff-bc5a-2dab1a715a9e,Aid_Program_29,Far North,Teacher Training,True
+bb3d2850-1433-4d3a-831c-b261f996ca0c,Aid_Program_41,Southwest,Infrastructure,False
+3183677b-b8bd-4091-b45e-f9994a8dcf79,Aid_Program_72,Far North,Scholarship,False
+a2ea5a8c-2ffe-46f1-9c84-819f826e1650,Aid_Program_46,Adamawa,Infrastructure,False
+c70e2dfc-5fb4-4106-8341-e6e110e41592,Aid_Program_97,Adamawa,Infrastructure,False
+1d8a5fc2-5714-4efd-aa16-7bd1f7c1a363,Aid_Program_28,South,Scholarship,False
+f6732f2d-3e41-4cce-9dd0-844295de9863,Aid_Program_31,Southwest,Scholarship,False
+a2f9cf2a-059a-4cff-a248-927e0da6f638,Aid_Program_2,Far North,Infrastructure,False
+1d3e5f15-5a33-4236-b115-375929a60992,Aid_Program_36,Littoral,Scholarship,False
+40500b09-476e-4664-a612-e79a1ef9ecf3,Aid_Program_8,North,Teacher Training,True
+8002015e-f66a-49d4-8545-c03e116d4cd7,Aid_Program_46,Littoral,Teacher Training,False
+c6344a1c-24b9-49d7-9c55-d3df2bb55e2b,Aid_Program_3,West,Scholarship,True
+1973b632-3663-468d-868c-8d579cea982b,Aid_Program_47,South,Teacher Training,False
+08fce9a0-6f37-45a8-bf7f-17b4c20eb738,Aid_Program_22,Adamawa,Infrastructure,False
+64726846-79c3-4dcf-880b-7e7fe3ea3547,Aid_Program_98,Far North,Scholarship,True
+ae6c6498-f046-4a6d-8ae5-77b430610ee1,Aid_Program_32,East,Scholarship,False
+5ab30627-fba1-4e8b-a782-2601c2ac5889,Aid_Program_73,Adamawa,Teacher Training,True
+29557636-37e6-4b7c-8913-be4718321c7d,Aid_Program_91,Adamawa,Teacher Training,True
+36d1497d-4498-4698-9bb8-918a22db4fa1,Aid_Program_86,Northwest,Teacher Training,True
+43f0ed3a-e0c4-4e3d-9a67-29cab921ad4d,Aid_Program_73,Littoral,Infrastructure,True
+2d73641f-c15e-460f-871c-4e9133f80cf2,Aid_Program_100,Far North,Teacher Training,False
+1a861e2b-ba08-47d3-8ad2-78da9f42ef8a,Aid_Program_60,Centre,Teacher Training,False
+e8fedd20-edcc-477c-8b55-3a477e2b0219,Aid_Program_43,North,Teacher Training,True
+b7eae9ec-af2c-4931-943c-05a3c0099e92,Aid_Program_74,North,Scholarship,True
+c9de3a37-b03c-4ed7-9277-4ecbb84ff4cd,Aid_Program_11,South,Scholarship,True
+0bae978f-8126-4060-a5d6-85985902dd77,Aid_Program_38,East,Teacher Training,False
+64fb56e3-4926-49b2-9519-b7e1a4e6384e,Aid_Program_73,East,Infrastructure,False
+d622fb2b-a8ef-4b7e-8689-e97d69a43783,Aid_Program_31,East,Infrastructure,True
+410f643b-ad57-402d-b6e7-24a57b1480cf,Aid_Program_57,Far North,Infrastructure,True
+ce8e0050-d5f2-4702-9c67-7669ff2312b2,Aid_Program_7,Littoral,Scholarship,True
+2688d7fe-ac9a-4e8f-9ea7-c67d21cab2b5,Aid_Program_86,Adamawa,Scholarship,False
+36fc2c08-dd75-4954-9fb9-1c0cfae310f6,Aid_Program_37,Centre,Infrastructure,False
+91b40eae-3b50-4293-a72f-51609249484f,Aid_Program_59,Far North,Teacher Training,False
+e431c36a-d8ff-4806-88e5-162a1f6cc096,Aid_Program_16,Adamawa,Teacher Training,True
+abb87f33-627f-4833-9182-753b1bbbe1e8,Aid_Program_75,Far North,Scholarship,True
+10a730b4-12e9-4983-9f4b-e2b8db47ab10,Aid_Program_52,Littoral,Teacher Training,False
+4ed4b0d6-653a-4ffa-9614-41c6fdc8056f,Aid_Program_19,Southwest,Scholarship,True
+e386e39c-913d-410e-8519-af64ce3017ba,Aid_Program_19,East,Scholarship,True
+17c9214a-88e0-4aa5-9365-2bf69717e662,Aid_Program_30,Littoral,Scholarship,False
+0eb83071-ee49-4f4a-8bfe-bca6865fc5b3,Aid_Program_1,Littoral,Teacher Training,False
+44c0a17b-7a31-4efa-9226-41d7c8b186f4,Aid_Program_9,Littoral,Teacher Training,False
+7bb70ea5-956c-456a-bff7-b28dd8b8fda3,Aid_Program_67,Southwest,Scholarship,True
+5899fbe2-629e-444f-becd-6fb9d027f9ee,Aid_Program_13,Littoral,Infrastructure,False
+ac41319e-96c2-471d-8cb7-1150c7f96ce4,Aid_Program_26,West,Scholarship,False

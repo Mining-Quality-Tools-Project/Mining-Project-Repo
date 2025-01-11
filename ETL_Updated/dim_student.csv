@@ -1,0 +1,1001 @@
+student_key,age,gender,special_needs,num_children,previous_academic_performance,attendance_rate,language_spoken,marital_status
+40969e9a-5f6d-4eb7-8da0-932e35fa8ae9,21,Male,False,3,Good,95.79,Fulfulde,Single
+6e1878dd-87a4-42e2-b11d-1752308f473e,15,Male,False,1,Good,57.51,English,Single
+49fcb91b-f077-4d15-8d6b-e36740c93af0,22,Female,False,1,Excellent,83.11,English,Single
+c752bb22-a03e-4809-aa73-6350eed27dcf,15,Female,False,2,Poor,91.51,Fulfulde,Single
+1b307c10-231a-4fd2-8db6-a143a505202c,10,Female,False,1,Average,82.85,Local Dialects,Single
+82185b7c-bc14-492f-89d5-fd505f2b2ef4,21,Male,False,0,Good,68.88,English,Single
+bf4a7619-b26a-4189-b53a-f41d99cf785b,18,Female,False,2,Good,57.34,Fulfulde,Single
+48df9fc8-1e5d-407e-9313-9879e3950fc1,21,Female,False,3,Poor,66.82,Pidgin,Single
+7fcca246-1f17-4e6e-a22f-afff35caefda,20,Male,False,1,Poor,74.06,Fulfulde,Married
+d9127306-2868-477f-9caa-dcb577723852,18,Female,False,0,Excellent,81.74,Local Dialects,Married
+e940c9b4-92aa-48fd-834c-27ccc9b61de7,20,Male,False,3,Average,97.26,Local Dialects,Single
+af276269-5c53-4be9-8693-496294a189dc,18,Female,False,2,Excellent,74.32,Local Dialects,Single
+0fbb516f-b8f7-404a-b9da-9fdff10f863e,15,Male,False,2,Good,53.29,Local Dialects,Single
+695effd6-0955-45d9-8cf0-85513ebab142,13,Male,False,1,Average,50.18,French,Single
+7ab9423e-b270-46f1-a98e-5a9babedf672,15,Male,False,1,Excellent,54.16,Pidgin,Single
+a735cdd2-96d1-43b8-844c-b0e63ccc6667,10,Male,False,2,Average,83.29,Pidgin,Single
+c64e1eeb-5630-43e4-91fe-d832afe61f1d,10,Female,False,2,Good,84.27,Local Dialects,Single
+f3063330-ad06-4196-90b2-39665de9d5dd,10,Female,False,2,Average,77.15,Pidgin,Single
+b05797b9-59fe-4e94-b359-115822cf50a2,13,Male,False,3,Average,63.1,English,Married
+f90956d3-da5e-41df-b7cc-039d966c20b6,11,Male,False,3,Average,84.43,French,Single
+3fcc2111-4de8-49e3-b426-e26eef9dbbf1,11,Female,False,3,Good,66.73,Fulfulde,Single
+07744d24-253a-46db-82f0-8da94e07968a,13,Male,False,1,Average,65.63,Local Dialects,Married
+edc78725-c361-40bd-b32b-69c006bf10e0,16,Male,False,3,Average,94.52,English,Single
+d9c48d85-a24a-4abd-ad13-16a88f9cf2e2,19,Female,False,1,Poor,70.44,Pidgin,Single
+d9c80875-1597-405a-8bcb-c7b10bb36fec,22,Female,False,0,Average,92.74,Local Dialects,Widowed
+67bb0485-4924-4e83-b589-16013352a89a,20,Female,False,3,Good,67.49,Local Dialects,Married
+1c6d9b22-bca0-4cc4-88fe-35373ac6a35a,16,Female,False,1,Poor,98.39,Fulfulde,Divorced
+c3373bbb-81c5-4a22-aca6-8704cf5d1976,22,Female,False,3,Excellent,50.59,Local Dialects,Single
+c69beaa1-a748-4999-a437-84a055429f82,17,Female,False,1,Poor,93.21,French,Single
+1e09b285-51dc-4cb4-bb6b-87a18364d3b7,13,Male,True,0,Excellent,66.1,Local Dialects,Single
+3507b491-c663-4774-9c9c-d2d70970a8d6,14,Male,False,2,Poor,67.23,Fulfulde,Single
+36ba9ca0-a4b6-454d-b7b8-075c96257cea,11,Male,False,0,Good,66.95,English,Single
+c6981aef-0caf-41ad-86a9-96c4dbce96d8,14,Male,False,1,Good,77.03,English,Single
+1c3aeba9-0cd8-49dd-bcd0-4cf35dec45fc,10,Male,False,0,Average,74.76,Local Dialects,Single
+74411c5f-1d94-4482-958b-c2d75bc4d774,20,Female,False,1,Good,93.81,Local Dialects,Single
+9818551a-bc81-4d1a-8276-80705bd9cb4d,18,Male,False,0,Good,61.42,Local Dialects,Single
+55f4b870-b650-418f-b5b5-04f7f13fab5b,13,Female,False,2,Average,62.87,Fulfulde,Single
+a3c6e3f2-4ba1-4b52-8bf5-619df1721737,20,Female,False,0,Good,85.19,Fulfulde,Single
+df279964-ba19-493e-b206-f196594b9f43,22,Male,False,0,Poor,55.18,Local Dialects,Single
+3516bf36-47a7-4199-b4f5-d19daabefd26,19,Male,True,3,Poor,95.42,Fulfulde,Single
+b4e4b181-8479-4475-b02c-aa7141c9c2dc,14,Female,False,1,Average,66.33,Pidgin,Single
+73db7702-8eb7-429c-98f4-09c657ad17ca,21,Male,False,3,Average,68.53,Local Dialects,Single
+f6e49043-c7a4-4548-bd4b-9745a1c0dac1,10,Male,True,0,Excellent,69.41,English,Single
+bac12f1f-30b9-418e-a005-79cba3a6b86a,18,Male,False,3,Good,64.26,Fulfulde,Single
+4d63408f-e7f3-4b56-bf14-c2dcd8c380a5,10,Male,False,2,Poor,94.72,Local Dialects,Single
+b4cdec53-75e7-4f85-9fd4-8a1b13be547e,12,Male,False,2,Average,71.76,Local Dialects,Single
+e94e9ec2-4846-44e6-b605-7d22d383050c,11,Female,False,0,Excellent,76.45,French,Single
+50d76bde-71ce-4aea-b783-a7488420e9ce,17,Female,False,0,Average,95.79,English,Single
+30e6c220-25bd-4355-a688-1208c13dd460,15,Female,False,3,Good,80.51,Pidgin,Single
+9931a8ee-0270-410d-a887-7400ef7908b7,12,Female,False,1,Average,85.73,Fulfulde,Married
+54881b07-c0a0-4431-a55c-6afe08d915d0,13,Female,False,1,Average,83.93,Fulfulde,Married
+9fa32b9c-fd55-4187-abaf-8ff6d2b7ab48,20,Female,False,3,Average,65.02,Pidgin,Single
+211496b5-4aef-4d72-95c2-1172334ad2f9,20,Female,False,2,Good,66.56,Fulfulde,Single
+b8dd9847-46c7-49e6-965b-1f94aa0467a1,19,Female,False,1,Average,77.88,Local Dialects,Widowed
+aecd22f0-545b-48b5-9aab-271644e50be7,18,Male,False,1,Excellent,60.24,Local Dialects,Married
+6424499f-1ee3-4780-a602-8476d46506f4,11,Female,False,2,Excellent,82.77,Pidgin,Single
+3faddf54-7938-49cf-aaff-91c5e0af04f8,12,Male,False,0,Poor,61.1,French,Married
+7ba9bd57-a1f2-42ee-bd2a-deb30d1525ca,17,Female,True,0,Average,74.58,Local Dialects,Single
+e735997d-e32d-433e-a869-d6966d2f887d,10,Male,False,0,Average,83.29,Pidgin,Single
+74bc2369-7a58-4fb7-b67b-c8d0008097cd,22,Female,False,3,Average,51.78,Local Dialects,Single
+f4ad0750-db2f-41f4-ad69-23f91a43afb9,20,Female,False,0,Average,53.09,Pidgin,Single
+889611d7-a8a7-441f-9ca1-58fb3e9befe2,14,Female,False,2,Poor,65.97,Local Dialects,Single
+208997f5-1eab-47a8-a0a1-7b9847c4f21f,14,Female,False,0,Good,86.47,English,Married
+f8a439fc-a35f-4a66-b39b-fa1f6629fa2c,14,Male,False,2,Excellent,97.03,Local Dialects,Single
+84c63b85-f612-4a65-b89a-3e25a63af785,15,Male,False,1,Average,72.29,Fulfulde,Single
+3dfc1e88-7d7b-45fd-82c1-756fe482e220,21,Male,False,0,Poor,89.54,English,Married
+8694936e-5629-467c-b6e0-04ffcc2bcb1d,22,Male,False,3,Poor,98.61,English,Single
+e43e59a1-5c0f-49af-801f-a40edcceaad5,17,Female,False,3,Excellent,51.17,French,Single
+c7060d3f-32ca-4004-afe4-80d20706efd8,20,Female,False,1,Average,80.95,English,Single
+7308690e-7625-4fde-8802-7fcce7932125,19,Female,True,1,Excellent,99.13,Local Dialects,Single
+049b8ba6-11e6-44bd-a4eb-53cdb7681809,10,Female,False,1,Average,75.55,French,Single
+f4f0f1a3-b3b5-427e-a8a1-4c9ffc9a81a1,11,Female,False,3,Poor,99.31,French,Single
+01768b5f-0a8b-4fce-9308-cb51dbf02a6a,14,Female,False,0,Good,88.22,Fulfulde,Single
+5e9d0eaa-22f4-40b8-8d96-a5ecb8f3f8a9,20,Female,True,1,Average,82.54,Pidgin,Married
+3052cf24-aa7e-43aa-98b1-d33bbc09ff90,19,Female,True,1,Good,92.11,French,Single
+111d607f-db1f-47d2-a533-35ad323a3654,22,Male,False,0,Good,92.58,Local Dialects,Single
+afd8afb9-078a-4bd0-bce9-3de541b20013,19,Female,False,0,Good,58.2,Pidgin,Single
+8244a073-ae3f-44c5-8091-01cbc1a79405,16,Male,False,0,Good,54.79,English,Single
+f499ee70-e96e-4657-9b4d-ec3ea4801b5e,13,Female,False,1,Good,88.99,English,Married
+d06c44cb-32c3-4bb4-a823-c82a344139d4,20,Male,False,0,Average,76.29,French,Single
+9b0bcc62-334c-4f91-b481-ae429e86f101,20,Male,True,1,Average,67.72,Fulfulde,Single
+b21e29fd-0767-4d19-a7b8-16250a6b3864,12,Male,False,2,Average,96.38,Pidgin,Single
+2c5d13bc-c4a4-4306-ab02-90e2a69e5869,22,Female,False,1,Excellent,58.9,Fulfulde,Single
+f718f031-6f7e-4010-87da-da1d787f2c72,22,Female,True,0,Excellent,66.65,Fulfulde,Single
+6565a6dc-7535-41a9-ad7d-300f8040e28a,11,Female,False,3,Average,52.24,English,Single
+0ae55311-0de8-4f42-81b9-a79e29e86336,13,Female,False,0,Excellent,50.43,Local Dialects,Single
+ae84e700-2372-4480-9201-29d4d7bec9a8,13,Female,False,3,Poor,74.59,Local Dialects,Single
+7e9662f6-bda5-4336-bcd5-749c69b48d3e,21,Female,False,2,Excellent,66.02,French,Single
+85ac5ded-a387-4d4f-8d0d-55dc8df5d558,19,Female,True,1,Excellent,80.03,Pidgin,Single
+a05eebbe-e970-444a-abfe-f72a757fb938,21,Male,False,1,Average,74.26,English,Single
+4b4a6fd0-a130-4ce3-ac10-c3b79930c97d,20,Female,False,2,Excellent,95.34,Pidgin,Married
+e59fdd1b-c865-47ee-b53c-440c9936c6a8,13,Male,False,3,Good,51.95,Pidgin,Single
+952b63fc-be09-49cf-919d-ed3a6bbef6d6,10,Female,False,3,Good,66.98,French,Married
+96970463-c4c8-4a62-9d1a-2b138109564a,10,Female,False,2,Average,66.77,French,Single
+6466c762-e6a0-49a6-a46d-7352ed75c073,11,Male,False,2,Good,73.24,Fulfulde,Single
+0256349e-c72f-442e-ab6f-26724d0286f5,21,Male,False,3,Average,69.81,French,Single
+32685856-2c67-4166-809b-16c221355317,22,Male,True,1,Poor,75.98,Local Dialects,Single
+eb578ca1-9f67-4d9c-b4ac-f5c2af3342fe,10,Female,False,0,Excellent,93.08,Fulfulde,Single
+abe41194-1418-4f9d-b886-b6a94ceb3bfc,20,Male,False,2,Poor,58.24,English,Married
+dcc8cd06-0bc2-4422-a058-216b9cca75a6,11,Female,False,3,Average,96.99,French,Single
+38be6832-16d8-4e7a-af62-6ca63fab95cd,22,Male,False,2,Average,93.26,Pidgin,Single
+a7042562-5936-4617-8866-a307a889395d,14,Male,False,0,Average,60.41,Fulfulde,Single
+fdf907e9-5c26-4df8-bcf7-f8972aeb018d,17,Male,False,2,Excellent,79.39,French,Single
+1996c37d-37fb-4c9d-a57c-957e9b991a20,11,Male,False,3,Average,76.91,Local Dialects,Single
+e6147fd4-8b47-4c5e-9449-d92bd7f49168,12,Male,False,2,Excellent,81.14,Fulfulde,Single
+18ef9939-b49a-4863-8ce9-46df193b1d51,15,Female,False,0,Average,67.52,English,Single
+583b3349-6c56-4314-8c92-6e7120fcd070,19,Male,True,1,Excellent,57.43,Pidgin,Single
+3308e932-e34f-4602-9ae5-26144fecfa2f,20,Male,True,2,Good,95.71,English,Single
+41b76079-6e14-482a-a270-623714cc78da,13,Male,False,2,Good,71.17,French,Single
+07eed719-51db-45aa-998f-72d837dbf8f4,18,Female,False,0,Good,51.17,Fulfulde,Single
+fcb5ce75-f893-4f0d-9df2-dcad41594e70,16,Female,True,0,Average,52.4,Pidgin,Single
+b021b5c2-ee33-46bb-a650-87db4f4a13b0,16,Female,False,1,Average,99.43,French,Single
+7955d65c-977e-4266-8e85-d9c2774902de,21,Female,False,0,Poor,59.21,English,Single
+9a274d50-766f-4da8-bb35-1f600d29e538,10,Male,False,0,Good,63.13,Pidgin,Single
+bc2549da-7e5f-488d-a9d9-a8a595ff21e4,13,Male,False,3,Poor,57.78,Local Dialects,Single
+31c34ba8-1bbb-4b7b-bb25-b77fac0dc6fa,14,Male,False,0,Good,69.28,Local Dialects,Married
+528a6d67-dd3c-4709-a35f-4d022c7b2d6a,14,Male,True,2,Poor,50.99,French,Married
+704bcec6-78b4-4e0b-8a5b-97e06cea316a,17,Female,False,2,Excellent,97.83,Local Dialects,Single
+510a95eb-c233-4f62-9b9c-036d38233ac2,17,Male,False,0,Good,91.66,Pidgin,Married
+75392127-1df4-452c-8884-3f762b63e16b,14,Male,True,3,Good,52.63,English,Single
+ac0a83f9-be65-4f9f-8ff9-3ec6eb961771,20,Male,False,0,Good,88.73,Local Dialects,Single
+47189277-7879-4674-8877-3fabc474a813,22,Male,False,2,Average,67.59,Local Dialects,Single
+c92684c8-6ac0-4122-8833-bf5d4b84934c,15,Female,False,2,Poor,53.25,Local Dialects,Single
+30739ecd-dde0-4b3e-8b82-d5afe9a45b8c,18,Female,True,0,Excellent,74.83,French,Single
+1b03b8f2-d5e7-46e6-a770-c26d2c29400b,12,Female,False,0,Good,79.04,French,Single
+e4c56436-bad8-49a0-a3d3-38da46f81636,22,Male,False,3,Good,51.1,Local Dialects,Divorced
+78816eb3-5fd6-4455-87d5-3bad42ecd16d,21,Male,False,1,Good,66.85,Fulfulde,Single
+8f25d0f6-3065-4a9d-95d8-9ee771b4b8c1,20,Female,False,0,Poor,51.36,French,Single
+2655d62b-ef86-4505-8d5f-de741e1d28ac,22,Female,False,0,Poor,65.11,French,Married
+85669659-108f-4457-b660-4e18d83f6063,10,Male,False,1,Good,93.18,French,Single
+51a40ab3-3210-4c74-9d25-780d51605bdf,17,Male,False,2,Good,61.93,Fulfulde,Single
+0906da29-4c5a-4ede-84a1-9f6343af20f8,11,Female,False,2,Good,81.74,Local Dialects,Married
+c5e4499b-d227-4d55-b61e-00ccb5ced150,21,Male,False,2,Good,70.31,Fulfulde,Single
+942c94d6-b32c-424e-97f9-20e0ae4c9d8e,20,Female,True,0,Average,96.84,Local Dialects,Single
+b6ad2f7f-f59c-4cb3-adc8-604f5034fc3e,18,Female,False,0,Good,73.09,Fulfulde,Single
+f2988b2a-b565-489c-97bf-c64032632de5,22,Male,False,0,Average,70.23,Fulfulde,Single
+9e4e3b87-38e0-425f-bba3-c764d3d4b68d,21,Female,False,2,Poor,71.21,English,Married
+00b3ec4d-6c93-48ef-b2ab-b1fe8a55ec9a,13,Male,False,1,Poor,89.29,French,Married
+2fd66305-f767-4807-9308-03c35fecc463,17,Male,False,2,Good,54.62,Fulfulde,Married
+3ed9fe76-f808-422a-917b-cdc00aeffe18,12,Female,False,1,Good,88.23,Pidgin,Single
+b9b00667-f051-4145-b047-d801f8f921d7,22,Female,False,3,Good,81.71,English,Single
+c7c0a8e8-2cdc-492d-adeb-35ef8ae2d7ac,14,Male,True,0,Good,89.68,Local Dialects,Single
+36943f82-bb37-4de5-b49b-ec3c84218485,11,Female,False,0,Good,58.17,Fulfulde,Single
+259e51ce-d0ba-4ff8-9867-6671bd4007ab,22,Female,False,0,Excellent,82.67,Fulfulde,Divorced
+bf047311-18a6-4d8b-84d3-4129c3e1e0b0,15,Female,False,2,Poor,59.19,English,Single
+49ba77e3-1229-413b-a628-3449d03fe462,14,Male,False,2,Good,88.19,Pidgin,Single
+6f27c935-b77c-41f4-9697-415b07f08ca6,19,Male,False,0,Average,85.57,Pidgin,Single
+16610a47-76ba-48ed-a0cc-0c16c70bc48d,22,Male,False,1,Good,56.83,English,Single
+b8888a53-f468-452e-a326-6c0e1dd4c909,16,Male,False,1,Average,95.03,Fulfulde,Single
+41a79600-1f94-4768-8bd5-4d2c989f33ca,21,Male,False,2,Excellent,52.17,French,Single
+317abe02-c884-43be-9485-8f0504a78dfc,12,Male,False,0,Poor,64.83,Local Dialects,Single
+c4a5497b-a531-433f-adfa-827de5fab384,14,Male,False,2,Average,86.78,Local Dialects,Divorced
+181a061a-3ca8-4506-973d-5b94aa32b6d5,20,Male,False,3,Average,74.15,French,Married
+13bb1e98-4c3f-406e-93e9-8dfa37874d70,22,Male,False,1,Good,52.8,Local Dialects,Single
+fe569288-0c27-4b2b-9bb5-dc8309c9b4f2,16,Female,False,2,Average,94.35,Local Dialects,Divorced
+f647de61-c3a9-4f5e-ab5c-bf3b861762a0,22,Male,False,3,Poor,69.4,French,Single
+9b5b1561-1645-4776-87f5-3f9837e16cd0,10,Female,False,3,Poor,89.81,English,Married
+f35c1148-358c-4f88-a39d-436dc385e372,12,Female,False,0,Average,77.09,Pidgin,Single
+1e68ec68-4dfc-4c0e-b1f7-a770317b9cb0,16,Female,False,3,Average,70.13,Local Dialects,Single
+ce7f9f23-021c-4788-8ebf-c6ed3bdeecfd,10,Female,False,1,Average,65.81,Local Dialects,Single
+bd1eeb60-52c2-4827-a3e5-6d0395131ac0,20,Female,False,0,Poor,52.8,Local Dialects,Single
+6729a09f-1fba-4c20-8b3d-5f26699a7d2e,16,Male,False,3,Average,57.09,Fulfulde,Single
+f8b3624c-78a0-401b-b064-f1ffcfb539cc,20,Male,False,0,Average,68.11,Fulfulde,Single
+ab255dbb-62e5-46f7-a07a-8b3706d65376,16,Female,False,0,Excellent,56.29,English,Single
+a8df3df6-1582-4172-9f02-eb8b179fa4c3,22,Male,False,3,Poor,74.67,Fulfulde,Single
+0247f59e-ff33-4462-a5bf-4c507da15519,19,Female,False,2,Good,53.47,Local Dialects,Single
+f7357296-cdb7-4e17-b611-c0e63201efd8,18,Male,False,2,Good,71.9,French,Married
+e14fab98-7f40-4682-8e11-ea2fcd0d4bd2,21,Male,False,2,Average,60.46,English,Single
+2a26db49-7bc2-4051-a06c-ae12214ac3b3,19,Female,False,0,Good,68.1,French,Single
+3687bbc7-4272-4736-a369-d1f578b3207e,13,Female,False,1,Excellent,66.98,Pidgin,Single
+22ed4ddd-2d9d-4e59-a509-7f2ba319f863,20,Female,False,2,Good,94.35,Local Dialects,Single
+ce88b5c1-6b7c-49ef-a41d-fea7db372e06,21,Male,False,0,Average,76.69,English,Single
+bb9c84ee-fcdd-4156-8363-7778858f2632,20,Male,False,3,Average,61.48,Pidgin,Married
+dc231710-b5a5-4568-91ea-ff7e4215b489,17,Male,False,0,Good,56.61,Pidgin,Divorced
+aea41c5c-8e66-4f0c-b338-e119dbd562d1,11,Female,False,1,Excellent,85.49,Pidgin,Single
+77b51b18-3a3f-4587-9526-800fb6879674,12,Male,False,3,Average,51.34,French,Single
+5594a45f-0620-4415-9e2f-2d36fac27681,21,Male,False,2,Average,81.49,French,Single
+3607e7ad-5f33-4581-ae7d-b33df6368cb2,13,Male,False,0,Average,88.89,Local Dialects,Single
+eb0dd3fb-af2a-45df-8822-8973b1386bfb,15,Male,True,1,Excellent,74.84,English,Single
+1d117b4a-a00a-435f-92f0-d8680d131439,10,Female,False,1,Average,84.32,French,Single
+8fd7c99a-7bf7-4189-a217-c41130d488f5,17,Male,False,0,Good,98.31,Local Dialects,Single
+a85017e9-e632-485c-a871-4e15ddbb7938,11,Female,False,2,Poor,94.06,French,Single
+f026b71a-c4ca-43a4-96a4-3dd3fa8337df,17,Female,False,1,Good,82.03,French,Single
+6607e4cb-562c-49f8-b631-4c92779d6c8e,18,Female,False,2,Good,73.37,Local Dialects,Single
+61513d60-36e0-4816-83af-5c1a901d71b9,11,Male,False,0,Excellent,71.71,French,Single
+d9ad8346-acd4-4e79-b90e-705177c4a1dd,15,Female,False,0,Average,72.67,English,Single
+b1524e28-f5ad-4936-ad45-a32f7b097617,13,Female,False,0,Excellent,56.81,Fulfulde,Married
+d6a8a1b0-862c-4b13-936a-0609fdd71b96,22,Female,False,0,Poor,89.22,English,Single
+1e64cf2e-bd52-4105-8251-6a0cba42eb84,13,Female,False,2,Average,61.29,Pidgin,Single
+b7703fa3-043e-4b7f-93e1-411176daceb5,10,Female,False,0,Excellent,68.89,English,Single
+3d5f5d86-d785-4ad2-b7cb-b754788bfb6f,17,Male,False,2,Good,73.5,Local Dialects,Single
+55569bb0-0619-4af2-a051-6311feb6e112,13,Male,False,0,Good,84.19,Local Dialects,Single
+ebdc8031-56c9-49fa-bb3c-3aa4f92a13af,11,Female,False,3,Poor,98.01,Pidgin,Single
+d579fde0-c450-4e20-a50c-85bbd46dd1a4,10,Male,False,0,Good,54.56,Local Dialects,Single
+3f45e260-ba0f-4aab-8ac1-19de3eb6c1a7,20,Male,False,2,Good,93.81,Pidgin,Single
+724e548c-fcc9-4a82-9cb5-19bf0e32a59b,19,Male,False,3,Good,74.17,French,Single
+2cba033a-bd73-4dbd-a300-d38cfdbfb55c,13,Male,False,2,Excellent,53.18,Local Dialects,Single
+ca679485-bf1e-4168-a225-6f5d897b9743,18,Male,False,2,Good,81.67,French,Married
+215ff96e-91b0-4709-be8f-1ea268fec9b5,14,Female,False,3,Good,57.31,Pidgin,Single
+09d08ef6-1395-479b-b536-621f3c9013f9,16,Female,False,3,Good,60.55,Fulfulde,Single
+6f180dfa-c9fc-4648-84bd-bf5c711edd99,10,Male,False,3,Good,53.07,French,Married
+4c45351f-565f-4d40-8e0e-2ea0f6cad440,10,Male,False,2,Good,58.0,Local Dialects,Single
+89e9ac92-cdae-4013-9cb7-d3a7b04a7ff4,18,Male,False,0,Average,64.74,Fulfulde,Single
+4b3e7669-2c54-4aff-b0b8-dbc07c5d103b,19,Male,False,2,Average,95.67,French,Single
+9cb2da0b-96ec-420a-ba40-2e4ff2f19ba6,22,Male,False,3,Average,80.07,English,Single
+b7701acc-ea18-491d-a601-c8145a5cbd04,15,Male,False,2,Good,50.05,English,Single
+53fbf813-1eeb-4321-a3ba-e727b2c3c399,10,Female,True,2,Excellent,64.9,French,Single
+fdb3271f-646a-434c-b17c-c8cc3ff4efa6,17,Male,False,0,Excellent,70.98,English,Single
+b6b90657-2396-4314-a1cb-e88de425d51d,10,Male,False,1,Good,95.71,Pidgin,Married
+3387bdd9-27f0-4ffd-b219-3f3523e3f17b,15,Female,False,3,Excellent,77.5,English,Widowed
+75580897-e38a-42a6-941d-4737e6ebe6d1,14,Female,False,1,Excellent,53.54,Pidgin,Single
+6cbf0527-b40a-449f-9bf1-54005662d21d,10,Male,True,3,Good,52.72,Fulfulde,Divorced
+1aca9db2-25af-4f8c-b0ad-8d80e9607346,22,Male,False,3,Excellent,94.44,Fulfulde,Married
+7d05e8f5-0f30-4263-a071-fd20a2dff32e,21,Male,False,3,Poor,70.77,Fulfulde,Single
+905d6b94-08b3-4337-81a6-a17ce1cb5ddf,15,Female,False,2,Good,97.03,Local Dialects,Single
+cdabcbdd-9e7d-49ba-b02c-c401a9b07fbc,18,Male,False,1,Poor,77.07,Fulfulde,Single
+96a7aa06-1b3c-4fb0-b8c7-5570c814f67d,15,Female,False,0,Poor,87.45,English,Single
+f537cbc9-8fa1-4f62-9e5d-c15873d00bf7,12,Female,False,0,Good,72.58,Local Dialects,Single
+1694a7e2-2a6c-464c-9748-dcdbf550f93e,17,Male,False,2,Average,53.28,Local Dialects,Single
+bd2b73b7-0030-4fb1-9255-9c9f2a09d6c0,19,Male,False,3,Good,72.85,Fulfulde,Single
+bf9618f5-98c9-4472-bc15-6ac68bd9af3a,18,Male,False,2,Average,77.7,English,Single
+259dd94a-9aaa-41d2-baae-5287898db5d7,18,Female,False,2,Excellent,85.27,French,Single
+45f0bac8-12d9-4209-b135-bf6561f81a47,12,Female,False,3,Good,79.94,English,Single
+d90cd693-f9aa-4b65-8c4e-71ea7954dc45,14,Male,False,1,Excellent,69.02,Fulfulde,Married
+eb4e8baf-cfd0-4570-9784-1ed80b942c98,16,Female,False,0,Poor,76.19,Fulfulde,Single
+0769dd34-84fe-4e47-a98c-50c5104dc81b,16,Male,False,1,Average,69.31,English,Single
+3e4e4955-7428-4816-901a-78fe0532cce1,13,Female,False,3,Average,66.73,Fulfulde,Single
+0db90ff3-9fb7-4427-8758-a61fad659db0,11,Female,False,3,Poor,91.7,Local Dialects,Single
+e194ea2e-431d-4b83-b56a-3d24e7c5949a,14,Female,False,0,Excellent,86.64,English,Married
+5a765e1a-5de3-4e54-879a-32952cde2243,13,Female,True,1,Excellent,54.02,Local Dialects,Married
+f3012b2a-1d41-4e01-bc9c-5c05e8015438,16,Male,False,0,Excellent,91.23,Pidgin,Single
+674c181a-99aa-4eaa-a436-bb17bcf5308b,19,Male,False,2,Average,66.85,French,Single
+13ef8e7b-7ba0-4ed8-8b56-fd6838fec866,19,Male,False,3,Excellent,87.66,English,Married
+bed2526f-87b6-4788-a11d-625e138d5dc7,20,Female,False,2,Good,55.99,French,Married
+b8f35e8a-5106-456a-b037-6ff6d994005a,11,Female,False,0,Average,62.53,Fulfulde,Single
+38a801bb-81fc-479f-8d29-68b4a5dc9db7,11,Female,True,1,Average,66.84,Fulfulde,Single
+944716c3-9537-4219-9382-eba1eef000aa,21,Male,False,2,Good,89.97,French,Single
+edcfbe79-cabf-443b-9ef2-aa44437f0495,13,Female,False,2,Good,69.78,Fulfulde,Single
+528f7e2e-36ed-459d-bb2b-fafda4f697a0,19,Male,False,1,Excellent,91.3,Fulfulde,Married
+ccf0801b-1ff7-4d10-b1cb-34c95caf8f9d,13,Female,False,0,Poor,78.83,Pidgin,Married
+d10a8f0d-463f-43eb-b5dd-8f2020a0100b,11,Male,False,3,Average,91.48,French,Single
+e47b3b37-3be5-4861-b2e6-0908aa634f4a,15,Male,False,2,Average,98.04,Local Dialects,Single
+4140a8cb-19ee-40fd-a6bf-098534cbad43,14,Male,False,3,Poor,52.92,Pidgin,Single
+420bc48e-3c67-4f3b-a9c3-f96c68f2b3b6,13,Female,False,3,Poor,82.9,French,Single
+112b1ecb-d345-4c29-85b8-c3df704d0329,21,Female,False,1,Good,83.46,French,Single
+33861e65-4b33-4dc3-86d3-b859d65b1c63,21,Female,False,1,Good,90.87,Pidgin,Single
+952ec948-ad53-477f-be4c-12e6dfc7d8d4,22,Female,False,1,Excellent,77.68,Fulfulde,Single
+6c615bd8-f806-4ad7-921e-7b3c54575f5f,17,Male,False,3,Good,77.02,Pidgin,Married
+35b651db-5d20-40df-8a12-e4c38ff5a8ba,21,Female,False,0,Poor,71.32,English,Married
+a7025446-f7e0-438a-a62e-68880977f530,12,Female,False,3,Good,97.52,Fulfulde,Single
+fe7980c7-6f8a-4a7c-bf8c-4d6d43b95cdf,13,Female,False,0,Average,87.76,Pidgin,Single
+d5b94835-4d97-4a0b-87f8-9ae0cdc09266,20,Female,False,1,Average,57.39,Fulfulde,Single
+4c805b38-84d0-4e1a-8acb-d267f7ea2627,20,Female,False,1,Good,62.91,English,Single
+756931b9-1200-455c-97db-73f93c85e4d1,15,Female,False,2,Poor,86.52,Pidgin,Single
+f3f6e167-9a66-42b5-8bd2-8a330617fb4b,16,Male,True,3,Good,79.76,Local Dialects,Single
+32be4aef-ad90-42d6-b538-db65a235f62d,13,Female,False,0,Poor,57.07,French,Single
+206a2773-0bee-4af9-a3de-47323a058dfe,14,Male,False,0,Poor,66.03,Local Dialects,Single
+82ea4e06-a0d8-4286-9889-725a9ed77ac9,18,Male,False,0,Good,56.49,Pidgin,Single
+8e93aa3b-34eb-4d65-8206-c33a37f514d2,16,Male,False,0,Excellent,90.83,Pidgin,Married
+fb696eaf-212f-4cbe-acaa-6356e772e902,22,Female,False,0,Good,96.73,Local Dialects,Single
+c688787e-667a-40bf-999e-189dc35a662d,13,Female,False,2,Average,99.78,French,Single
+46d35e8b-7439-4722-98e6-4f9f39142fe2,19,Male,False,1,Excellent,83.11,Fulfulde,Single
+f2812b29-c0c2-46d6-a1d6-baee92fb8eac,12,Female,False,2,Good,87.87,English,Single
+01e3d0b8-bfda-40b1-893e-9d40c59a1ae1,13,Male,False,1,Excellent,66.88,Fulfulde,Single
+75c3a6aa-8f38-4709-8bce-9a1703afe9a6,13,Male,False,0,Good,62.48,Pidgin,Single
+3d5a1d84-b9d6-4ef4-a5c7-fc235f0506b3,13,Male,False,2,Poor,52.01,Pidgin,Single
+01fb5b0e-944e-4a42-b6c4-c20822f8e37f,12,Male,False,2,Average,94.68,Local Dialects,Married
+6d2d8de2-5582-4a79-aa28-0eadbf94b4c1,15,Male,False,1,Excellent,96.89,Fulfulde,Married
+b8d93810-aa45-4150-898a-23caca260ae1,18,Male,False,1,Good,56.21,French,Married
+7cfa848a-2bfa-4565-aa10-132af762bbd1,20,Male,False,2,Average,51.98,Pidgin,Married
+217f3b54-0516-489a-a570-3456135b22fe,12,Male,False,0,Good,99.17,Local Dialects,Single
+f13a5b24-e33a-4b88-8ca5-951a5f7a43a7,19,Female,False,2,Excellent,80.35,French,Married
+7c72307b-a1ac-4fa1-a5ec-1ca64eb791d4,16,Female,True,1,Excellent,93.13,Local Dialects,Single
+89944508-f5ba-493e-b144-bcd020d733f2,19,Male,True,0,Good,96.94,French,Divorced
+fe68490d-21b2-435d-ac26-89f515bb2448,16,Female,False,3,Poor,86.31,Local Dialects,Single
+5809bffa-c068-43f5-afd4-b0d89fbdd777,10,Female,False,0,Poor,84.52,Fulfulde,Single
+95f1d461-abc1-4f6f-b695-4b13a4551012,19,Male,False,0,Average,90.7,Fulfulde,Married
+fb308f5b-8be3-4798-a045-1ad554222330,17,Female,False,0,Average,69.75,Fulfulde,Single
+8e5fe3b1-d395-4839-8408-50bd8ff10243,12,Female,False,0,Average,63.93,English,Single
+6b528734-5daa-42ad-9655-b6e682e3c556,13,Female,False,3,Good,58.58,English,Single
+76baf369-0426-4295-8c93-af20d11a5b3d,15,Female,False,1,Average,58.68,Local Dialects,Single
+b30949b4-5cd8-4a2f-aa2e-fabfe977ce98,11,Female,False,2,Good,90.33,Pidgin,Single
+efe6e453-1199-4a69-82b0-3d8761a3e71b,11,Female,False,0,Good,62.65,French,Single
+5b0a3ae8-63b1-4c9c-8bbf-2270a1fd7c51,18,Female,False,3,Poor,59.51,English,Single
+26c8d171-eb3a-4582-af7e-a59551c982d4,13,Male,False,3,Poor,62.5,Fulfulde,Single
+693c30e0-5088-42d6-b2ad-8c45e7e91f0d,12,Female,False,3,Average,61.3,French,Single
+3522ab2f-156e-49a2-a89c-092ef7102ce3,20,Female,False,0,Average,56.08,English,Single
+99cbaeca-3bd3-4ecb-b7f8-eed8a0e0fc47,17,Female,False,0,Poor,62.37,French,Single
+f223b66c-716d-41a6-a414-070853e9295f,21,Male,True,3,Good,88.17,English,Single
+2b6c9589-6b42-449e-b0f6-f9439ef55618,18,Female,False,3,Poor,83.91,Local Dialects,Single
+101b16d9-587a-498e-bd22-6776a08f140f,19,Male,False,3,Excellent,78.16,Local Dialects,Single
+15f25384-ed52-46e9-aa11-739d07d00f45,19,Male,False,2,Good,97.9,Fulfulde,Single
+95647109-3365-4b9d-8e60-056d393ac831,10,Male,False,3,Good,74.08,Local Dialects,Single
+0823291e-dc9d-4dc9-b69f-65aa18845c8b,17,Male,False,1,Average,86.55,English,Single
+b9211504-b02f-4c96-847f-0cd3e05aaf46,11,Male,True,0,Poor,63.09,Fulfulde,Married
+43c90390-369d-41c3-9b60-d44128ffce8b,11,Female,False,3,Average,88.74,Local Dialects,Single
+f8928947-b8ef-4caa-90ca-bb3d4b1c364a,17,Male,False,2,Average,50.06,French,Single
+15d35848-b270-461c-b20d-eaf462e06819,11,Male,True,0,Average,92.21,French,Single
+50abc108-fb18-45e8-bafd-41035051a753,19,Male,False,0,Good,76.86,French,Single
+ca89e66e-e04b-40cb-b64f-4235af73d56e,20,Female,False,0,Good,67.37,Pidgin,Single
+f07994b9-d992-424e-bc16-ce1b14f98a19,18,Female,False,1,Average,51.94,Fulfulde,Single
+734b6dbe-dcdc-451d-8275-af4c2bafb226,20,Female,False,1,Average,59.35,Fulfulde,Single
+0c02fef1-c476-447e-9456-b9305b9cc919,16,Male,True,0,Excellent,62.47,Fulfulde,Married
+b0799110-24ed-4028-8b6f-4bd772af99cb,11,Male,False,1,Average,51.45,Local Dialects,Single
+cb7c1c3c-ad54-433d-bf39-abb5ba2c2a49,11,Female,False,3,Average,54.33,French,Married
+a3cd4449-71c3-4fb8-8c7a-2dbd84c82e48,17,Female,False,0,Poor,91.64,Local Dialects,Single
+10ae7f39-988f-4d7b-a0f0-5b8412545925,12,Male,False,2,Average,88.43,French,Single
+eb909794-fd04-4ff9-93da-64d74f0c3bf8,12,Female,False,0,Good,71.68,Pidgin,Single
+2730b4be-a6db-4b4d-9e74-ac78623c79a1,20,Female,False,0,Poor,50.06,Pidgin,Single
+3e893cb8-816f-4306-abff-b6774293a185,11,Male,True,1,Poor,66.82,Fulfulde,Single
+84ae4eb7-b2b5-4068-93be-6c2dd9de6e73,12,Male,False,2,Average,84.03,French,Single
+5d5cef21-55f8-49f9-9901-881f6afee76f,18,Male,False,1,Excellent,63.8,Fulfulde,Married
+e2a9bd11-a831-4063-9658-b876ecb1539d,21,Male,False,2,Poor,81.08,French,Single
+5b7f62eb-ba6c-4cc1-9d98-8695eecce760,16,Female,False,3,Average,89.89,English,Single
+80c43883-6cbc-4c78-b678-78b12128063c,13,Female,False,3,Average,66.93,French,Single
+3eef7455-25fe-452e-8bb8-253958880d77,17,Female,False,1,Average,52.39,French,Single
+9d5c532e-96eb-42e3-af0f-3f7424a6ece3,11,Male,False,2,Average,93.79,Fulfulde,Single
+36a93537-8161-41f7-ae6e-7c4ce1a9816e,19,Male,False,3,Poor,88.17,English,Single
+1103d7a2-1267-471e-8152-2fd3dee734a1,14,Female,False,3,Excellent,51.15,Fulfulde,Single
+331af5c7-234a-4c6c-8dc0-efc1b46563b9,13,Male,False,0,Average,64.79,Fulfulde,Single
+186cf4b3-d483-4001-a8f4-669bdfc1043d,19,Female,False,3,Average,71.52,Pidgin,Married
+efcea264-7431-4f84-bb1b-9bdb3ae6b2ab,22,Female,False,0,Excellent,78.77,Local Dialects,Single
+ed9e2827-87ca-4f57-ad6f-ebb50b0cdc71,21,Male,False,3,Good,62.09,Local Dialects,Married
+4a91eebb-47f7-470e-bde0-63ccfbf69623,13,Male,False,0,Good,70.88,Fulfulde,Single
+d9bf693b-2129-448b-94b4-a01a6525b324,17,Female,False,1,Good,88.11,Pidgin,Married
+da30802c-01db-4b29-bb8b-d6c9ee0bdd6a,10,Male,False,1,Good,57.74,Fulfulde,Married
+0ebcca81-280c-4a38-a0b4-a3755002ff25,10,Female,False,0,Good,56.85,Local Dialects,Single
+ea43091b-5529-4f5b-a83e-4001fbf1da04,19,Male,False,3,Poor,96.95,English,Single
+cbe1e477-1083-45d9-9342-ec25bb3fb001,22,Female,False,2,Poor,99.77,Fulfulde,Single
+d9d6cf7f-9c88-435d-b9f3-35c15609f00d,22,Male,False,3,Average,70.38,Pidgin,Single
+d9a56dd6-2656-48e6-856f-57560ba53575,16,Female,False,1,Good,68.6,English,Single
+3c8093e6-5c2a-42d7-a3bc-11a881d11911,19,Female,False,0,Poor,80.97,French,Married
+feb4247f-b1f7-4de4-b1d9-34b42d01c6f0,16,Male,False,1,Excellent,85.15,Fulfulde,Single
+86c7de79-e852-4388-9fad-af83a4e35d27,20,Female,False,2,Average,88.51,Local Dialects,Single
+b53ff075-3b17-4820-a545-a731d5212e07,15,Male,False,0,Poor,67.46,Local Dialects,Single
+21addd31-4f0d-4306-9f0e-9ff73713cb67,22,Male,False,0,Excellent,74.93,French,Single
+aca1e767-09f8-4ea0-9d48-30b7e3913fa9,12,Female,False,1,Good,73.36,English,Single
+71962d9e-03ea-40c3-bfdd-b6a0c3fde8dd,16,Male,False,2,Poor,68.9,Fulfulde,Single
+19b36895-a295-49c3-95d4-97660fdec8c5,14,Male,False,3,Poor,64.78,French,Divorced
+e3aff10a-eed7-4ef4-af1f-244ed4bbf94b,11,Male,False,0,Average,66.47,English,Single
+5439084d-25a1-455d-a5f5-d1cb3f87e672,12,Female,False,0,Poor,85.82,Fulfulde,Married
+04250bfe-315a-4b5e-8efd-bb78c2e6ea96,12,Female,True,1,Average,95.11,French,Single
+a8822060-5d02-46a1-b2d2-c3f09d529451,10,Male,False,1,Good,54.33,French,Single
+0aba39bb-20b2-4576-864c-eefc67732711,10,Male,False,0,Excellent,67.62,Fulfulde,Single
+0ed1ca4e-adab-4dd4-83cb-84fad1d6a461,12,Female,True,2,Poor,96.05,Local Dialects,Single
+8db69bc3-afe7-4c91-88fc-53f0a0c353da,17,Female,True,0,Good,84.84,French,Single
+e7c339f9-cb98-4920-9e7e-3bd72a37f3f9,16,Male,False,1,Average,88.94,Local Dialects,Single
+a100d879-7cf4-428b-a978-f5d0e2bd6a1e,14,Female,False,1,Average,85.9,Fulfulde,Single
+2e971a13-c174-446c-9b8b-68f193cd7e9f,13,Male,False,0,Good,82.55,Fulfulde,Single
+a4888bcc-dad5-4aa4-9495-afc1fa24dab7,13,Female,False,0,Average,91.39,Fulfulde,Single
+d02dffbf-0caf-478c-b355-9bffff364cf7,20,Female,False,1,Average,69.16,English,Single
+4492b8ca-1cee-424c-a881-4ffa521ba228,21,Male,False,0,Average,81.76,Local Dialects,Married
+74a6eed6-e15c-4fa3-85a6-257095184cde,13,Female,True,0,Poor,90.0,English,Married
+09395210-0ad6-486b-a2c8-23bb76f9cd32,10,Male,False,0,Good,90.25,English,Single
+5d7fa251-6160-4a4c-b871-c64cc0417229,13,Male,False,3,Poor,84.62,Local Dialects,Single
+d0456452-5212-4dda-b4d2-640a8b2d3c5b,19,Female,False,2,Average,53.1,English,Single
+dbcf9fbe-1dfa-4d9d-acf3-c42ccf981053,11,Male,False,1,Good,93.29,Pidgin,Single
+d28ae03c-4205-4117-9747-c873e6b8944e,16,Male,False,2,Average,65.19,English,Single
+6c211501-4779-4cb5-97ae-0923fe850eeb,18,Female,False,1,Poor,87.06,Fulfulde,Single
+40d591ac-c759-4990-9302-6402ced2d93d,18,Female,False,1,Average,79.41,Local Dialects,Single
+4cd8fe2c-df54-4276-81e8-0a0bb7e47f56,16,Female,False,2,Good,80.97,English,Single
+511170b4-bc67-4648-8347-20f26c952bec,15,Male,False,0,Good,64.61,Fulfulde,Married
+61077c73-a1f8-4b08-a005-989e912f325e,19,Male,True,3,Good,70.69,Local Dialects,Single
+9412a86f-70a2-4f5a-9a8d-9fe0f98d0ce2,19,Female,True,2,Excellent,65.88,French,Married
+bc53a2dc-4343-4eaf-b117-593cac69df07,10,Female,False,1,Good,77.36,Local Dialects,Married
+161d0df2-be2b-400b-82d9-abbbf347d52d,21,Female,False,3,Poor,61.46,Pidgin,Single
+aa32de99-ac46-48da-9556-b3686d6d4f5f,13,Female,False,0,Good,77.82,English,Single
+3e7cbc94-9d33-4f34-8274-8973bb6b3229,11,Male,False,3,Poor,81.93,Fulfulde,Single
+76790e09-4dba-4ced-a2ba-7813339647b4,15,Female,False,2,Average,89.6,Fulfulde,Single
+e31c3baa-0a8d-4417-91fb-6a111833d88d,15,Male,False,0,Average,65.13,English,Married
+6853881d-6ef9-4fc4-a1d6-0b117eb7f58d,17,Male,False,2,Excellent,93.77,Fulfulde,Married
+b3c71348-4dea-4164-935b-fbdb29987162,22,Male,False,1,Average,55.25,French,Single
+0556990f-4c8a-4aee-b1c8-5db32f5ae527,11,Female,False,0,Average,58.78,Fulfulde,Married
+d3a01995-caa4-4a5a-9330-7f69422f82a9,18,Male,False,3,Poor,84.46,Local Dialects,Divorced
+2f4cd82c-91ff-4cbe-998f-423090290cf4,22,Male,False,3,Excellent,86.26,Pidgin,Single
+aa0f7070-e890-45e5-91db-32148c821023,16,Male,False,2,Poor,51.61,Local Dialects,Single
+07fef784-60c3-4257-bf0b-5ca233557693,18,Female,False,2,Excellent,70.74,English,Single
+2b75804b-546e-4fc5-9379-7b2a26ecc1e3,19,Male,True,1,Poor,72.36,Local Dialects,Single
+dd1915a5-be9e-4579-a026-8eefd51f82e5,15,Female,False,1,Average,58.64,Pidgin,Single
+e7188bad-e4b2-4e01-aacf-917332a61a36,16,Male,False,1,Good,71.87,Pidgin,Single
+c2f81ebc-17e1-4972-89d0-a7820d9d2cda,14,Female,False,1,Average,72.31,Pidgin,Single
+65f3bcc6-75e8-426d-b6dd-a83cc195613a,20,Male,True,2,Excellent,70.08,Pidgin,Single
+b3d14783-8466-494d-b6b6-52e14a0c679c,10,Male,False,2,Average,96.35,French,Single
+b8bf6d4a-0d23-4acb-94c3-d64e96a6d4f5,11,Female,False,1,Good,98.65,Local Dialects,Single
+283dacf6-6962-45dd-9dec-b6bf83a13477,20,Female,False,1,Poor,71.85,Pidgin,Single
+0230af5b-6771-47b3-a573-e56b3c89d0ec,13,Male,True,2,Poor,51.7,Local Dialects,Single
+03dadaca-4312-4818-adfa-afda9a646eb8,10,Female,False,2,Good,74.73,English,Single
+cac35e92-9806-430f-94be-5bc47a923db5,12,Male,False,3,Excellent,57.97,Fulfulde,Single
+76fae141-4d45-4d55-ba0e-664464ce1a80,14,Male,False,2,Poor,55.11,Pidgin,Single
+9b9d2931-3b7b-4cb5-831b-4b1c84bf7f9d,18,Male,False,0,Excellent,75.3,Pidgin,Married
+09bcb508-77a3-4f9d-9260-aab87df8b17b,16,Female,False,0,Excellent,94.36,Pidgin,Single
+77d86f1b-6e18-4be3-b27a-74b746a65518,18,Female,False,1,Poor,88.58,French,Single
+607f92a5-ebe8-4c91-960e-556d93c9484a,16,Male,True,3,Poor,72.07,Pidgin,Single
+dca4a78d-7016-43e4-a9e4-5cd6aa91cb36,14,Female,False,0,Excellent,95.74,French,Single
+eb4bd818-7dfc-4093-8fea-7ea5c1eaea85,16,Male,False,3,Good,91.15,Fulfulde,Married
+954fe8c8-0d41-4dec-baa7-877665490606,21,Female,False,3,Excellent,94.25,Fulfulde,Single
+39d411ac-74c2-45ee-b32b-d0260a136132,19,Male,False,0,Good,71.31,Pidgin,Single
+925ecc16-3a3f-4e5f-ae42-3b1b184a4ae2,11,Male,False,2,Good,87.76,Pidgin,Married
+38563a63-67f7-4cf6-8d19-69080bbc0483,19,Female,True,1,Average,97.61,Local Dialects,Single
+d517f58b-8593-4ef9-a25a-943e63173b91,18,Female,False,0,Average,68.04,Pidgin,Married
+701753f0-42c9-4ae7-a019-bf5b963582d9,15,Female,False,3,Good,52.95,French,Married
+1540a982-f2d1-41e5-ac4e-f5bfce30306a,17,Female,False,1,Average,88.44,Pidgin,Single
+32073dea-6dbb-4a1a-8534-8eb32e4c1331,21,Male,False,2,Good,84.47,Local Dialects,Single
+0b5bb9ee-c8bf-4ecb-8a94-0b616542d412,17,Female,False,3,Poor,78.25,English,Single
+efc083af-91ab-4695-8877-a13c5799e19f,12,Female,False,1,Excellent,81.05,French,Widowed
+27eef439-ba54-4bdf-b6ca-93a6d19eaca7,10,Male,False,3,Average,52.3,French,Single
+0b42a1f5-21b1-4821-9fce-cff3b7b98b43,16,Male,False,2,Excellent,96.84,English,Married
+9c5f1f31-de37-47eb-a50b-2bf7aa871439,13,Female,False,3,Good,64.79,Local Dialects,Single
+ed5106b6-d33c-4188-bf88-904db7d94290,18,Female,False,0,Average,84.03,Fulfulde,Single
+dca41c86-7e38-4e2f-9190-b3ecb6dd6a04,17,Male,False,2,Average,93.85,Fulfulde,Single
+95c34ea6-1432-4d7b-ac7f-424097262ef9,16,Female,False,3,Good,83.55,Pidgin,Single
+42446638-3ee1-4e67-ae93-080370cdba3c,20,Female,False,1,Good,65.01,Pidgin,Single
+a5caf3cd-5b4f-4f76-8b40-7d9a469d13b9,10,Male,False,2,Poor,63.5,Fulfulde,Single
+d22ac8af-a311-475f-b5ae-22327a6c47c8,16,Male,False,1,Good,99.89,Fulfulde,Single
+6d32012f-fe71-4d07-a0a4-b0d4897c3cb2,21,Female,True,0,Good,83.5,French,Single
+88604fa7-9003-4ab0-9d0c-efed8d732e20,12,Male,False,0,Excellent,96.48,French,Single
+754cd0c9-f134-44e8-ba99-4b72f5f8851a,22,Female,False,3,Poor,67.38,Local Dialects,Single
+9aed28d9-175d-4c2e-a2dd-af9746041583,18,Male,False,1,Excellent,84.01,English,Married
+4d8ec8c2-7f7f-4bbb-b794-6f7361a68861,18,Female,False,1,Poor,81.72,French,Single
+cfa1b305-3599-4fb8-ad8d-74af7db9158d,18,Female,False,2,Good,76.56,English,Single
+99f06b8b-a86f-451a-8dff-841e02b2db2d,10,Male,False,1,Good,79.24,French,Divorced
+193dc0e3-3f3b-4049-be0b-835a685011e5,10,Female,True,3,Average,52.15,Pidgin,Single
+3b5f138f-6936-4498-8e79-63b34d74ef4a,16,Male,False,3,Poor,70.07,Fulfulde,Single
+301f4a6c-5524-43c6-9507-c3627d2b4500,21,Male,False,0,Average,67.77,Local Dialects,Single
+094e23e9-9f8f-461d-a276-7f5c632cab38,18,Male,False,3,Good,86.95,French,Single
+39916602-2157-4af4-83ad-2a76f44f7bf3,16,Male,False,1,Excellent,77.76,Pidgin,Married
+5e875041-6232-4ec4-a273-fcd76c05f172,12,Female,False,1,Good,54.91,Local Dialects,Married
+744cf580-5341-4b34-8213-d9d8f5317524,15,Female,False,1,Poor,82.79,Pidgin,Single
+8809ad50-e95d-43ff-b7f8-3f67fc3219b3,14,Male,False,3,Poor,72.31,Fulfulde,Single
+7685f64a-06df-4d5f-8791-e801f49a741f,11,Male,True,2,Good,96.64,Local Dialects,Single
+09728e99-cce4-468f-ab5d-26b6ef841ffd,21,Female,False,1,Good,94.27,English,Single
+bbdeb425-1fdf-4a1e-aa72-8c954e2f509b,20,Male,False,1,Average,59.03,French,Single
+39cb3578-7474-4449-8ad5-9c5da59b2b26,15,Male,False,1,Poor,56.7,Fulfulde,Married
+1861876c-cc55-4719-b67a-f7c0132f01e1,10,Male,False,2,Average,60.92,Local Dialects,Married
+635072f1-d151-4e31-a41a-fc0040809b66,18,Female,False,1,Average,72.98,Pidgin,Single
+8f7100ad-ca12-49d1-ab9b-d4f679368e6e,12,Male,False,2,Average,51.74,French,Single
+73a82e84-c191-473c-85a9-abb887280029,17,Male,False,2,Excellent,72.52,French,Single
+4e5b07a7-68e1-4cc9-b34c-96bdedbd3b04,21,Male,False,0,Good,62.28,French,Single
+c14713d2-3f22-4bce-86ee-2ce6c6ee086b,20,Male,False,2,Poor,92.8,Fulfulde,Single
+fc21e817-c7fd-41b5-aad1-9ba5291eeb90,12,Female,False,0,Excellent,70.88,French,Single
+0ebe427d-474f-4e5e-a8da-aeebbb82e0ba,19,Female,False,3,Poor,60.67,Fulfulde,Single
+ea283425-2c14-4023-8082-48ed1cdd3419,14,Female,False,1,Poor,99.15,Fulfulde,Single
+b801b011-38b4-41bb-9328-af15032cb979,12,Female,False,2,Average,50.42,English,Married
+ed77b40a-0107-40d9-b43e-c47b2c644853,14,Female,False,3,Poor,54.69,French,Single
+c7635711-ec14-4a00-a68a-53279a838c17,10,Male,False,2,Average,50.03,Local Dialects,Single
+7c692134-f27b-46d3-9247-529914cade46,17,Male,False,3,Average,98.28,Local Dialects,Married
+6d420f35-c64b-4df1-9770-e45e2a02b9ee,19,Male,False,2,Average,85.35,Pidgin,Married
+abefb676-688a-4afa-aac8-ba139458ccaa,19,Female,True,3,Excellent,72.48,English,Single
+529cf1e9-673e-4200-91a3-fa335f001de7,10,Female,False,2,Poor,62.75,French,Single
+b2730bd5-f1d6-42e1-ba7a-26513e8d93de,16,Male,False,2,Good,67.87,Local Dialects,Single
+84da2194-d9bf-4cf5-9a06-74cb0bd2a998,21,Male,False,0,Average,60.66,Pidgin,Single
+3ecbb65c-1883-4f20-a301-f4a3bd8f7d2d,15,Male,False,1,Good,63.47,English,Single
+30827316-65bc-4164-8976-07de014df0de,19,Male,False,1,Excellent,99.67,Fulfulde,Single
+0951e6ab-307f-48f3-a245-0996fbb1999b,22,Female,False,3,Good,56.3,Pidgin,Single
+e92abc26-3412-4cdf-9be3-c5ab59f60aff,13,Male,False,2,Average,79.38,English,Single
+4ec9f9a5-9865-4c87-b601-4f5cc3fd678e,17,Female,False,3,Poor,98.9,French,Single
+df1ba9ee-ac65-46a6-9bdd-579aa15a1bf4,22,Male,False,3,Excellent,96.37,English,Single
+e60c618f-0e16-4533-a00b-8f46b8070e10,16,Female,False,3,Excellent,84.63,English,Divorced
+bc90ea78-154d-4b7e-83a1-1be2a1b1ac92,16,Male,False,1,Excellent,97.69,English,Single
+27be4df9-0a25-40a1-8fdc-9bc0729170f4,13,Male,False,1,Good,81.78,Fulfulde,Single
+feb246db-1d2b-4bf2-9e95-ed704aa60d3a,10,Female,False,1,Average,90.6,French,Single
+8ea2daed-3b19-44b5-b0c4-5b107dc9b5c3,11,Male,False,0,Good,74.03,Fulfulde,Single
+8e7a32cc-03a0-4282-bbbf-0ac0da63de84,12,Male,False,0,Good,88.69,English,Single
+b2e0283e-6b55-4a2c-bdec-57d507afc43c,21,Male,False,0,Poor,72.54,French,Married
+f40b0d6f-e78d-4e23-8cb9-5b7dc301a9cb,19,Male,True,3,Poor,98.15,Pidgin,Single
+64bb3e30-3223-4e3d-b6c3-e1092fa30d74,11,Female,False,0,Good,89.14,Local Dialects,Married
+0a0fa63c-46a0-410b-b055-4773eb6266cd,20,Male,False,0,Excellent,77.09,Pidgin,Single
+f3f47864-d4fa-457c-8aad-4a624394c286,18,Male,False,1,Good,55.82,Pidgin,Single
+6be1c044-c12a-483f-b59c-0d7e069dede4,21,Male,False,2,Poor,75.92,English,Single
+20f908cc-b6a0-4f17-8132-27120c2b9117,15,Male,False,1,Average,94.67,Fulfulde,Single
+bf9742dd-fc2d-45bc-af0e-ada537567be2,19,Female,False,2,Good,66.22,French,Single
+879b29a5-d2d5-4396-b392-17b15b8b82f2,18,Female,False,3,Good,54.46,French,Single
+ea47b8ac-3364-4245-bac5-cb3e096c45ef,19,Female,False,1,Poor,65.1,Pidgin,Single
+5cba0e00-ade8-4e49-bf63-9a30e15ea95d,16,Female,False,3,Good,98.88,English,Single
+f41042dd-ebb6-4bd9-94c2-62d07e9fd41e,16,Male,False,1,Average,93.89,Pidgin,Single
+69c39527-114f-41f6-bb8b-df498d89d017,22,Male,False,0,Poor,87.36,English,Married
+37a138f1-e8b5-4a09-9ec9-ad471496ee1e,15,Female,False,2,Good,88.92,Local Dialects,Single
+9f542664-db39-4a0a-8df7-ff7f7d700c4d,14,Male,False,0,Average,72.22,Fulfulde,Single
+ccc1bb9b-0779-407b-80cc-bc0dde3ea0da,15,Female,False,1,Good,77.21,Local Dialects,Married
+210023ce-a4f4-4223-b130-dd123d3c52a1,11,Male,False,1,Poor,62.54,French,Single
+3bc90170-17de-48a3-b211-0f6c8fd46838,10,Male,False,0,Excellent,98.66,French,Single
+0aacb422-d3e7-45bc-85bc-b9bd1ed5ea08,17,Male,False,1,Good,50.47,French,Widowed
+9d0031e9-2467-4fe0-9882-6af5725f550e,12,Female,True,1,Average,96.51,English,Widowed
+71f91ce8-9dd1-424c-9f4d-9aa04457dae4,13,Male,False,3,Average,75.04,French,Married
+800376f7-76b2-40f6-8681-59062af3594a,17,Female,False,3,Average,65.16,English,Single
+56b260ff-8e17-494b-b391-b1be5684230a,10,Female,False,3,Poor,58.29,Fulfulde,Single
+4a64dcae-6a36-4bc0-a327-81bd0250aa24,13,Male,False,3,Average,57.24,French,Single
+99da43bc-ae6f-4b54-b322-c2eff7f8ad63,13,Male,False,1,Excellent,60.11,English,Single
+0568bd25-e9e5-4c20-8df3-0d4358f930fc,16,Male,False,3,Good,84.88,Fulfulde,Single
+6790fe47-1783-4c9e-8166-3f7799bf6777,12,Male,False,1,Average,90.86,Local Dialects,Single
+ce0ecdf9-5cce-4368-ab0b-9e60cbcee44d,18,Male,False,2,Poor,57.31,French,Widowed
+a45a2a3e-320a-458b-905b-43ec2e11d9eb,16,Male,False,2,Excellent,68.62,Local Dialects,Single
+55920edb-8774-40db-9f1c-3acb145307c8,11,Female,False,3,Average,81.98,Pidgin,Single
+ff6a2672-f899-4a49-a2d3-9126685d1e12,13,Male,False,1,Excellent,55.06,Local Dialects,Single
+e59a0d9c-eefe-486e-9565-03e98d7935af,10,Female,True,3,Excellent,71.61,Fulfulde,Married
+17af94b2-cfb7-4c3e-9190-eca8ef97ec37,21,Male,False,1,Excellent,95.37,Pidgin,Single
+473dacb2-3d13-4421-86f1-4bc823e82c2f,16,Male,False,3,Poor,53.83,Local Dialects,Single
+01519158-b3a0-41f1-bbee-0597dc91ec67,11,Female,False,1,Excellent,65.17,Pidgin,Married
+844183a5-dd3b-4c93-ae57-e1f1c8550fc4,21,Female,False,2,Good,96.28,Pidgin,Married
+5e089106-459f-427d-b3dc-75c2e336081a,10,Female,False,1,Good,82.2,Fulfulde,Single
+a7245054-d59f-4bb4-baa1-bef851597fb6,22,Female,False,1,Excellent,56.23,Fulfulde,Married
+08cd783c-5bba-458d-b733-b4ae99274dab,10,Female,False,3,Good,87.65,Local Dialects,Single
+8367b45b-b6e6-4f6f-8994-57c4d3394ec3,14,Male,False,2,Average,71.06,French,Single
+7aa6fffc-f57b-4c41-ab2e-7b964f32ba1d,12,Male,True,3,Average,65.84,Fulfulde,Single
+aafed112-798b-4021-912a-f46468db0e5a,16,Male,False,0,Average,88.85,English,Single
+df397bf6-97f1-4502-9e11-c024fc20659c,20,Female,False,0,Good,96.73,Pidgin,Single
+8b6e7e17-5da2-4125-917f-c80f8ebe7a41,15,Male,False,0,Excellent,59.47,Fulfulde,Married
+c5af2227-8dd5-415b-85e9-0b9a991c0004,13,Male,False,0,Good,84.89,Local Dialects,Single
+0c5c9964-b312-4824-a374-6326b64eda79,17,Female,False,3,Good,80.76,Local Dialects,Single
+30d1ea6b-e928-43e1-a471-fd4dbbbff98e,13,Male,False,2,Average,75.04,English,Single
+c67bb6ee-43bd-494c-9e6c-59d120923bac,12,Male,False,2,Average,79.44,Pidgin,Single
+3de540dc-93e3-4a6e-8045-af6c24107c3b,21,Female,False,0,Good,90.94,English,Single
+9d383ea4-07f7-43e6-ac14-d6c112013bc8,20,Female,False,2,Poor,98.43,English,Single
+e80d7230-7697-48f3-87f6-9d61f5bfe9a1,20,Female,False,0,Poor,82.5,French,Single
+ffaefc8e-42f6-4690-8aa2-628c1690840b,20,Male,False,1,Poor,95.85,Fulfulde,Single
+5fb5d2ba-b2b1-47f5-9e23-06473e241a62,10,Male,False,1,Good,68.97,French,Married
+33bac83f-4745-4f2c-ab4b-cf5eef77fa91,16,Female,False,1,Good,64.02,Fulfulde,Single
+80f50093-af37-41bb-b024-49b39d99394e,20,Male,False,0,Good,65.78,English,Single
+5f604863-3c17-45e8-a18c-81fe39ce71be,14,Female,False,2,Good,70.17,French,Single
+484b50f6-20cd-4d74-90cd-cfc3ea5e4717,19,Male,False,0,Poor,80.09,English,Married
+9dd1205b-37e0-4edf-b741-67646e288d81,11,Male,False,0,Excellent,54.17,French,Single
+2a0f142f-8889-4db7-9a60-15fdfa3caf27,11,Male,False,2,Good,90.85,Local Dialects,Married
+f406ed7b-581c-414a-bf3c-642759e156c1,20,Female,False,0,Average,79.1,English,Married
+b4c63481-4261-49f3-8709-0bfbd42bfa5a,17,Male,False,1,Good,88.58,French,Single
+0c88d1ec-92df-49d9-be75-4e1a620a1177,13,Female,False,3,Excellent,79.79,English,Married
+316606f5-2511-40de-ba88-e5c76afee537,20,Female,False,2,Average,94.23,Pidgin,Single
+c792d2c8-085c-4089-b5ba-4648152a5671,20,Male,False,1,Poor,60.71,English,Single
+fdaccd02-094c-44e5-8959-fbde380d88d6,10,Female,False,2,Good,62.54,French,Single
+cff01b4e-801c-42de-b851-7d013dc92a6e,13,Female,False,2,Average,63.49,Pidgin,Single
+5e5640ad-8f77-4b70-b5de-64474e7986db,10,Male,False,0,Good,87.43,French,Single
+5889fbb6-09f5-4134-a7e8-30f1cfca3b94,10,Male,False,1,Good,89.74,French,Single
+fdfb0e8e-ec6e-43a0-8a89-d3d503f7027f,22,Female,False,1,Good,66.94,Pidgin,Single
+b4d59d48-0ab3-4435-9079-77e9fc870ac7,10,Male,False,1,Poor,83.24,Local Dialects,Married
+39f72f79-f519-4d00-bd0c-9f9e8bc46bdc,18,Female,False,1,Excellent,87.78,Local Dialects,Single
+dd950ed3-bd86-4369-a94f-6ae708fdffae,16,Male,False,1,Average,83.91,Fulfulde,Single
+032e3f0a-f679-4b6b-a12b-ee69e93e72a8,12,Male,False,0,Poor,91.11,French,Single
+db88b0ac-5843-418a-93fd-c4e58a8f7dfa,10,Male,False,3,Good,74.6,Local Dialects,Single
+38cfb265-2b43-43ed-ae23-ab2157ad9203,12,Male,False,2,Excellent,59.51,French,Single
+6c982e51-e76d-4b5d-a301-4bc0b87e2c95,11,Male,False,2,Average,68.8,Local Dialects,Married
+2bca1731-3da7-4ece-836a-a5c94ea57ba0,13,Female,False,2,Good,94.77,Pidgin,Married
+c859c7e4-a51f-4a31-8dad-cd4ae9b3ec03,16,Female,False,2,Excellent,59.66,Pidgin,Married
+ee2eb958-f03a-43a6-8c2f-146073e47e91,17,Female,False,1,Excellent,74.47,Fulfulde,Single
+0fbfd7e7-5b69-4b93-bb20-80df862f4d11,19,Female,False,1,Average,56.07,Pidgin,Single
+3374b0c2-5e55-4965-b315-21266c6d0f00,19,Female,False,0,Average,91.88,English,Widowed
+22454a2c-97f9-48c5-a6e2-6ad98356fe1b,12,Female,False,1,Average,70.94,Pidgin,Single
+38758e8a-c9cd-44df-8200-5cb5b289967c,10,Male,False,1,Average,87.86,Pidgin,Single
+30fe08af-a501-4e1f-a107-ce6e3a48dffe,20,Female,False,2,Excellent,80.64,French,Single
+3a96ad46-53a8-4e40-8a21-c10a54587a50,22,Male,False,2,Good,72.73,French,Married
+569b7e47-240b-4cbd-b758-586e7e0b2803,12,Female,False,3,Average,90.7,Fulfulde,Single
+ab39460e-44dd-4b4b-b23e-5d32915a5e40,20,Male,False,1,Average,64.31,English,Single
+892d5bac-1c27-4855-a8ac-dffe7828649e,10,Female,True,1,Excellent,51.71,French,Married
+ad095fcb-c1a8-4832-acec-846f14a670f7,14,Male,False,0,Good,84.73,Fulfulde,Single
+d733c6fc-8106-49ac-80ad-9a3c5b6bbd83,13,Male,False,1,Average,51.28,Pidgin,Single
+0e17ff28-2de8-43eb-991a-8d0f4b44b6d1,13,Male,False,2,Excellent,52.42,English,Single
+2e8c69bd-e6b2-43da-9fa5-f34dc48acc7c,19,Female,False,0,Excellent,85.4,Pidgin,Single
+a3963934-ba77-4b76-9b78-bac968a088b1,19,Female,False,3,Good,59.87,Pidgin,Single
+5111ee65-16d6-4581-8c97-cf975629f933,20,Female,False,2,Good,99.76,English,Single
+acf51e70-a6d1-4648-8cae-d255d501c096,22,Male,False,3,Average,86.55,English,Single
+d17495f5-a986-4f9a-8d54-3567674c5d3e,15,Male,False,3,Poor,68.78,Fulfulde,Single
+01d6d822-148b-4f78-a166-cace8fdbd974,16,Male,False,2,Good,71.33,French,Single
+f4c0c0b7-b8b4-4a11-ad90-1ab498b7e0e6,20,Female,False,1,Good,95.43,Fulfulde,Single
+47156229-1e80-4812-9e7a-e9d5162d4915,12,Male,False,1,Poor,62.3,French,Single
+2d5342cd-b9c2-40f2-b950-9de83b4ae29e,19,Female,False,0,Good,63.71,Fulfulde,Single
+0812d24b-0738-4f5e-b9c6-f2b4c1a21d17,21,Female,False,0,Good,50.05,French,Single
+4bbf5453-c187-422f-9dad-0df074ff065c,14,Male,False,1,Good,92.36,Fulfulde,Married
+e9642f4c-890f-4339-9ab6-247689dac24d,22,Female,False,3,Good,70.34,Pidgin,Married
+b3c4f6f4-fd96-4299-ac94-ab28a6ace229,12,Female,False,0,Excellent,70.45,French,Single
+1913d671-c439-40a3-8d1f-790ccf33a93b,17,Male,False,3,Average,62.96,Pidgin,Married
+c72db443-c51c-421c-8bb0-d00cceb4bf34,14,Male,False,3,Excellent,66.06,Pidgin,Divorced
+df872fe1-9d71-42f8-8a54-f76c1da30de0,16,Female,False,3,Poor,83.33,French,Single
+e398ff09-d04a-4a8e-9698-6d12335ff379,16,Male,False,1,Excellent,79.22,Fulfulde,Married
+aae1ceb1-b714-469c-b4de-889b70acd3a6,22,Male,False,2,Excellent,69.97,Pidgin,Single
+b43a65aa-cac5-43bc-a910-9d3ae1b3fded,21,Male,False,2,Good,57.11,English,Single
+a7d4fb90-43eb-4f77-97ed-604f1983d883,15,Female,False,1,Excellent,82.27,Pidgin,Single
+5542fbc4-ec2d-4247-b9e6-6635b4217e06,20,Male,False,3,Good,97.36,French,Single
+0890b811-6183-4048-9372-ea2742ef6f45,11,Male,False,1,Excellent,63.9,Local Dialects,Single
+818b21ce-9b32-450b-9670-c977c542cbc7,17,Female,False,0,Average,90.82,English,Single
+e44c8e44-6c09-4bbc-9e41-15a7fb844666,11,Male,False,1,Average,96.82,English,Single
+30797f82-55e3-4ed7-8d84-f605273fcb11,19,Male,True,2,Average,68.25,Fulfulde,Single
+feba4cf2-fcbc-47a1-ba93-191ad845c4ca,19,Female,False,3,Poor,55.6,English,Single
+aa3956b2-2ee5-4439-8072-7d5df60efa69,17,Male,False,3,Excellent,61.95,French,Married
+3d2169ae-9032-4039-9be2-9a73c553fa86,21,Female,False,1,Good,83.11,English,Single
+c3e4fe84-dced-4d90-804f-35bd64f4abe5,11,Male,False,3,Average,56.52,Pidgin,Single
+2ebcea87-9ceb-4d87-bbb5-213ba8ce6137,13,Male,True,2,Excellent,99.72,Local Dialects,Single
+a6681b58-4200-41f4-b6cf-93b4adcac313,13,Female,False,1,Poor,92.31,Fulfulde,Single
+af3d899f-49a4-4c50-b26d-22e0d51ebf1d,21,Male,False,1,Excellent,95.91,Fulfulde,Single
+b921c7b7-12cf-42be-bf4f-f3e9667ae6d4,16,Male,False,2,Excellent,66.96,French,Single
+a90ffb41-cbbf-4d2e-98d9-40f3cc1ec1f3,16,Male,False,3,Poor,83.53,Pidgin,Single
+86efec44-681c-452d-9223-b410a1b43cfb,13,Male,False,1,Average,73.22,Pidgin,Single
+e474ff5c-01bb-427e-a14d-ab458210155f,15,Female,False,1,Average,59.25,English,Single
+016678f5-16e5-4d01-998c-1d15b0239c0d,10,Male,False,3,Poor,93.78,Pidgin,Married
+257966f1-e584-40a0-b517-b9894924d0ea,17,Female,True,3,Good,97.34,Local Dialects,Married
+cb35fe2f-18ec-4044-8da9-2e65f5cf2395,22,Male,False,3,Good,61.62,Pidgin,Single
+8f83407f-efa1-4678-9058-8ee3f7737987,18,Female,False,1,Average,83.93,Pidgin,Married
+14742949-e74a-4c02-b61e-06a35e0dad2b,20,Male,False,1,Average,96.37,Pidgin,Married
+3b4a40ea-fcb4-4a06-909c-f9db669fb298,13,Male,False,3,Good,82.21,French,Single
+87a9a9dc-c828-4e37-8ab9-114ee96f3873,15,Female,False,0,Good,67.91,French,Married
+1a58af38-32a7-4381-a75c-f3ea2c2dedc6,17,Male,True,1,Excellent,86.42,Fulfulde,Single
+c98d757c-4dcd-4d32-8cb0-276da62b3d78,18,Male,False,0,Good,83.4,French,Single
+91d6d472-e970-4b55-a439-aa8d4344d603,22,Male,False,0,Poor,79.79,Pidgin,Single
+9b4a71ca-77e4-46e0-b9a5-017f4e3d9f1e,12,Male,False,0,Good,97.91,Fulfulde,Single
+b135c4c5-b754-4107-b2f2-37932abf48dd,16,Female,False,2,Average,81.03,Fulfulde,Single
+c83de092-5f4a-4482-827b-47174461b83b,21,Male,False,3,Excellent,88.22,Fulfulde,Single
+5760e169-4334-43d6-9556-056368119bbb,18,Male,False,0,Good,78.81,English,Single
+dd7a111e-636b-442b-a71d-a709a5507315,22,Male,False,0,Good,87.66,Fulfulde,Single
+3b387882-4a47-4f6c-ac7d-faa566f1977b,17,Male,False,2,Excellent,69.86,Fulfulde,Single
+b2549aa7-1835-4044-a25f-ab768761f1d3,11,Female,False,1,Average,67.1,English,Single
+33ab3b64-7449-4a91-9afd-78549eef28e2,16,Male,True,2,Average,74.74,Pidgin,Single
+44de85c9-5199-4abd-b332-1bab66a29ada,18,Male,False,0,Average,59.22,Local Dialects,Single
+16fc07a8-97aa-44d7-ac8e-c999b7614fbd,19,Male,False,2,Excellent,67.96,Fulfulde,Single
+6e58695f-1a5c-4c7f-8c3c-f637fe0eb55c,12,Male,False,1,Good,60.83,Fulfulde,Single
+0ebd15ef-0db2-4307-81eb-490fc1cb06ce,17,Female,False,1,Average,79.1,Pidgin,Widowed
+dab8b780-b10d-465a-8f8f-ff17a6d50057,15,Female,True,3,Excellent,69.46,English,Single
+532df571-888a-4615-93bf-aceb8aa3cf8c,21,Female,True,0,Poor,73.03,Fulfulde,Single
+a434c2a8-001e-4ee5-bcf8-5318645e0f8f,13,Female,False,0,Good,59.07,Fulfulde,Single
+4766999d-e157-4367-a551-491a00caed25,14,Male,False,3,Average,83.05,English,Single
+2df16fba-e697-4e9e-87df-6e300c1fb648,20,Female,False,3,Good,70.27,Fulfulde,Single
+277b5c94-b0a6-4b80-8352-e39d0bcfb89b,10,Female,False,2,Poor,57.0,English,Single
+733d9572-25ed-49e7-8a1c-2c4908ed8fe6,21,Male,False,3,Excellent,67.09,Local Dialects,Single
+18c522b9-d1b2-431c-be61-69a452ad92f4,20,Female,False,1,Poor,85.91,Pidgin,Single
+4b604f93-50b5-443b-805c-bc5748b5bb47,12,Male,True,3,Good,70.04,French,Single
+c06c39da-b0f1-4913-b073-2e013379ea71,19,Male,True,1,Good,61.27,English,Single
+f2653603-7026-4f22-b93a-faa2cea6ec38,21,Male,False,2,Good,54.44,French,Single
+a3160159-624d-4a78-9ff9-698fb8da3331,15,Female,True,1,Excellent,83.22,French,Single
+c4b18e1d-4daf-4e4d-b856-7db20d48ac50,22,Male,False,3,Poor,60.1,English,Single
+fe07f50e-38cd-4303-a115-08cc2efcde66,12,Female,False,1,Good,93.76,Local Dialects,Single
+f1ac8be0-e778-4390-a420-5dd5a86f7db2,16,Male,False,0,Average,59.41,English,Married
+d0341d47-e38b-4435-9388-a6ce536fec88,21,Female,False,1,Average,71.14,French,Single
+02a9e0cb-c5cc-45dd-8e4f-4e01bec0add8,18,Female,True,2,Good,55.94,English,Single
+a8f6e2ad-3847-4f00-be2a-63d5ad9933ad,11,Male,False,2,Good,82.53,Local Dialects,Single
+af5e42bb-9cfd-4b42-9be9-36dc8f52c02f,15,Female,False,2,Poor,57.88,French,Single
+18219606-3c70-4948-986c-4de358044989,10,Male,False,2,Poor,58.85,Pidgin,Single
+e8ba1a3d-f206-4ac7-a514-9f1e48093ba4,21,Male,False,2,Good,81.26,English,Single
+7b348c56-3986-494d-80f0-be7676eecd24,17,Male,False,3,Poor,68.37,French,Married
+37224e69-555e-4da1-8c35-ebb7e29a95f3,10,Female,False,2,Poor,68.97,French,Married
+d784f4bc-852a-4d0a-b389-51cc24ca327b,21,Female,False,3,Average,95.75,French,Single
+a5586c35-9a86-4bb9-aea6-afb456efca9c,18,Male,True,2,Poor,76.6,Pidgin,Single
+7ed53025-5974-434b-a241-0fea08d1afa9,17,Female,False,1,Good,96.18,English,Single
+95e91af6-a4fe-4a1a-bbcd-5972a2e15545,15,Female,False,2,Average,67.65,English,Single
+9f6fc817-b986-4798-bd66-059eda6b453b,14,Male,False,2,Excellent,79.37,Fulfulde,Single
+38dcd6ba-5616-4631-a0e5-67f67aa77cb8,10,Female,True,1,Excellent,88.43,English,Married
+dac9b04c-a86b-4767-a274-cdbd4ed6f8c0,13,Female,False,1,Poor,94.82,Local Dialects,Single
+ee076887-e510-4e1c-8958-6a49d232df43,10,Male,False,0,Excellent,75.98,English,Single
+92327ebe-c305-40a8-a385-aa0bea4d064c,16,Female,False,0,Poor,82.71,Local Dialects,Single
+2536b466-b212-44f4-bbcd-f344f661332b,21,Male,False,0,Poor,65.55,English,Single
+539ac020-228b-4eb0-83a2-6656dca1b4ab,16,Male,False,0,Poor,92.9,Fulfulde,Single
+9f11b1e0-d83b-40db-a4a1-c45d0f61774d,19,Female,False,2,Good,51.08,Pidgin,Single
+52241c46-9ac5-44dc-9153-cdb3a04135f4,20,Male,False,3,Good,66.81,French,Single
+a6a18a50-896e-4f82-8a0b-5be8c446bbdc,18,Male,False,3,Average,62.64,Local Dialects,Single
+72b724cb-a1ed-4c0b-b879-068d476868b7,14,Female,False,0,Excellent,59.18,French,Single
+09447263-9d0a-413b-b121-c179a3be40a7,11,Male,False,1,Excellent,88.8,English,Single
+73541ae7-9d35-4dd5-aef8-815c6f37cdba,12,Male,False,2,Good,95.52,English,Single
+41aa81b0-dc86-4d0e-81bd-3069e5232a2d,17,Male,False,0,Good,77.47,Pidgin,Single
+03e99d6a-0929-4f54-bbff-bc05b7579236,16,Male,False,1,Good,75.88,Fulfulde,Married
+0b901c0f-851a-4bb9-84a6-6a1c783bc998,15,Male,False,0,Average,56.48,Fulfulde,Married
+f8813f9d-ec61-40be-b4e8-76c4a7f59f37,14,Female,True,1,Average,98.93,English,Single
+47105da2-a93b-414e-9c1b-c6631c6d1eb0,18,Male,False,3,Average,93.95,French,Single
+5f8c6dd5-eef4-432e-8dd8-43ad86a834ff,22,Female,False,2,Good,66.55,Local Dialects,Married
+3962af4d-671a-4306-9f5b-600085772748,16,Female,False,0,Poor,62.63,English,Single
+66543605-ca9a-47ba-bbe9-56c35312042d,22,Female,False,1,Good,67.8,French,Single
+a1fa5f2e-8d33-4c92-b530-11b36e63bd6c,19,Male,False,2,Excellent,84.77,Local Dialects,Divorced
+e070128c-1150-4146-9062-b22cc2c3be5c,18,Female,False,1,Good,53.9,Pidgin,Single
+03dd546e-39a9-418c-a74d-34389c96505a,21,Male,False,3,Excellent,54.75,Fulfulde,Single
+63852848-3786-41f5-9e10-24e73257b8ac,14,Male,False,0,Excellent,73.12,Fulfulde,Single
+26d6b85e-ec51-4af3-8395-f682ef1179c5,19,Female,True,3,Excellent,87.32,French,Single
+9b98aadc-1793-4ece-be36-6df6827fb1ec,20,Male,False,3,Average,86.45,Pidgin,Single
+a92cfff3-0dd4-4a56-a0da-7cf296b8d1d3,13,Female,False,3,Poor,72.23,Pidgin,Married
+7f04eab1-a16a-4f04-838c-5a8d60688a96,12,Female,False,2,Poor,61.95,Local Dialects,Single
+b5f20800-65d6-4ad3-801e-1b29b634bb5e,10,Female,True,2,Excellent,74.53,Pidgin,Single
+dad17f3d-902c-4ee7-b3ef-c29a176b840e,19,Male,False,1,Good,77.06,Pidgin,Married
+afbef477-0f2e-444d-b85b-5f0446e203c5,15,Female,False,0,Average,87.56,Pidgin,Single
+4f8f08f7-fdc7-4f74-b69b-cf19801b20ed,14,Male,False,3,Poor,70.87,Pidgin,Single
+f4e373b1-9901-48e7-ad08-82ad24ef7238,16,Female,False,2,Excellent,92.38,English,Single
+e88310aa-90c7-419b-aee4-a516eed77cd9,20,Female,False,2,Excellent,84.33,French,Single
+a2d0b804-1efc-4e36-abc4-144c3bac290f,17,Male,False,2,Average,90.0,French,Single
+6815d870-a792-4adc-acaa-420f0964a440,19,Female,False,1,Average,93.24,Fulfulde,Single
+7fabd417-4914-4665-b109-fc64f3e571d4,22,Female,False,1,Average,97.33,Local Dialects,Married
+7241d497-6c87-4ded-8dd3-7a001c14c2b0,13,Female,False,1,Excellent,65.5,Pidgin,Single
+712ed6ec-f2fa-4463-a2e1-fe8092a44ebf,15,Female,False,0,Excellent,82.6,Fulfulde,Single
+c4e90b42-7069-4ef2-887b-a4e92d7077d4,15,Male,False,2,Poor,61.16,French,Single
+27b606aa-87c1-4390-8ec6-9264f9de15b5,12,Male,False,2,Good,64.24,Pidgin,Single
+bd48bc65-8fda-48c6-8dd1-b7f6527ef324,16,Male,False,3,Average,56.04,English,Single
+29dec09e-1d48-47c0-8135-a92d9e54eaba,13,Male,False,2,Good,55.06,French,Single
+4bdbc007-39bb-4ae3-a7b1-f17a2a9d6229,21,Male,False,0,Poor,67.26,Fulfulde,Single
+19d073be-4981-470d-9cfd-a08c1f2d3733,18,Female,False,3,Good,67.23,French,Married
+7395394a-1303-40d2-bdd0-84d525538263,19,Male,False,1,Poor,76.55,French,Single
+a2440219-1bae-418d-9e11-ef78daa129f5,16,Female,False,1,Average,61.23,Fulfulde,Single
+e6a11dc0-4d67-4930-b968-a2966524749d,15,Male,False,3,Excellent,83.44,French,Single
+ff38d6e8-5bf2-4b75-abd2-913b34f15e27,15,Female,True,2,Poor,84.82,Fulfulde,Single
+c9827bb5-038c-4178-b350-0d8754e28184,14,Male,False,2,Excellent,79.77,Local Dialects,Single
+30133635-bcf9-4b8b-ae77-21c7d71ca03e,22,Female,False,1,Good,73.4,Fulfulde,Married
+7924bfc4-4c67-45c9-aeff-20433b3c507c,10,Male,False,3,Excellent,60.68,Fulfulde,Single
+7750fc6d-dc5b-46d7-ad86-f154476a3327,19,Male,False,2,Average,84.55,Pidgin,Single
+afa1bae0-9367-49f6-a65f-f94bcd8b7839,18,Female,False,1,Average,85.97,Fulfulde,Married
+e2886ed3-0056-4238-9801-c2559d2f3fa4,12,Male,False,1,Average,58.12,Pidgin,Single
+5e72363f-9b24-4aca-825e-be7a280c8fba,18,Female,False,3,Excellent,55.63,English,Single
+17193927-e426-4b16-aece-22b792a3847f,20,Female,True,2,Poor,90.59,Fulfulde,Single
+62082b1d-5b23-4fa9-9513-5aaa95330672,11,Female,False,0,Excellent,74.61,Fulfulde,Divorced
+3200c52e-03af-4b96-a7bf-c5eb22109eed,20,Female,False,0,Average,63.48,English,Married
+8fe7148c-0162-4a53-9c85-6bde6f0d8362,11,Male,False,2,Poor,72.0,English,Married
+04eb3fc1-8fc7-4d47-b9b0-1b00710e2f75,12,Female,False,1,Good,62.17,French,Widowed
+2a554a4c-e4d2-49bc-84a3-240d2b49a893,20,Female,False,1,Good,60.93,French,Single
+2b2d36d1-c35a-4d01-8350-bc04b06510f5,14,Female,False,3,Poor,66.42,Pidgin,Single
+92fc4d30-c04e-44fe-814a-a3b1d04c953b,10,Female,False,0,Poor,55.68,French,Single
+5af7a1ae-9eb0-4b8f-88c7-64ea9e5147c1,14,Male,False,0,Poor,72.76,Local Dialects,Divorced
+89a08257-3f15-4201-ba7a-9accc34489f0,16,Male,False,0,Good,82.62,Pidgin,Single
+b658e1c3-fcdb-4ceb-8cd3-ea9da2995f28,16,Male,False,3,Good,50.35,Fulfulde,Married
+b114ea37-6a8c-4441-b9d1-a425e5a6662c,15,Male,False,0,Average,50.49,English,Single
+50ff45d5-4317-4003-9442-fc4dabd9b097,20,Female,False,1,Average,55.85,Fulfulde,Single
+d692d9f5-b2b9-423a-8f8c-5d57e2cafd85,12,Female,True,0,Poor,82.79,Local Dialects,Single
+959923ed-fd6f-425f-928c-91727b0eeaf0,13,Male,True,3,Average,71.15,Fulfulde,Single
+fe05c72e-da82-4d6e-b247-c9a259bd2e45,19,Female,True,0,Poor,97.6,Fulfulde,Single
+bc2d2838-3db8-43bb-b7ac-6c6893a95f60,18,Female,False,3,Excellent,51.17,French,Single
+6d32b2a8-6a2e-4639-9731-2099cfac5adb,12,Male,False,0,Average,76.59,French,Single
+2bdea6b4-5945-4315-99c5-727dc44f710a,12,Female,False,0,Average,82.32,Local Dialects,Married
+31c4b9cc-b86c-4d56-8056-e0fb04bf226e,18,Female,False,3,Good,73.66,Local Dialects,Single
+bbb3c8f2-98cc-4ff4-a0e7-b5c7683448b8,10,Male,False,2,Poor,67.69,Fulfulde,Single
+a2ab5e39-9a91-4569-a8e6-ec9c3b81c512,13,Female,True,3,Average,56.1,French,Single
+4eb85a47-4cbd-4e1d-b8b7-419a42a07822,10,Female,False,0,Excellent,90.44,English,Single
+2a0c9a5f-c9a5-4f5e-bbb6-9c11cf113ccd,13,Male,False,3,Good,94.37,Pidgin,Married
+531f0ed4-77ea-43dd-b4b8-a361e75bbcdf,15,Female,False,3,Poor,85.8,Local Dialects,Single
+3500f060-8e61-4715-9f23-9b5a528ac086,17,Female,False,1,Good,97.56,French,Single
+a49ec183-6d61-4529-8ac9-1ae2cab331e7,16,Male,False,2,Average,71.91,French,Single
+3eb567f2-8acf-47a3-842c-ecda4959e446,11,Female,False,0,Poor,68.68,French,Single
+34831f9f-d883-4b9a-8c14-4b3a84b190db,15,Female,False,1,Excellent,82.03,English,Married
+21dd9588-0414-4f9d-bf7d-79be3bd7dda7,12,Male,False,2,Average,88.25,English,Married
+aa75c9a7-3c47-4f8d-b4f1-4a9296d7cd5c,18,Male,False,3,Poor,67.77,English,Single
+f2d6e4b7-d1f0-48c4-93c5-ad397a1941b4,22,Female,False,3,Good,95.1,Local Dialects,Widowed
+c13a427a-a097-4b5b-9936-c6bd0279aa5d,15,Male,False,2,Good,92.04,Fulfulde,Single
+63ca52e4-479a-4361-a90c-c06aa7c632ef,16,Female,False,2,Poor,89.22,Fulfulde,Single
+8a917d9a-5267-409e-9918-3a8e183c0e07,21,Male,False,3,Good,62.2,French,Single
+af65eb05-0532-4bc9-8713-d44712aac06d,13,Female,True,1,Good,64.77,Pidgin,Married
+56acfa16-c0fd-459f-a66d-3ed3f18d24d9,19,Female,False,3,Good,87.16,Pidgin,Single
+502d0085-1fe2-40e1-8071-e82ff261e71f,17,Female,False,3,Average,53.1,Local Dialects,Single
+a2adeec4-c5e8-4bfe-9094-8f90226c857a,18,Female,False,3,Average,68.18,Local Dialects,Married
+3e743c6f-a12a-4389-811b-43945f6bfc8c,15,Female,False,0,Poor,87.42,French,Married
+352fd4b7-431d-4402-b12d-eb0eb26ffbdb,22,Female,False,2,Excellent,59.86,French,Married
+a597b117-0652-459e-9665-f632b113dfe7,21,Male,True,1,Good,96.47,English,Single
+a397df00-2da6-490c-b1fb-1faa94486dfe,22,Female,False,2,Good,64.82,English,Married
+124889d7-72c0-48e7-a2e4-7622c8336246,15,Male,False,1,Good,77.94,French,Single
+c82d0981-8d46-4e02-ae2f-69b614f6f6b0,22,Male,False,3,Average,62.02,Fulfulde,Single
+a2971778-81cc-4e92-93ff-771dfff67f6d,16,Female,True,2,Excellent,51.28,French,Single
+2bebabb4-d084-4ce3-8831-77986b6e4dfb,22,Male,False,3,Good,97.27,Fulfulde,Single
+3bb461c5-e18c-44c8-bcf2-c32e6a03b725,12,Male,False,3,Average,99.17,Local Dialects,Single
+d6efb6c8-ba5e-4213-9e8b-6e112b678393,21,Female,False,0,Good,83.2,English,Married
+bf4f7174-4bf0-4389-b6c4-1c6270c15fe9,16,Female,False,1,Poor,75.77,French,Single
+0411bae9-0602-47e1-b6b8-14642f95a150,13,Female,False,0,Average,54.11,Local Dialects,Single
+f5954fd8-ca84-4e6b-ac36-37bc2c440308,18,Male,False,2,Average,53.06,Pidgin,Single
+5af3ad76-0a24-4325-8015-cd166e148c31,15,Female,True,0,Excellent,56.24,English,Single
+d937d077-4281-4ef9-8b44-3082a63b6c6e,10,Male,False,3,Poor,73.9,Pidgin,Single
+fa722d0b-7763-4939-8537-9209c0b8770d,12,Female,False,1,Excellent,75.78,Pidgin,Single
+acd8bc84-cae9-4c12-bc8b-b90f3b5af94e,22,Female,False,3,Excellent,78.65,Fulfulde,Single
+551c4696-eadd-44a1-9612-7ed250dc4a2f,20,Male,False,3,Average,90.85,English,Single
+be58f8bc-481d-4b46-9f23-33b95000a525,20,Female,False,1,Average,91.82,French,Single
+94a193d1-d787-41ea-81e7-33a55c22485f,20,Female,True,3,Poor,51.07,English,Single
+f02e526a-aa89-4559-868e-547721ae9974,12,Female,False,2,Good,87.95,English,Single
+8b19585d-b9f4-435e-88a5-68b2e5004454,12,Female,False,2,Poor,63.09,Pidgin,Single
+d27c49e0-15cc-44fa-a370-3491e3f0c8bf,10,Female,False,2,Good,99.87,Fulfulde,Widowed
+f221cd73-689e-41d9-8a9a-fb662acfc8a9,19,Female,True,0,Excellent,86.13,English,Divorced
+49950a5b-a39d-4895-a556-466d9d85f0e8,10,Female,False,2,Average,57.99,Pidgin,Single
+5991c3c2-8f8e-497b-bb55-19f6ee5d5a3e,17,Female,False,3,Poor,77.17,Fulfulde,Single
+afcc3e05-3ab7-48a2-8022-8a00e58940b0,22,Male,False,2,Excellent,80.04,French,Single
+2a567132-5f3e-4c42-b9e6-ee69ee481688,16,Male,False,0,Excellent,86.97,French,Single
+3463ae77-b2bc-455d-a6c0-18ea169a65fe,22,Male,False,2,Average,55.7,Pidgin,Divorced
+befe32e9-c538-4fb5-ba82-6896242124bd,22,Female,False,2,Excellent,76.13,Pidgin,Single
+d4d1be1f-d258-422d-ab80-6b25edbd258e,17,Female,False,1,Average,81.55,Local Dialects,Single
+c8244fbd-2089-4954-9dde-67d5c3562ea6,13,Male,False,2,Good,89.36,English,Single
+58ec440b-9b7a-4257-a588-862b5ac360e2,15,Female,False,3,Good,70.06,English,Single
+baf80bab-39d6-47d3-b0f6-619a164b2793,10,Male,False,1,Average,63.86,Local Dialects,Single
+06b9704e-8bf9-4324-8c0e-b4e029081a0d,14,Male,False,3,Good,93.35,French,Single
+b2932239-8d51-41a0-985b-bfaa36ff75a7,21,Female,False,3,Good,72.69,Pidgin,Single
+0e63de03-9fad-44a3-bdd8-469c86ff21bf,12,Female,False,0,Average,62.85,English,Single
+2d6045fd-5390-481b-9a59-30105b85e137,13,Male,False,3,Excellent,81.42,English,Single
+732549cc-a2d2-48f0-a9c4-e06a973b1187,13,Male,False,1,Average,75.15,Local Dialects,Single
+492e4441-52ff-4be7-955d-10ee6ac5d661,15,Male,False,2,Poor,60.26,English,Single
+3268f965-1e9c-4d6c-8a33-73d208c239b5,17,Female,False,2,Poor,95.35,Local Dialects,Single
+a56092fe-1c2c-4dca-afad-4ae12bc1bfe8,15,Female,False,2,Good,56.45,Local Dialects,Single
+40e5cb5a-1b7f-4934-b9c5-b6b756af990b,20,Female,True,3,Excellent,71.81,Local Dialects,Single
+6f2e2eb7-f4f7-444c-8c13-98f962dd4090,22,Male,False,0,Good,94.69,Local Dialects,Single
+263320bf-e9b7-4852-89e1-65198b97fb06,13,Male,False,3,Poor,80.77,Pidgin,Single
+e60e104e-5631-49c0-9600-abc3fd3d3f3c,18,Female,False,1,Excellent,71.78,English,Single
+f11e0db8-38af-4441-a3b0-93422da8b59e,11,Male,False,2,Average,99.88,English,Married
+2fb8c4f8-6704-417b-b860-aa3618311e27,21,Male,False,2,Average,65.68,Local Dialects,Single
+c63f1dc2-a944-4718-bea8-e29a3d1cfb0e,15,Female,False,2,Average,52.73,Fulfulde,Single
+99fb3f6f-0c26-4eed-8c47-eff905e1b0b3,18,Male,False,0,Average,69.52,English,Single
+95af206a-a85b-4cee-a9e8-984308952952,15,Female,False,1,Excellent,76.77,Fulfulde,Single
+fa6c3448-a9a9-428f-a8cd-2899025f9132,11,Female,False,0,Poor,86.66,French,Single
+c05ca3d9-8a17-4c1f-9b1d-7d9bf765d577,13,Female,False,1,Average,72.05,Local Dialects,Single
+765a6c44-4398-49e0-8f0e-a93fe762f0d2,22,Male,False,0,Good,73.9,Pidgin,Single
+deb30d12-0fcf-40e2-aff3-db00a24a3e70,17,Female,False,3,Average,83.96,Pidgin,Single
+0a6b3c0a-2aa5-461c-a266-de2c358e5eb5,10,Female,False,2,Poor,97.93,French,Single
+033ae0b1-ffdc-4aad-b628-c3f09ed5dab2,20,Male,False,1,Average,66.36,Fulfulde,Married
+9fb60fbc-3d9b-4350-9f8a-758d98855d25,20,Male,False,1,Good,61.31,French,Single
+bf744f04-b9e0-4db5-8137-6e03622abe99,16,Female,False,2,Average,54.85,English,Single
+34737bca-0da6-4a16-905f-b5b65801e499,10,Male,True,0,Poor,86.52,Local Dialects,Single
+f1c2aaf2-b6cd-40c4-b40a-9d4e54356a3e,21,Female,False,2,Good,81.05,English,Single
+7a59a4ef-cbe9-4c3b-a389-8d7790a91a14,13,Female,False,3,Excellent,75.76,French,Single
+00fdc8a4-f361-478f-9601-ca31784ca176,12,Male,True,2,Average,66.2,Fulfulde,Single
+a2e3ea19-ba57-4a4c-8770-203eb63423d1,17,Male,False,0,Excellent,64.68,Local Dialects,Single
+ea053194-db70-473c-8533-8fbeb3faa3dd,15,Male,False,2,Average,98.78,Fulfulde,Single
+f226466d-1e00-4642-907f-a1def6b5bd35,19,Male,False,3,Average,84.22,Pidgin,Single
+c10b58a5-6bba-4d86-936c-f48b95a40f22,21,Male,False,2,Average,60.96,Fulfulde,Single
+3e025f53-0bd1-438a-a88d-0e8f60cdc88a,13,Male,True,0,Poor,94.77,French,Single
+7febfd8b-eb62-4ea0-ad40-e648ed221943,13,Male,False,2,Poor,85.41,French,Single
+8f602e33-8f96-4974-8ca9-1d57c0946abe,20,Male,False,1,Good,75.07,Pidgin,Single
+1e589836-4e3b-48db-83f8-852d3a42fc69,13,Male,True,0,Poor,83.34,Local Dialects,Single
+ee94d50b-12e3-4107-853d-d3fa42b119ac,13,Male,False,2,Good,87.61,English,Single
+8df12a7a-47d4-4ae0-b8be-28f16187d082,19,Male,False,2,Average,88.76,Local Dialects,Single
+fc93c5d4-f5b0-4914-a0f3-98253ec7aa1b,14,Female,True,0,Poor,91.65,Pidgin,Single
+b8ee77b7-1416-45d7-8ad5-b0455241b6ce,18,Male,False,3,Average,56.35,Pidgin,Single
+39c1ba6d-2b2d-4c44-b588-bb1ffb24a8b0,12,Male,False,3,Average,72.71,French,Single
+c7755606-f561-42bd-8491-b8656036e05c,21,Male,True,1,Good,73.69,English,Single
+1f10783b-f2b9-469e-b3c4-9168ab94d167,11,Male,False,2,Good,71.29,French,Single
+eefa7816-1f44-47e7-88c8-cd56e0da9e8e,17,Male,False,1,Poor,70.72,Fulfulde,Single
+4c290e5c-6827-440b-b75b-30a43e491c0a,14,Male,False,1,Average,70.33,Pidgin,Single
+df6f9a1d-b40d-4419-9368-bdcc5c69e0fb,19,Male,False,3,Average,61.68,English,Divorced
+833d93d2-f5b9-445f-b910-8133c303c7c0,15,Female,False,0,Average,82.39,French,Single
+0bae873c-3001-42c1-94c3-6be8ebd0080d,14,Female,False,2,Poor,67.19,Local Dialects,Single
+bcd2881b-0642-4965-abe5-ebec33d1044e,15,Male,False,3,Average,67.18,Fulfulde,Single
+1f302442-cc59-4727-874f-0194ce6667c7,11,Female,False,1,Good,68.18,French,Single
+289bc58c-5579-476d-a627-512aa6cb3ce0,22,Male,False,3,Poor,97.29,French,Single
+4ec69636-573e-4f23-8046-eb36377259a6,12,Female,False,0,Good,65.89,Pidgin,Single
+c344dc62-b860-4921-994e-1960fb10ee3b,20,Male,False,1,Average,77.19,French,Single
+cb5fdc13-32ff-4fcb-93d5-21993b62b793,22,Male,False,3,Poor,63.91,French,Single
+66ff7d8e-2a74-4359-9df6-b26daa794610,22,Female,False,2,Good,62.27,French,Single
+44a0a23f-597c-45be-8dd5-65d7e9c2d1bb,17,Female,False,3,Poor,62.93,Fulfulde,Single
+74b1958f-0f53-4356-b2ec-6f25b9d506e9,17,Female,False,1,Average,90.3,Pidgin,Married
+119308eb-a3dd-49be-9058-84179ce478e3,10,Female,False,0,Poor,65.65,French,Single
+65575edb-5247-40c6-87c3-99200d0f94e8,11,Female,False,2,Average,91.86,Local Dialects,Single
+391f5584-37ee-42b0-86a0-3d78f88feb0b,11,Female,False,3,Average,99.72,English,Single
+cb1ef4a2-0b3d-442e-83ea-b7ebaceb1cb0,17,Female,False,3,Average,96.58,English,Married
+adbccc98-6633-4462-8fdd-c9acf2416fcf,10,Female,False,1,Average,93.67,Local Dialects,Single
+6f91e248-c276-4ad5-9fdc-517d5221cfe9,15,Female,False,3,Average,70.61,Fulfulde,Single
+df00b922-a0c4-4e00-9439-1affd75aaad6,21,Male,False,0,Average,70.39,Local Dialects,Single
+3e720205-6e2a-4b39-bf07-915584e5cd79,17,Female,False,1,Excellent,73.22,Pidgin,Single
+b1dbe5bb-ab23-4fd9-a029-bab4d3d14230,16,Male,False,0,Average,60.88,English,Single
+e78f572f-2364-4cbf-af81-1d6f0ed3707a,12,Female,False,1,Good,97.41,Pidgin,Single
+0cbed98c-112d-4eb3-8da0-adc867495475,20,Male,False,1,Average,66.59,French,Divorced
+a9289a58-0f5f-44d2-bec9-2f9de49e3f26,14,Male,False,2,Poor,59.05,Local Dialects,Divorced
+4d899572-fb9b-4b83-a86d-07585de680fd,21,Male,False,2,Poor,92.25,English,Single
+04bdf884-e921-44b9-93c6-161b6683e741,13,Male,True,1,Average,98.35,Fulfulde,Single
+8d37ff58-e568-4510-baad-a99b7ac63d26,13,Male,False,3,Good,68.54,English,Single
+e44885b4-6e97-4a04-bf8c-89e7a1586d42,14,Female,False,1,Poor,90.03,French,Married
+88b60056-79b8-4b1a-a9d0-5c05f7e9dff7,11,Male,True,3,Excellent,62.77,English,Single
+17778ba9-1cf9-4624-b6a1-fe59f860de99,15,Male,False,3,Good,80.96,Local Dialects,Single
+d1f75641-226a-469b-a5f0-f9ff0724f647,21,Female,False,3,Poor,91.23,French,Widowed
+4978842c-521e-43f8-b823-fd05f4c264f0,22,Female,False,2,Excellent,61.2,Pidgin,Single
+47de9f46-4a9a-45d3-b2f1-fa0f85bda3b3,10,Male,True,3,Average,84.08,Pidgin,Single
+96af859d-abbc-4b6d-aa71-f5e2dda35dba,12,Female,False,3,Poor,91.73,Pidgin,Single
+5546966d-de6c-4df3-bf83-42ed7e3bfeea,19,Female,False,0,Excellent,60.01,French,Married
+d3687c1b-18a9-46fb-80fc-86b89fdccef5,14,Male,False,0,Good,71.88,Pidgin,Single
+af679e87-c89a-4a48-ab77-9d091f8dbb70,13,Male,True,0,Good,52.69,English,Single
+413bce1d-f53a-436b-99be-9d8123cdb1f4,17,Female,False,2,Average,73.86,Fulfulde,Married
+b75b53ef-a52e-4581-8502-0c41438b0bf4,21,Male,False,0,Poor,75.03,French,Single
+e462aa8c-12de-4e7a-be05-ac0c56a5b641,22,Female,False,2,Average,55.08,Local Dialects,Single
+875602e5-60a4-4543-a44d-66c38a407fe9,20,Male,False,2,Poor,97.06,English,Single
+f57a8c22-bfd9-4ba1-b523-c4d8c95cb7c5,21,Female,False,1,Good,63.13,English,Single
+faf5a243-a38d-41f3-a82c-cbe49ade5e79,17,Male,True,2,Excellent,95.38,French,Single
+9bc58016-9853-47aa-a892-766dd4def58e,10,Female,False,3,Average,99.72,French,Single
+07a4c3ee-2319-45f2-905b-a2438afb4599,17,Female,False,3,Average,50.67,French,Single
+08e10f96-cf5d-4a54-bde3-7ca8445ea59b,19,Female,False,3,Average,80.0,English,Single
+879b9827-182c-43be-b81a-ac572dedaade,14,Male,False,3,Average,59.81,Pidgin,Single
+3a2adc7f-7e48-42e7-a71a-6314726e572b,10,Male,False,1,Average,66.72,French,Single
+1838ec06-821e-4120-8a40-e062cfb7808b,18,Male,False,0,Excellent,64.71,Local Dialects,Single
+51193afc-5f8b-4c91-9ac7-82e6577be89a,13,Male,False,3,Good,62.18,Fulfulde,Single
+fc412a69-4e34-4af7-b0af-6d0e248d8835,15,Male,False,2,Average,96.13,Fulfulde,Divorced
+9c1602d3-bd52-45ce-91b2-a3998c71dc22,13,Female,False,2,Excellent,83.3,French,Single
+4221e77d-5040-4766-b7d4-cf7d0b44f78a,18,Female,False,0,Average,87.31,Fulfulde,Single
+7757cd9c-4100-4e43-86b8-5e0e37e880d8,13,Female,False,1,Good,99.51,English,Married
+800baa6b-2a35-4342-a861-e0f673abf97f,18,Male,False,3,Good,73.84,Fulfulde,Single
+7d7ce25a-fb9f-4935-8a04-7bc476bfd466,22,Male,False,3,Excellent,66.81,French,Single
+d8b39b73-35aa-4817-a942-e17081c68ef1,18,Male,False,1,Average,85.38,French,Married
+9c54d8b9-9f81-4d33-be62-79738eeb2dfb,14,Male,False,1,Average,56.27,Fulfulde,Single
+6d1ada52-1ffe-4c0d-94f3-c98891b36ef7,10,Male,False,3,Excellent,63.71,Local Dialects,Single
+4dfc5f06-07b7-41d8-bb98-4f8f217a7863,13,Female,False,0,Average,81.11,English,Divorced
+f9d02565-166a-4888-a462-99686d4193e4,19,Female,False,3,Average,76.07,Pidgin,Single
+c47c0372-43a9-4e1f-a310-b7b38313c845,17,Female,False,1,Poor,63.22,English,Single
+45dfee3a-6517-4822-856a-2910a37a589d,20,Female,False,2,Average,54.54,English,Single
+43e7f9fc-ef45-4162-86fd-88214b8459a0,14,Male,False,2,Average,99.28,Local Dialects,Married
+90b76bfe-95a8-4edf-91f5-fae5888b4e2e,19,Male,False,0,Average,81.86,French,Single
+c461e495-1c06-4eee-8b66-83f1b0d97d9c,11,Female,False,3,Good,58.5,Fulfulde,Single
+e7df6056-1787-4b24-b189-42e113ec7732,18,Male,False,0,Good,98.84,French,Single
+af1cc919-7f08-4509-ba68-71bd7cf91b62,11,Male,False,1,Average,72.35,Local Dialects,Single
+c60a9bec-8267-494a-b69b-59c90766f3c1,16,Male,False,0,Average,92.11,Pidgin,Single
+60d8ce03-b9ca-4692-ba2b-c3854633594e,18,Female,False,3,Excellent,72.68,Local Dialects,Single
+3347dd71-d788-46b0-ac0e-c434999991b0,21,Female,False,1,Good,59.22,English,Single
+68589993-7231-400f-a50f-f23b1ed0eeeb,18,Female,False,1,Good,82.29,English,Single
+3a89c723-e01b-4d0b-9fee-d30cc5edd906,22,Female,False,2,Average,89.86,English,Divorced
+4400964f-d32f-409a-8fb8-412a53b2adc5,17,Female,False,1,Excellent,87.04,English,Single
+8d98f055-cc6d-4df8-aa2a-8e14aac22d27,16,Male,False,2,Average,70.81,Local Dialects,Single
+274fac0e-f314-4a52-a6b6-bb9b6a3967a5,12,Male,False,1,Average,54.76,French,Single
+86d164a9-d781-43a3-a791-9d04278e4e6a,14,Male,False,2,Average,80.54,French,Single
+5009a055-a8a6-4082-9d69-fd0e5b989f32,22,Female,True,0,Good,79.54,Local Dialects,Single
+2c915ef7-f9f0-48fc-ae81-0dcdf16bd177,19,Female,False,2,Excellent,75.11,English,Widowed
+4df3c4d1-1bca-4fdf-9c6d-163b88bc6abb,12,Female,False,2,Poor,86.39,Fulfulde,Single
+0c28db7f-6b65-45d8-aa8a-731b7da9ec42,11,Male,False,0,Average,60.47,English,Single
+e78a4dfc-4851-4864-8999-ac8f438e3a62,11,Female,False,1,Excellent,56.54,French,Single
+bb8a4545-5589-4367-985c-d691cc20006b,20,Female,True,0,Good,86.52,Pidgin,Single
+4591534d-82e2-45b1-9643-c0cb45f0356b,14,Female,False,1,Poor,92.73,Pidgin,Single
+4316f8d6-dc09-4122-a0c6-0e73e10bdece,12,Male,False,0,Poor,53.11,Pidgin,Married
+985e3618-d759-402d-becd-31f21f382807,10,Female,False,3,Average,91.61,Local Dialects,Divorced
+b26bbc29-3fa2-438b-bd87-e113fd01724b,12,Male,False,1,Good,61.33,Pidgin,Single
+0a3e4d68-59f9-4baa-b488-43d13a819862,16,Male,False,1,Good,83.63,French,Single
+c2cfc60f-e6c8-4042-a2c7-b98f092aba45,17,Male,False,0,Average,61.41,Pidgin,Single
+cdf50356-7c1c-4069-889f-1d693f221670,10,Male,False,1,Good,61.29,Fulfulde,Single
+717443fd-8a8f-40aa-ab9e-08dd64ff4305,10,Male,False,3,Average,77.95,Pidgin,Single
+1d8332e7-9a70-404c-93d0-3918fb083312,12,Female,False,0,Good,58.59,Pidgin,Single
+d0af3813-dd3d-4e78-ba2e-c4fc814595cb,14,Male,False,2,Good,57.22,Pidgin,Married
+81ba6bc6-2f4c-493f-9a41-8cc1e931f2a1,19,Male,False,2,Average,66.28,Pidgin,Single
+f9e070f5-a85b-4b5a-a002-e34b51d011cb,16,Male,True,2,Poor,91.93,French,Single
+d44604d9-1b2e-4843-98e8-6cc1124b0ea4,11,Female,False,1,Good,59.85,Pidgin,Married
+acca80d6-ad0e-4dbd-9ed0-aac14370e392,21,Female,False,3,Excellent,57.33,Local Dialects,Single
+7ba7dbce-bb6f-4691-a1cc-6388e58b3bce,14,Male,False,1,Excellent,59.58,Local Dialects,Single
+1c0d5afd-a495-4c2f-acb5-57f58f89c7da,13,Male,False,2,Average,95.86,Pidgin,Single
+14d8d2f8-12b3-474c-ae86-14e2b29d9a6f,21,Female,False,1,Excellent,80.66,English,Single
+932fd3bb-66b0-4342-8b16-f99ac71669f4,13,Male,False,3,Good,99.97,French,Married
+ab6f073e-2e93-43df-91b5-c3e6be555be9,10,Female,True,2,Good,76.79,Pidgin,Divorced
+764055f2-0380-4539-b641-22aed7c80252,21,Female,False,3,Good,87.75,Pidgin,Single
+7b992f23-c60b-483a-ac95-4367d18fc1ba,22,Female,False,2,Good,80.44,French,Divorced
+1d914918-5068-43cb-b1dc-ec47017ec93b,21,Female,True,3,Excellent,67.08,Fulfulde,Divorced
+df05f2f8-3b10-4712-8b1a-380da3947fcf,14,Female,False,3,Excellent,99.65,English,Single
+40a7aac2-7d04-4b67-824a-e04890aafa80,19,Male,False,2,Average,89.51,English,Single
+f8376602-f9a9-47ef-a68f-4fc770523eec,13,Female,False,3,Poor,89.84,Pidgin,Single
+a925e509-7f9d-464c-b591-478d69fa157d,12,Male,False,1,Average,90.79,Pidgin,Married
+e02ab9f2-d294-417b-98ef-9fa45be94bea,18,Male,False,2,Average,74.95,French,Single
+ce2a7ade-8ca2-4b44-ab3e-54874b5a6fbd,15,Female,False,3,Poor,82.28,French,Single
+89338c4e-31d3-4eb9-bc19-9d0d3ea76033,22,Female,True,1,Excellent,55.93,Local Dialects,Single
+345ba937-3594-4ae4-a3b5-856c3cb7e10b,11,Female,False,0,Poor,74.48,Local Dialects,Married
+9da6b969-1b4a-4409-a070-53592663cf7d,11,Male,False,2,Average,68.92,Fulfulde,Married
+a99b47ad-a94a-44f8-99b1-c3acaca1d6f9,22,Male,False,2,Poor,84.2,English,Single
+630b1756-bb48-476b-831c-699d5fd23972,16,Female,True,0,Poor,51.14,Pidgin,Single
+fa01804a-8c8a-4a4a-a96e-80f93454dcf3,15,Male,False,0,Average,85.67,English,Single
+7a9ee6a5-e6d2-4bbd-bba3-d26c13b3402c,19,Female,False,3,Good,89.95,English,Married
+c46caa2a-3f8c-429e-b2dd-5589fe79a422,21,Female,False,0,Average,96.61,Fulfulde,Married
+de2f06e1-d259-4447-9235-898e824170da,18,Female,False,1,Average,57.17,Pidgin,Single
+efde312c-be18-401f-9d8a-028a24c630de,21,Female,True,2,Poor,85.9,Fulfulde,Single
+f7060a5c-5f71-4eab-ba77-7f61db60f1b4,11,Male,False,1,Average,83.62,French,Married
+95a61c91-eb39-44d5-97bb-c34195b0851d,21,Female,True,0,Excellent,65.9,Pidgin,Widowed
+9466f29a-3109-4cc7-9044-10f8ee52a33f,15,Male,True,0,Average,99.43,Local Dialects,Single
+a0eadfa4-0a83-4965-b008-38bac1b16ac5,16,Female,False,3,Excellent,50.81,Local Dialects,Single
+5f0770a5-3be9-4938-a6d4-efdc808aaecd,21,Female,True,2,Good,87.02,Pidgin,Single
+d350900f-c355-461d-8af9-0fb2e0db262e,18,Male,False,0,Good,90.96,French,Single
+a4581a1b-8e12-4b0c-84b3-a04451b176db,21,Female,False,3,Average,74.77,Pidgin,Single
+7326e1b3-0551-4693-ae5d-395603704f86,12,Female,False,2,Average,96.53,French,Single
+6f1e4985-ed1c-4c81-b0e6-01ab48b73445,20,Female,False,1,Average,70.64,English,Single
+a5931134-1c78-4c78-9f7b-73fbfa2bb1ec,17,Female,False,1,Good,50.64,Fulfulde,Single
+03b0a6c9-660a-4f34-a5bb-a7c0b3f4b88f,19,Male,False,1,Excellent,84.74,English,Married
+4141a489-d3e4-4add-8c67-6f60db4c50c9,13,Male,False,2,Poor,88.9,Pidgin,Single
+97bdc9c1-702e-45e6-bac2-a7ebe9fe3ac2,19,Male,False,3,Excellent,72.78,Fulfulde,Married
+0bf24966-ba72-4279-a48a-063ba6882354,18,Male,False,3,Poor,69.32,Local Dialects,Single
+43af4ec3-5d0e-426c-b1d5-412f50c06412,20,Male,True,2,Excellent,72.12,French,Divorced
+bab07725-2415-4d30-8158-057fe41d752c,22,Female,False,2,Poor,70.87,Local Dialects,Single
+d9871a22-568d-4689-8c24-34b9f54cf433,11,Male,False,3,Average,58.21,Fulfulde,Single
+967f5671-3bcd-4665-8bcf-d102c4b2b484,12,Male,False,2,Average,80.35,English,Single
+b6109b89-2e66-42a7-b4f1-dc5b58fa083a,12,Male,False,3,Excellent,59.04,Local Dialects,Single
+3f2e9d11-b9bb-4b2b-9568-660a05558ffc,17,Male,False,1,Good,63.13,Local Dialects,Divorced
+8d68b839-7133-4d61-b60c-f6440c5adea9,15,Female,True,3,Excellent,68.38,English,Single
+d538273b-5697-45cd-ac0b-459157bfc687,11,Female,False,1,Average,55.23,Pidgin,Single
+8e14c2f9-af81-4185-b92c-caf590efe087,10,Female,False,3,Average,93.19,French,Single
+3777938a-c2c6-4cdb-b934-0b097c604e84,12,Female,False,2,Poor,54.21,Pidgin,Single
+d2210f30-6c4d-4a6d-a3b7-88b78564b122,16,Female,False,1,Average,89.19,Local Dialects,Married
+2e772740-faca-41f0-89b5-70b559a760d0,16,Female,False,3,Good,75.32,Fulfulde,Single
+7148363d-5e2a-45fc-88ac-90b00016a982,19,Female,False,1,Average,76.57,Local Dialects,Single
+526a2794-3fc5-434a-9fc0-09f332b2bf64,21,Female,False,0,Good,64.2,Pidgin,Single
+7693bbc8-a9c4-4908-bf44-bf70b021f094,22,Male,False,2,Excellent,74.21,Pidgin,Single
+63bb364b-8214-4df1-a4a3-a06087d9f442,17,Female,False,1,Good,92.91,Local Dialects,Single
+0c2f30e0-6973-44c4-a028-c5114455a32a,13,Male,True,2,Average,74.62,Local Dialects,Single
+fd77ba0f-8ada-48ac-8cba-a8d7df962079,17,Male,False,0,Good,58.56,Local Dialects,Single
+9079473c-85be-4aa9-93d1-9b6938865476,17,Female,False,2,Excellent,64.68,French,Single
+09b13993-d137-4f93-8d42-8877c02a7347,18,Male,False,0,Average,55.61,Fulfulde,Single
+f168c72f-a8f2-4350-ad60-d4ecbdb825f0,20,Male,False,2,Poor,67.88,Local Dialects,Single
+9e632bc1-d8d1-4ad7-b2d6-73eeaf25ce5b,12,Female,False,3,Good,58.51,English,Single
+5750d7b2-f1f9-4d00-a836-715057aa2380,15,Male,False,0,Poor,61.55,Local Dialects,Single
+0d9ac341-30f0-4ff1-a802-fe283ee80bbb,20,Female,False,1,Good,88.95,English,Married
+81dd2a94-5802-4f79-bc9c-1d7e7402e445,12,Male,False,2,Good,99.27,English,Single
+56884da1-0b16-4365-97f1-bbb0c8e0d1c4,17,Female,False,0,Average,63.34,French,Single
+29cc7a6b-90a5-41e8-9a35-a46f79d984f3,18,Male,False,2,Good,55.07,French,Single
+6ac4b18a-f0fe-40cd-a2dd-2d40901f1284,17,Male,False,2,Good,63.7,Local Dialects,Single
+d02311c8-25e3-4a23-9a39-dfcf29875bfc,19,Female,False,2,Average,94.05,Local Dialects,Single
+916246dd-643a-46f2-abdf-dfff9f40c3a6,15,Male,False,3,Poor,73.28,Local Dialects,Married
+6aa4596a-609b-4b15-89db-006a327309f2,22,Male,False,0,Average,67.95,Pidgin,Single
+32dd023b-7299-430f-a588-3adb33bc7c63,21,Male,False,3,Excellent,68.8,English,Single
+d0f43c5a-8cd9-4a94-ba74-3cbcf210cf8f,22,Female,False,0,Poor,97.32,Fulfulde,Single
+07fd906a-79af-4906-832e-4da5743b9899,20,Female,False,0,Good,89.36,Fulfulde,Single
+4441475e-1ad8-40d0-b4df-a15b15b782c8,10,Female,False,1,Good,84.1,English,Married
+9cd1485a-4e30-4d2c-be4d-657b5bdbee45,12,Male,False,1,Average,98.21,Local Dialects,Single
+fd133d8a-753e-4781-b72e-a6dd2c5832f4,21,Female,False,0,Average,51.31,Fulfulde,Single
+2fab0692-9b95-4944-a0f3-334e3319063d,12,Male,False,1,Good,67.64,English,Single
+ecdcc9ce-4c20-4228-8d9d-1f80aa2415f1,17,Female,False,0,Excellent,75.84,English,Single
+a4323ae0-89fe-47f2-afec-8793f7f56163,22,Female,True,3,Excellent,94.9,Local Dialects,Single
+58923737-8ce1-49a4-b62a-4075d7e99229,20,Male,False,2,Good,54.15,French,Single
+1acc78b9-5605-4531-a851-71628625eb3f,16,Male,False,3,Poor,76.44,Fulfulde,Single
+981a9325-9395-4fc6-8d78-d2029140f1c9,14,Female,False,3,Good,64.79,Fulfulde,Married
+55cb7a8d-4dfb-49f3-82f5-f4e6a6c610ce,20,Female,False,3,Poor,98.16,Pidgin,Single
+8f752b0e-ce08-47b9-b087-fbafea7e7cc5,13,Female,False,2,Poor,83.58,Local Dialects,Single
+2e326cfa-d1df-4d3e-8626-6225235ee3f1,14,Female,False,1,Average,85.32,Local Dialects,Single
+f6b10c18-b507-4029-bfff-a3cd980e496c,17,Male,False,0,Excellent,77.52,English,Single
+41a6f28e-a785-4554-901e-db2bf651cceb,19,Female,False,1,Good,71.21,French,Single
+97f0fa8e-a042-4321-952a-e905cdd83874,13,Female,False,2,Poor,94.15,Fulfulde,Married
+85285939-7c23-4ea9-afcb-662d568a71d2,21,Male,False,2,Good,52.77,Local Dialects,Married

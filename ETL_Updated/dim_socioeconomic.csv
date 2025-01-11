@@ -1,0 +1,1001 @@
+socioeconomic_key,household_income,parent_education,electricity_access,internet_access,household_size,religion,political_state
+e76acc69-e464-44bb-9a6a-bf8324624193,High,Tertiary,False,False,10,Christianity,Stable
+fbb3b22d-6157-44bf-bf1c-1e28ff024b0b,High,Tertiary,True,True,2,Christianity,Conflict
+cdfa9429-731b-42e5-aa71-2b7dae81afff,Low,Tertiary,False,False,7,Christianity,Stable
+637ba971-eefd-4ade-8f67-b2dce9a6b3f1,Medium,Secondary,True,True,9,Islam,Stable
+7afbaf88-4502-41b6-8350-3dce33bd2018,High,Tertiary,True,False,10,Islam,Stable
+3248ac62-c57c-40ff-99ec-339d713f754e,Medium,None,False,True,8,Traditional Beliefs,Stable
+b01b8fbd-3a2f-43cd-a33b-049f6adb0bd2,High,None,False,False,10,Islam,Stable
+f965fa4f-bf57-4d66-9557-0eb611846082,High,Primary,True,False,8,Christianity,Conflict
+a427c689-2103-4788-b03f-ebb7cc9b8f2f,High,Primary,False,True,3,Islam,Stable
+5175948e-6d31-431c-91b7-9ae32af2527f,Low,Secondary,False,False,8,Christianity,Conflict
+2a95c0a0-8aa7-43b2-a05c-491c037a7ed0,Low,None,True,True,3,Christianity,Stable
+bab899f4-56cb-4fe2-9006-ce27538430aa,High,None,False,False,1,Traditional Beliefs,Conflict
+9c0cf313-8e2d-40d7-a9f9-410783b880bd,Low,Primary,False,False,3,Islam,Conflict
+07c6f1a7-2b2a-48f0-972d-83966638cad5,Medium,Primary,False,True,11,Islam,Stable
+cc85234c-c06e-4fa3-8de1-716f996f473e,Medium,Secondary,False,True,8,Christianity,Conflict
+334ac594-b205-4350-accb-a6b838736543,Low,None,False,False,12,Traditional Beliefs,Stable
+a569b065-fb21-4342-b43b-8f678eb0c3e1,Medium,None,True,False,3,Traditional Beliefs,Stable
+0560280a-99b4-40ed-b53d-21d853f1950c,High,Tertiary,True,True,5,Christianity,Stable
+1938ea67-bf1d-4184-bf6c-27918d6dca65,Low,Primary,False,True,5,Traditional Beliefs,Conflict
+0ad49d82-93b4-4819-bdc4-f753d01b6888,Low,None,True,True,12,Traditional Beliefs,Stable
+9983952f-f85d-413c-95a3-fc8a2d968035,Medium,Secondary,True,True,9,Christianity,Conflict
+c4040766-80e9-4c78-ba94-806a8e342d9f,High,Secondary,False,True,4,Christianity,Conflict
+d80f0b8d-e1c4-44b9-a90b-59e1d5a7d336,High,Tertiary,True,True,4,Islam,Stable
+b002ede4-fb9e-43bd-be65-1bc17ebf769c,Low,Tertiary,True,False,8,Christianity,Stable
+b5e9323d-a130-4b53-a7ff-37958712259e,Medium,Tertiary,False,False,6,Islam,Stable
+0efec327-d734-417c-8dde-417c6f87685f,High,Secondary,False,True,7,Christianity,Conflict
+8371a891-d03b-4958-bb28-dfe6084c6aef,Low,None,False,False,12,Traditional Beliefs,Stable
+44754562-7157-4bf1-9e9f-7e7e280dba61,Medium,Secondary,False,False,7,Islam,Conflict
+22753cb0-6311-457a-917f-ca7276c58262,Medium,Primary,False,False,1,Islam,Stable
+63889ef7-5d16-4017-a7f0-50b91610ce27,High,Tertiary,False,False,11,Traditional Beliefs,Conflict
+6c090534-519d-47f6-a14f-2fcf77a72e7a,High,Secondary,False,False,11,Christianity,Stable
+4ca6075d-e776-423c-bf8e-93842d06b2e7,Low,Primary,False,True,1,Traditional Beliefs,Stable
+6ad22826-5482-4b75-9342-c2a5054edf95,High,None,True,True,1,Traditional Beliefs,Stable
+96fe5ca0-5929-493d-843f-5c885d7df01a,High,Primary,False,True,2,Islam,Stable
+64558177-485f-42ef-bb87-69582021918f,High,Secondary,False,False,6,Islam,Stable
+d390ec3e-f225-4e8e-9ec5-dfb47c54da97,Low,Secondary,True,False,2,Traditional Beliefs,Stable
+0a1d88cd-7573-4296-bc2c-e4588e9f20b8,High,Tertiary,True,False,2,Christianity,Conflict
+b79e8a70-ebba-48e8-ac2e-d37520499929,Medium,Tertiary,False,True,10,Islam,Stable
+fc1fc4ef-5732-4ea5-ab2f-90c8d98e50ee,High,Secondary,False,True,6,Christianity,Conflict
+6bcad2a2-e57c-4720-9288-bb4d7114e885,Low,Tertiary,True,True,6,Traditional Beliefs,Conflict
+85ccd954-f615-442d-8249-fdedbc8dc23f,High,None,False,False,5,Christianity,Stable
+e9672db1-dabe-45a6-bda8-7706574e164c,Medium,Tertiary,False,True,12,Islam,Stable
+a56a9ee3-00a6-49da-a812-e8ce99f0b227,Medium,Primary,True,False,2,Christianity,Conflict
+98507d48-d730-4018-9add-5cafb4df736c,Low,None,True,False,6,Christianity,Stable
+4e555cb4-89d7-43e0-a4af-54195d24b41a,Medium,Primary,True,False,6,Islam,Stable
+40dd4b2b-0d8b-406d-a4a7-393d951606a4,Low,Tertiary,True,True,8,Traditional Beliefs,Conflict
+23f808b3-a42e-456f-aaa7-30ecf9dc47d7,High,Secondary,True,False,5,Islam,Conflict
+7e8feb9e-61b4-4c8c-b15a-cbfc927236b5,Medium,Tertiary,True,False,4,Islam,Stable
+e1e90941-fc82-4f48-ab49-23c48ab535f9,Low,Tertiary,False,False,4,Islam,Conflict
+f51f5361-b1ee-44ab-84e2-cd3d4ab57624,Low,Tertiary,True,True,3,Islam,Stable
+f12f869e-9eb3-42ed-bb54-5dfbc1adae41,High,Primary,True,False,7,Islam,Stable
+92c46942-de04-4d6d-b7a5-0b1777116d06,Medium,None,False,True,2,Christianity,Conflict
+7ce80724-8475-4b72-86a5-a4d520f33c48,Low,None,False,True,8,Islam,Conflict
+fd1ca2be-ee45-497c-918d-98339dcc1e16,Low,Primary,True,True,1,Traditional Beliefs,Conflict
+891236fb-6bbf-4032-9c64-a8fd46ef1efb,Low,None,False,False,10,Islam,Conflict
+d1ed2db1-fb5e-43e3-95c5-a2d9277744b8,High,None,True,True,5,Islam,Stable
+f7f4cbf0-d63c-4685-88be-2d4f53cfdaf8,Medium,None,False,False,7,Islam,Stable
+20f1d875-81a6-44c4-bcf6-d8cae8fe56dc,High,Secondary,True,False,7,Christianity,Stable
+c970869e-4ad7-4c48-aed1-8fb9c6842090,Medium,Primary,False,False,8,Islam,Stable
+81cb3006-84ed-4bf1-aa64-fe7ab8ba23d5,Low,Primary,True,True,4,Christianity,Stable
+8d4eeda1-06d2-44f5-939e-dc08f61bd607,Medium,None,True,False,11,Islam,Stable
+fcf6330e-e0be-4346-bf5e-b5cf392b09ef,High,Secondary,True,False,8,Islam,Stable
+092edd74-6655-4808-91f8-1eb6640c1f0d,Medium,None,True,False,5,Christianity,Stable
+3058d953-9bb3-4050-8091-ffe993c100ba,Low,None,True,False,9,Traditional Beliefs,Stable
+f7134e90-1d5b-4523-8929-82b200c54935,High,None,False,False,1,Islam,Stable
+7af4acf0-3b61-4e36-9282-cfc43b813977,Medium,Secondary,True,True,6,Traditional Beliefs,Stable
+dc0a3a70-9646-462f-9f4b-90deee038dd1,Medium,Secondary,False,True,6,Islam,Conflict
+50dec59c-3555-4991-be3f-adf48649d0d4,High,Tertiary,True,False,6,Islam,Stable
+3a0f8d5e-0e46-48ab-858a-abff4706baed,Medium,Primary,True,True,4,Christianity,Stable
+6aab76a7-4a27-4e32-bc53-379364c41fb1,Low,Tertiary,False,False,10,Traditional Beliefs,Stable
+df5c6197-c9da-4fa1-b275-c043af0c8e0f,Medium,Tertiary,False,False,9,Traditional Beliefs,Stable
+125064a8-111d-45c1-bdb2-cb8ed313700b,High,None,True,True,9,Traditional Beliefs,Stable
+24658aa7-bdcc-42d5-aa1e-1794ac006129,High,Tertiary,False,False,12,Islam,Stable
+d653e0e2-5a01-4e5b-9af9-908ad9a1b1bf,Low,Primary,True,False,1,Islam,Conflict
+c04db8de-50c7-4213-b14f-352967c594b0,Low,Secondary,False,False,11,Islam,Stable
+cf755998-966f-4850-b368-91082c94c6a6,Low,Tertiary,False,True,10,Islam,Stable
+2160bf90-59e7-4771-816a-bcf905dc14d6,Low,Primary,False,True,4,Christianity,Stable
+27eaa56a-2929-466d-b9b0-e70efe1d3af7,Medium,Secondary,False,True,5,Traditional Beliefs,Stable
+64b07469-de07-4958-b162-746d99f93ce2,Medium,Secondary,True,True,2,Islam,Conflict
+dcd7a6ca-aa1d-4ac3-b30b-a4988730f4f4,Low,Secondary,True,True,5,Traditional Beliefs,Conflict
+56c6693d-8872-4038-baf9-fba61ba5840f,Low,Primary,True,False,7,Islam,Conflict
+5c8b5b2a-1d01-4b8f-90da-142dab3fc3b0,Medium,Primary,True,True,9,Christianity,Conflict
+d177c071-b041-49ee-a528-2becfe18c910,Medium,None,False,False,10,Islam,Conflict
+4b773f8b-d714-4267-9517-4853c5109c36,High,None,True,True,6,Traditional Beliefs,Stable
+3e18ce4e-9463-4e2d-bd15-706e844a9e2f,Medium,Tertiary,True,False,10,Traditional Beliefs,Conflict
+d14f3954-1340-4685-b2e3-1d52de9e240c,Medium,None,True,False,12,Islam,Stable
+e560ca85-e408-4ad4-9263-7cc872edb396,High,Secondary,False,False,7,Traditional Beliefs,Stable
+98008e59-4227-4a8c-8e07-176024327237,Medium,Primary,True,True,2,Christianity,Conflict
+425d118f-cd66-4b16-ae9f-8426dabfb3e6,High,Secondary,True,True,4,Islam,Stable
+d1645208-9fe2-434e-b85c-160b9914bf89,Low,None,True,False,8,Traditional Beliefs,Stable
+632ee34b-06db-4705-9b5f-bd63e6a39836,Low,Secondary,False,False,7,Islam,Conflict
+775e116f-c2eb-4545-b7b9-9e3b7e5802fe,High,Secondary,True,True,4,Traditional Beliefs,Stable
+f7210133-cd7b-4408-9737-3404c610dbc3,Low,Tertiary,False,True,7,Traditional Beliefs,Stable
+6c4806a5-4297-42d3-9484-69f740810735,Low,Tertiary,False,True,2,Islam,Stable
+b23e7aea-cb05-4e6c-b43e-effe3ebd6953,Low,Primary,False,True,12,Traditional Beliefs,Stable
+1a9f260b-a7f4-430a-9dfc-5f28f9b75fc2,High,Tertiary,False,True,11,Traditional Beliefs,Conflict
+d29761b8-831c-423a-8ce1-ba49abc52b45,Low,Primary,False,True,8,Traditional Beliefs,Stable
+dc2133d7-cb2c-4128-80a7-e3e74932ad45,Medium,Primary,True,True,6,Christianity,Conflict
+f6228462-b985-45de-a254-b90d717881ee,Medium,Tertiary,False,True,8,Traditional Beliefs,Conflict
+385b5824-27ce-4dc5-8b9f-b74ce9c0e777,Low,Secondary,False,False,8,Christianity,Stable
+b06ab6a4-39fb-47b2-b76b-bdfc7accb0ec,Low,None,True,True,1,Christianity,Stable
+f0b18fe7-0865-44fa-8f75-5be524cf8799,Low,Secondary,False,True,8,Traditional Beliefs,Stable
+98f0b9b6-c471-41f2-82fb-e107533f7187,Low,None,True,True,2,Traditional Beliefs,Stable
+ac56fe59-e5db-40e0-b273-997858398508,Low,Tertiary,False,False,1,Christianity,Stable
+8286db1f-671a-4964-970f-9f806da6ff29,Medium,Secondary,True,False,2,Christianity,Stable
+c792f1c8-61fc-432d-888d-844f4c5b5d6a,Low,None,True,True,7,Christianity,Stable
+8dbed734-0692-4e40-a2c4-ff649efac964,Medium,Tertiary,False,False,3,Islam,Stable
+e94e96fd-2984-481c-8bf8-0f1b0cb1687e,High,Tertiary,True,True,8,Traditional Beliefs,Stable
+ac3ceecd-d6b7-4639-a094-094367555686,High,Tertiary,True,False,2,Traditional Beliefs,Stable
+0fc57e1a-acd3-4281-805b-cd4d477cadcf,High,Secondary,True,True,6,Traditional Beliefs,Conflict
+3de198d0-178a-4833-9341-818404e04104,High,Tertiary,True,True,6,Christianity,Stable
+8e7f29e4-00b2-4eaf-b8da-2f8e9cddacd8,Medium,Primary,True,True,3,Traditional Beliefs,Stable
+d94fd5ce-810b-4060-890e-103571ac6749,High,Tertiary,False,False,8,Islam,Stable
+c7867a5f-2cf5-44f7-ab62-643a7e754a8a,Medium,Primary,False,False,12,Traditional Beliefs,Conflict
+b6c5a602-d327-4fdb-af0c-36f0e51dc2b9,High,Secondary,False,False,6,Christianity,Conflict
+32100712-3656-4493-bd57-b03d4eb70f20,Low,Primary,True,True,5,Christianity,Stable
+032b7832-ac5c-4e08-a43f-0194d6aa936a,Medium,Tertiary,False,True,8,Islam,Stable
+cde1cd8e-9904-4c45-8948-5dcf7527e391,Low,Secondary,True,False,2,Islam,Stable
+5b8fc394-643e-432f-ad8c-0e0ec0ae0d08,Medium,None,True,True,7,Islam,Stable
+fea2ec67-b205-43f4-84fa-0f9718d54953,Medium,Primary,False,False,5,Traditional Beliefs,Stable
+1aa7eeba-3f9f-4668-816b-6c1a07616231,Low,Primary,True,False,1,Christianity,Stable
+543297ec-9155-4dcf-8874-cd69e53494ce,Medium,Tertiary,True,False,11,Islam,Stable
+d971f08b-c031-4368-bc38-4493e226addc,High,Secondary,False,False,9,Islam,Conflict
+4d8c714b-e453-40df-90ca-cf440e9690eb,Medium,Tertiary,False,True,5,Islam,Stable
+85b77ff3-afe8-45d3-a8d1-54693d2d79a5,Low,Secondary,False,False,10,Islam,Stable
+28afcdd0-055d-4548-8740-c773219da522,Low,Secondary,False,True,4,Traditional Beliefs,Stable
+063cef84-2e3c-48b0-ac3b-445bf1699c15,Medium,None,True,True,12,Traditional Beliefs,Conflict
+20d47b2f-f7f8-458b-b87b-aa422b8e47ef,Low,Secondary,False,False,2,Christianity,Stable
+9ba6e1ae-6710-44df-9b6b-3cad894a428d,Medium,Tertiary,True,False,1,Christianity,Conflict
+fd3e96e4-0d04-41b8-83b7-cb49c5efd9e5,Medium,Secondary,True,True,8,Islam,Conflict
+9ddbf66f-26ea-42b0-8ce4-4f14fb532f38,High,Tertiary,True,False,7,Traditional Beliefs,Stable
+7e4d4163-20e7-49ca-b5b7-3cb5eb3ecbd6,Medium,Primary,True,True,11,Islam,Conflict
+7e8d8819-2b20-45bb-a61b-e9dd42b3ea44,Medium,None,False,True,8,Christianity,Stable
+274ebf49-e0bb-4f5c-a5d0-f0db01c4f41a,Medium,Secondary,True,False,3,Islam,Stable
+a4f1c807-c37f-4536-82a6-f46208f39516,Low,Primary,True,True,4,Christianity,Stable
+e76137db-13ba-4da5-86d2-8f5e4e4198fd,High,Secondary,False,True,10,Islam,Stable
+de345418-34ba-4bb0-954f-76909231e16c,High,Tertiary,True,True,11,Traditional Beliefs,Stable
+92f8cf23-effe-4f71-b8fe-5bfe04920440,Medium,Tertiary,True,True,11,Islam,Conflict
+890d3c0c-fb5b-4ff6-9c5f-c8abf70f50e8,High,Primary,True,False,5,Christianity,Stable
+f0be33b0-74e2-49ca-80c9-7e1d225e39bb,Medium,Primary,False,False,9,Christianity,Conflict
+149c9124-3334-46d0-bc06-b82d1bcd91aa,Low,Primary,True,True,2,Christianity,Stable
+8a086990-13f1-4cf6-8895-fc6b1132fc46,High,Tertiary,True,True,3,Christianity,Stable
+b4795484-7321-4992-9ebe-9bdd98cbb94d,Medium,Primary,True,True,9,Christianity,Stable
+de2bade4-e1ba-4c7d-a2ad-daa92dc95cb2,High,Tertiary,True,False,10,Traditional Beliefs,Conflict
+c2d9bd64-eb83-491e-9273-1b9a3fb9a91e,Low,Secondary,True,False,7,Islam,Stable
+bdd9c6ec-1040-4541-a905-8bfef884f340,Low,Tertiary,False,True,7,Traditional Beliefs,Stable
+69cc411d-c1e5-4737-bc7d-e9b0c320a7f2,Medium,Tertiary,True,True,4,Traditional Beliefs,Stable
+45b27425-350b-4c19-9c08-61fef5c5a83d,Medium,Tertiary,True,False,10,Islam,Stable
+560a961a-4e76-4837-90d8-e968d1fb281d,Low,None,False,False,1,Christianity,Stable
+74543672-e6fc-47d3-bbc2-c2e4f81f85e9,High,None,True,False,5,Traditional Beliefs,Conflict
+4c25e031-abcd-40f2-816b-10082529b8e4,Low,Secondary,False,True,7,Traditional Beliefs,Stable
+b582835c-765d-431e-85eb-0e54ae050bee,Medium,None,True,False,3,Islam,Stable
+738dfaac-47ee-4dc0-af5c-5172371ab97e,High,None,True,False,6,Islam,Stable
+29f78d85-ae10-4fbe-bd8e-a5215e3bcf38,High,None,True,True,10,Islam,Stable
+cd5a6d6a-3832-42fa-ac58-aa5c8ff0edbc,Medium,Primary,False,True,1,Islam,Stable
+70af5c72-a12e-431e-974e-4b0427ff6e47,Low,Tertiary,True,True,2,Christianity,Stable
+47acfa5b-cfbf-43d0-9063-783a65a309e7,Medium,Secondary,True,True,7,Islam,Conflict
+2158cc4d-a573-40af-92b5-8465d574d3d0,Low,Tertiary,False,True,6,Islam,Stable
+721c9eba-9b13-4293-a274-741f8e023a5a,High,Tertiary,False,False,5,Christianity,Stable
+1fa90543-1552-4c72-ae0d-8927a6abada5,Medium,None,False,False,5,Traditional Beliefs,Stable
+4e71974b-ebb9-470b-9c94-cc3c60dbf90e,Low,None,False,False,3,Christianity,Stable
+df912339-6de7-4b79-a73b-565d6fc6a049,High,Tertiary,True,False,8,Islam,Stable
+9e39b5d4-0da2-4b36-ac98-63ba0bb3fc57,Low,Secondary,True,False,1,Traditional Beliefs,Stable
+4ae4b0b4-c630-4701-acd1-c08cd022a0ee,High,Tertiary,False,True,11,Christianity,Stable
+6709b5e4-0e29-4f12-a714-6183108e04d8,Low,None,True,True,2,Traditional Beliefs,Conflict
+3e8522e5-0a13-44ec-9cda-fc1e72b0b4f5,Low,Primary,False,True,12,Christianity,Stable
+cabe682d-5870-44d5-a2c4-2c9eb50e5a9d,High,None,False,False,7,Islam,Stable
+73f64212-d100-45f2-8ac4-d7e3f2805322,High,Secondary,False,False,3,Christianity,Stable
+5ed4f6e2-b72f-4f69-a82e-ca7f1c3cee34,High,None,True,False,6,Traditional Beliefs,Stable
+6f7d47c3-cdbb-4653-9e8e-b9ca87a94c9d,High,Primary,False,False,9,Islam,Stable
+11bd88e4-cfc7-4e77-86c9-efdc0a286a98,Low,Primary,False,False,8,Islam,Conflict
+9b931de8-a731-41fc-974f-be5b5f96f20e,Medium,None,True,True,1,Islam,Stable
+6050f0f0-6621-47c2-9e0c-dd3506f0324c,Medium,Secondary,False,True,1,Islam,Stable
+d3b3130b-e744-42b2-b6a7-d15e0ac7e57a,Low,Secondary,True,True,4,Traditional Beliefs,Conflict
+c28bb724-b378-46fd-a1d9-5c2bd25f41ca,Low,Secondary,True,True,2,Christianity,Stable
+10ed902c-d214-4bcd-a03f-4f1064acb4e6,Low,Primary,False,True,7,Traditional Beliefs,Conflict
+f1821d54-ee66-4baf-b93b-0a8afd5c8ed1,Medium,Primary,True,False,7,Traditional Beliefs,Stable
+d662efa4-8a8f-4399-a4db-2d43bc411379,Low,None,True,False,3,Traditional Beliefs,Conflict
+66cac22a-a6ee-4995-bbfb-f785aae89c6a,Low,Secondary,True,False,1,Traditional Beliefs,Conflict
+597a55b6-bcd5-4466-9a93-0f34a90f2c59,Low,Secondary,True,True,9,Traditional Beliefs,Conflict
+f6cdb294-7c1b-45b9-aaab-578d31f4b55c,Medium,Primary,False,True,9,Traditional Beliefs,Stable
+abc3c086-77eb-4551-b958-0250ccf8e363,Low,None,False,False,1,Christianity,Stable
+92b5d921-c709-4076-a918-cec767da3f54,Medium,Secondary,False,True,7,Traditional Beliefs,Stable
+94f3a7b7-8843-49ef-858f-5fcf61c39226,Medium,Tertiary,False,True,5,Christianity,Conflict
+61742801-b6a8-4082-be9b-4b3f71575d95,Low,Tertiary,True,False,5,Traditional Beliefs,Stable
+175e31ce-6940-481a-8977-49547300bfd0,High,Secondary,False,True,4,Islam,Conflict
+78a035d1-70b0-4e4b-9366-ab748efbb906,Low,Tertiary,False,True,6,Christianity,Conflict
+b6f6cf1d-c1fb-43f1-a641-74232e0e4fbc,Medium,Primary,False,False,10,Islam,Stable
+8832bc54-8292-4fae-9bbf-dc726fe916f5,Medium,None,True,False,1,Traditional Beliefs,Conflict
+a9b41d27-d5e2-4e46-9a6e-0d81ddcd5f3f,Medium,Tertiary,False,False,5,Christianity,Stable
+b8174b67-be81-437a-b837-9ce37368c5f8,High,Primary,True,True,2,Islam,Stable
+6c213b1c-8ecd-4623-9609-a34753343031,Low,Primary,False,False,5,Traditional Beliefs,Conflict
+528e883a-1099-4aa4-9d9b-69b088041fdc,Low,Secondary,False,True,6,Christianity,Stable
+bcaceca7-3750-4379-885a-89f2e54ef5ff,Low,None,True,True,11,Traditional Beliefs,Stable
+8c58ecfe-e07d-4f96-980c-1e2d6b9be0bc,High,Tertiary,True,True,12,Christianity,Stable
+ba9d8342-a166-4c6a-9863-ed5a7d0184c5,Low,Secondary,True,False,5,Christianity,Stable
+91125bfa-de0c-4957-9274-cdad67a8e9db,High,Secondary,False,True,10,Islam,Stable
+c26b3ce4-c948-433e-931f-72ffec7ff1a9,Medium,Secondary,True,False,10,Islam,Stable
+588a3c23-1e07-4596-bfe5-e3fc8ad2d7dd,High,Primary,False,False,6,Christianity,Conflict
+52a6cfa2-1204-45cd-9d10-c8d6188888cb,Low,Secondary,False,False,6,Traditional Beliefs,Stable
+ad6a9c9f-34c6-4452-89eb-efdadb502ca2,Medium,Secondary,True,False,9,Traditional Beliefs,Stable
+3b620401-9ee7-4ddb-ab64-1a22bce87b14,Medium,Primary,False,False,10,Islam,Stable
+c2a1ec3c-e601-4f44-92c7-bf27b7410493,Low,Tertiary,False,False,11,Christianity,Stable
+abe253b3-29a8-4cfa-b15b-f8ebecd7c0fa,Low,Tertiary,True,True,12,Traditional Beliefs,Conflict
+ea4f2000-aa44-48d2-8ff8-ef6e94d9d0e4,High,Tertiary,False,False,10,Islam,Stable
+26979136-cf19-42bb-8614-a2b038074103,Low,Secondary,True,False,8,Islam,Stable
+03e8afbc-7fa5-4d86-a169-3fe4bccf25ac,High,Tertiary,False,False,6,Islam,Stable
+df49fc73-e69a-461c-a539-cde10668a95f,Low,None,True,False,12,Islam,Stable
+0a806f36-a03d-4aac-b838-d56873f49649,Medium,Primary,False,False,12,Islam,Stable
+9d842c83-a923-4fa8-a2bb-b830bcabb530,Medium,None,False,True,4,Christianity,Conflict
+140b1cd0-d1a6-4c6c-9042-4ad01404a6dc,Low,Primary,True,False,12,Islam,Stable
+12579cab-7042-43d1-bd9f-aeed75691565,High,Primary,False,False,2,Traditional Beliefs,Stable
+3e2ba22d-ed7b-4e59-aedf-834432a9cfe5,Low,Primary,False,True,9,Islam,Stable
+0d1d7303-628a-46e4-ad97-88ccb3c0f3ec,Medium,Secondary,True,True,10,Christianity,Stable
+e540c5af-418c-4d19-908f-dbe1c85a29c0,Low,Tertiary,False,False,8,Islam,Stable
+79c7120e-b5c4-4890-b79b-a17e3422d613,Medium,None,True,True,9,Traditional Beliefs,Stable
+f1042f42-09d1-4d92-9ad1-a482269e17ff,High,Primary,False,True,10,Christianity,Stable
+26575139-b97d-4a5c-92c9-7b62ecdc9cdf,Low,Tertiary,True,True,2,Islam,Stable
+03395fb2-4205-492d-aefd-64aabd2f39a4,Medium,Tertiary,True,True,2,Christianity,Conflict
+4fceaeb4-e972-43ab-87d8-ab174bff861d,Medium,Secondary,False,False,9,Christianity,Conflict
+3a71ea14-3782-431e-beca-5aa18ad49af1,Medium,Secondary,True,False,9,Christianity,Stable
+7e3e3751-e25b-41cd-9a0f-9c220cda2e7f,Medium,Secondary,False,False,11,Islam,Stable
+df2aaf6e-1524-43df-bf2d-2026435d5be6,High,Tertiary,False,False,4,Islam,Stable
+fdd6ad95-a2e2-44c3-9972-9ff4fc9b3394,Low,Secondary,True,False,12,Traditional Beliefs,Stable
+864d029a-ae6e-4cc2-becc-d340a66707d5,Low,Primary,False,True,12,Christianity,Conflict
+15bb4f7f-ac34-40f1-b89d-bf8649b5c818,High,Tertiary,True,False,8,Traditional Beliefs,Conflict
+e8cb45c7-91bb-4f7e-af73-f1f86bbb18df,Medium,None,True,False,6,Islam,Stable
+84c51f2a-ad1b-4a77-9588-82a28699663f,Low,Primary,True,False,9,Christianity,Stable
+fb9806e3-55dc-47d9-8901-b3a54c871791,Medium,Primary,True,False,11,Christianity,Stable
+ed67d15a-0a6c-45aa-b6b7-b3a3e3be4ae8,Low,Tertiary,False,True,7,Islam,Stable
+63ee20cd-4a1c-4876-8cff-45e143f21682,Medium,Secondary,False,False,9,Christianity,Stable
+c1acf213-b3de-433a-8e68-09361a42def9,Medium,Tertiary,False,True,4,Christianity,Stable
+3cd4550d-2dd1-4abe-8939-56a25e336333,Medium,None,True,True,5,Christianity,Stable
+05fbec8d-86e3-4a4c-9e76-b90da81d7ed0,High,None,False,True,12,Islam,Stable
+97a9b6c8-aaee-44bd-8f0b-4234e64bdb72,High,Primary,True,True,11,Christianity,Stable
+139d980e-9100-4d43-b0e3-fe802a7ced72,High,None,True,False,5,Traditional Beliefs,Stable
+a408e4ae-8980-420d-8f5c-64156a41c00e,Medium,None,False,False,7,Islam,Stable
+09d79f38-ebd1-4e45-a7a9-69ad091463d3,Low,Primary,True,True,3,Christianity,Conflict
+1dc48ab2-d0ee-4521-a609-fd1f9f9c6f94,High,Primary,True,True,12,Traditional Beliefs,Conflict
+df863170-0b5a-4e36-b8f1-ee3d538f2915,Medium,Tertiary,False,False,1,Traditional Beliefs,Stable
+46933873-e1d0-4087-9ebc-3cac046b236a,Low,Secondary,True,True,10,Christianity,Conflict
+879212a1-d856-4f4f-bb5e-f3f627935371,Medium,Primary,True,False,8,Christianity,Conflict
+20fe5c48-f37b-4bde-8d4f-05f478fb269a,Medium,Secondary,True,False,4,Traditional Beliefs,Conflict
+3e3fa565-2e5d-4dff-bad8-3999b02df25f,Low,None,False,False,6,Traditional Beliefs,Stable
+a1b8744c-0957-4ee9-9b46-0329adfe2d28,High,None,False,False,2,Traditional Beliefs,Stable
+61879e8e-8cbd-4f97-8630-2f87e003a51b,Low,None,False,True,8,Christianity,Conflict
+185f29e7-7734-489d-bbea-5968ebe43bcb,High,Primary,True,True,2,Christianity,Conflict
+5c1a6e0a-e342-49b9-b678-c6e5f4b11983,Medium,Secondary,True,False,9,Traditional Beliefs,Stable
+b9d98cc7-d76e-4c76-a8a5-ea50eb41176f,Low,Tertiary,True,True,9,Islam,Stable
+84bbbae2-d5ee-413f-ba1d-e745f77bde87,Medium,Tertiary,False,False,1,Christianity,Conflict
+03810c11-8145-4391-ae7e-2431d909d9b2,High,Secondary,False,False,12,Christianity,Stable
+59000328-35a3-4b55-9f24-7a74c82eb445,High,Primary,True,False,8,Traditional Beliefs,Conflict
+cbaa00d9-ba27-481e-b47e-f0175977f4a0,Medium,Primary,False,True,8,Christianity,Conflict
+244faee8-740d-4a95-89a0-889e02e0e07e,Low,Secondary,True,True,12,Traditional Beliefs,Stable
+10556d11-8d57-47af-aad0-2d9a1df31375,Medium,Secondary,True,True,6,Islam,Stable
+0eed10a7-0842-47d8-b63a-46189f385acf,Medium,Secondary,False,True,7,Christianity,Stable
+8a2fd4d1-12c2-4717-a9b0-7d9dbd08a0ce,Medium,None,True,False,2,Christianity,Stable
+de950b44-1b68-41d5-9d08-2e6f7f0efda3,High,None,False,False,11,Traditional Beliefs,Stable
+01541233-0c24-4da7-840f-db93ae00d577,High,Tertiary,False,True,10,Traditional Beliefs,Stable
+ef042174-e354-49b1-b5ad-56a044692116,Low,None,True,True,12,Traditional Beliefs,Conflict
+e77d3eb6-87b5-4113-8555-ceb6ae0f1676,Medium,Secondary,False,True,7,Islam,Stable
+ab4b35e7-7aeb-4641-adb8-3a9d0a1c5860,Low,None,True,True,5,Traditional Beliefs,Stable
+b9c8dc61-aff8-4c2f-88b4-f1568dec1e05,Low,None,True,False,3,Christianity,Stable
+9c27b480-d41b-4ca4-acbd-d27907a1c7e4,Medium,Primary,False,True,1,Christianity,Stable
+8d6d4167-2eaf-4e47-abed-68bb10ef3aa2,High,Primary,True,False,2,Christianity,Stable
+b9970ac6-9da7-45ed-b3b9-e570099ea5ed,High,None,True,True,9,Christianity,Conflict
+0ee875e7-6f33-4f2d-a39f-1698ce47d190,High,Primary,True,False,11,Islam,Stable
+44e456b2-17a3-4f3c-bd23-a79d5d86d7a7,High,Tertiary,False,True,1,Islam,Stable
+d2b28c9f-2a34-4140-83a8-e3b0219544de,High,Secondary,False,True,11,Christianity,Stable
+47e4a42b-d2a4-47e1-a0a6-43fe5d0d396a,Low,Tertiary,False,False,6,Traditional Beliefs,Conflict
+a23620a9-b600-4e32-9e70-4adf95301875,Medium,None,True,False,12,Christianity,Conflict
+923999be-4dd2-49ed-ba0b-7c6ce7b387f5,Low,None,True,True,4,Christianity,Stable
+d1e7a8e0-2d9e-40a0-b236-edb0eecf448e,High,Secondary,True,False,9,Islam,Conflict
+298266d5-bb4c-4b50-b407-3ecb62ba2c88,High,None,True,False,1,Christianity,Conflict
+ef41726b-85b8-43ae-89ec-470e446bf3da,High,Primary,False,True,12,Islam,Stable
+7aff95ce-c538-448d-b81a-ad23415394aa,Low,None,False,False,9,Islam,Stable
+d932b1ed-67f5-46df-a45d-425fb6dc644b,Low,Secondary,False,False,1,Islam,Stable
+2809dcc4-183a-4be6-b0ab-1c846b916d6d,Medium,Tertiary,True,True,11,Traditional Beliefs,Conflict
+bcdd3fc5-62d8-4805-b58f-28d845579734,Medium,Primary,False,True,5,Traditional Beliefs,Stable
+96b5486f-d638-4f61-a58c-d1bac772b9cc,Medium,Primary,False,True,12,Christianity,Stable
+e32335a8-cbde-494a-bafc-ee41342efbd0,Low,Tertiary,True,False,6,Christianity,Conflict
+5d2b5aa6-17ca-49f9-acdb-efd53063a810,Medium,Tertiary,True,True,8,Christianity,Conflict
+67004500-451b-4b15-bdfd-f4da9c56e4c9,Low,Secondary,True,True,11,Christianity,Stable
+4fb5fa87-4bf2-47b8-8afd-e09de2e5f80f,Medium,None,True,False,1,Christianity,Stable
+f271b105-c3b0-4b0c-b915-4a9eac070b71,Low,Tertiary,True,True,6,Islam,Stable
+f0974436-d7e3-4a96-bdfd-d04af216e2f3,Low,Tertiary,False,False,7,Islam,Stable
+3c1a7188-a056-4ab5-8b69-f7d1c83130c7,High,None,False,True,8,Christianity,Stable
+4d12c8de-599b-45a8-8a18-0ec3bc3651f5,Medium,Primary,False,False,1,Islam,Conflict
+d3897fdb-89eb-451c-b09e-0649341cded6,High,Primary,True,True,9,Christianity,Stable
+6bc0e0ea-57ba-4005-aa4a-88793813ec5d,Medium,None,True,False,8,Islam,Stable
+4aec6bf4-e3a9-4aea-8efe-76e355fa7845,High,Tertiary,True,True,3,Traditional Beliefs,Conflict
+4a7470f6-247a-4497-ab43-196ce3183dcd,High,Secondary,True,True,10,Islam,Stable
+e8da5db2-e676-4156-bb91-2708fc6ecfb7,Low,None,True,False,9,Islam,Stable
+781ed644-5d9f-4d11-94d6-f719457098ad,Low,Primary,True,True,8,Islam,Stable
+411e3eff-010b-4208-8f08-05b842b316ad,High,Secondary,False,False,6,Islam,Stable
+00ed9301-6cb6-46bf-8332-b16101e1b5f8,High,None,True,True,1,Islam,Stable
+7cf40fb8-497f-41f4-9ed0-7216c763c2ce,Medium,Secondary,False,True,1,Islam,Stable
+9bb6183c-a7b8-4e79-958d-2681040ab031,Medium,Secondary,False,False,10,Christianity,Conflict
+969bc4c4-d54e-422d-a84c-3c7f7ebd915e,Low,Tertiary,False,False,5,Islam,Stable
+7b5a05a8-f87e-4af5-803b-25bf47a35df8,High,Tertiary,False,False,4,Traditional Beliefs,Stable
+0031fbb3-9a0b-47da-96a1-6b7fb6a16bcc,Medium,None,True,False,12,Islam,Conflict
+0fc43ab7-2d99-4cee-a98c-5f3221aa20ee,Medium,Tertiary,False,False,12,Traditional Beliefs,Stable
+54954540-6603-49c7-963d-6f73919ea5f2,High,Tertiary,False,True,9,Islam,Stable
+e68d8442-260b-4ccf-8686-54e3b58b977f,Medium,None,False,True,12,Christianity,Stable
+e8a656b7-0431-4a02-9aeb-8d181472fb9a,Low,Tertiary,False,True,7,Traditional Beliefs,Stable
+a402687e-95f5-489a-afec-b63b7bf92e37,High,Secondary,False,True,6,Christianity,Conflict
+d9721623-c867-4c7f-8c5d-e287498ef091,Low,Primary,True,False,7,Traditional Beliefs,Stable
+c5f36602-9ccd-4a66-99db-0f8c8cd153f8,High,None,True,False,11,Islam,Conflict
+08678e61-6eb0-4b67-a237-dfced7a3412b,Low,Primary,False,True,11,Traditional Beliefs,Stable
+a7ff31a9-e360-4f47-9264-b995d30cafe2,High,Primary,False,False,7,Islam,Stable
+7e6d26a9-67f6-4601-a294-0b9fa3a2ee90,Medium,Secondary,False,True,4,Christianity,Stable
+0ef77f0f-06b7-430a-a90a-ed16fd66b85a,Low,Secondary,False,True,11,Christianity,Stable
+cb673ac4-8aec-4804-a3d8-cb5ea0f945b2,High,Tertiary,False,True,5,Islam,Stable
+d5c569de-a237-418e-9852-fba09ba3b293,High,Tertiary,False,False,2,Christianity,Stable
+1529aff0-a2ee-4d68-bc7e-498f8dab58f0,Low,Primary,True,True,9,Traditional Beliefs,Stable
+7ea12015-2024-4812-b2db-0f67d17ef3e1,Low,Secondary,True,False,2,Islam,Stable
+af62b63b-b5d0-4f7d-8524-14169563b404,High,Tertiary,True,False,8,Islam,Stable
+2ea5d52a-45ae-49f0-95b2-663778935ef7,Medium,Tertiary,False,False,6,Christianity,Stable
+12ac33b9-23fe-4120-8bb6-af1af9eb5d8e,High,Primary,False,False,7,Christianity,Stable
+c3295932-fb14-4c3b-8aba-5cd80646e1c4,Medium,Tertiary,True,True,9,Christianity,Stable
+8c916e07-307c-481d-96a5-ff46d4cb636a,Medium,None,False,True,6,Islam,Stable
+30c0b9de-37db-4263-a00a-1e692e74c002,Medium,Primary,False,False,1,Christianity,Stable
+fb9beb34-ac30-4abb-9348-1efa94d3ee94,High,None,False,False,9,Islam,Stable
+30c18744-c79d-44af-9969-3a644d50afb3,Low,Tertiary,True,True,10,Islam,Stable
+4fcb56bc-3137-46d9-82ae-542080e5b9c7,Medium,Primary,True,True,7,Christianity,Conflict
+04bc0353-aeae-45e6-954d-028c7357c5c5,Low,None,True,True,11,Traditional Beliefs,Conflict
+262d8fec-ede8-4a9c-ade2-678c97e58a4a,High,None,True,True,2,Christianity,Stable
+dcb40504-e529-41e8-93b1-c5667c4b3666,High,Primary,False,False,10,Christianity,Conflict
+de8c923d-4e0c-4e12-ac9c-1fee6ac6a7c8,Medium,Tertiary,True,True,3,Christianity,Stable
+406b78fa-8fa4-4c76-8123-b003e3f92864,High,Tertiary,True,True,7,Islam,Stable
+4b4ddfc6-4b1b-43af-95e0-d931c699701e,High,Primary,True,True,3,Islam,Stable
+7fdf3164-cd49-4fb0-9318-6b5b2f4e02db,High,Primary,False,False,2,Christianity,Stable
+279afce6-fdaf-4adf-812f-7516eb007b75,Low,None,True,False,12,Traditional Beliefs,Stable
+aa9b8730-8810-4774-921e-96d16acc26cb,Low,Tertiary,False,False,6,Islam,Stable
+ac195d2b-e6bb-4150-a5fb-c255b991c48d,Medium,None,False,True,10,Traditional Beliefs,Stable
+0dfa5f97-d18f-41b6-8592-ffbe39b9ce66,Medium,Tertiary,False,True,11,Traditional Beliefs,Stable
+4ca70ebb-feb6-4659-be03-4d3c80daf228,Medium,Tertiary,False,False,10,Islam,Stable
+d250077a-9aac-48af-93c9-f47af4c6e903,Medium,Secondary,False,False,9,Islam,Stable
+ac15690d-421b-4450-b54a-34e4f796560a,Low,Secondary,False,False,6,Traditional Beliefs,Stable
+ed4a20cf-2ef6-4985-b28c-15e077f35fab,Medium,Secondary,True,False,8,Islam,Conflict
+e2136e08-d267-4520-9412-4aa322fb2081,High,Tertiary,False,False,8,Christianity,Stable
+1210ea9c-a527-4216-9d23-15cf8a8c559c,High,Tertiary,False,False,1,Traditional Beliefs,Stable
+92fd0df1-21d1-43e2-b4de-63f4e712f758,Low,Tertiary,True,False,7,Christianity,Stable
+0675a17b-bc45-48b1-986a-67d3fe2c2bc2,High,Tertiary,True,False,9,Traditional Beliefs,Stable
+853dc6fd-8de7-43d0-ae52-7ecfa818c91f,Medium,Tertiary,False,True,7,Islam,Stable
+b3d786ea-ebc1-482e-83bf-de577723ae59,High,Primary,False,True,12,Traditional Beliefs,Stable
+3c17eb02-6c18-4d15-8638-a60f3f76e742,Low,Secondary,False,True,3,Islam,Stable
+afda79d5-842a-49c8-955e-a1bff7d3d17b,Medium,Primary,False,True,8,Traditional Beliefs,Stable
+1c407a8c-1fba-4122-9ac3-8486be5a28ac,Medium,Primary,False,True,2,Islam,Conflict
+5d3fe35f-2ca9-44f4-aaf4-00611839b3d5,High,None,False,False,9,Islam,Stable
+7fce8d8c-c9f1-4bab-9348-4c08c4ad77e7,Medium,Tertiary,True,False,11,Christianity,Stable
+c5bc968e-15e5-4499-8bf3-d68b6535b5b2,Low,Tertiary,True,True,1,Traditional Beliefs,Conflict
+3beba1b2-ee2a-44e8-bcd4-aa8104c265d6,Low,Primary,True,True,2,Traditional Beliefs,Stable
+7c68306f-c4a8-4afe-9b7e-a3423b2b29f9,High,Tertiary,False,True,2,Islam,Stable
+7ca4eec5-3408-4225-90af-b82c437b5d11,Low,Primary,False,False,4,Islam,Stable
+77ed7526-ec36-49f3-a242-b4b30ff0c980,Medium,Secondary,False,False,9,Christianity,Conflict
+1aa8973d-3834-45b4-8701-0b2228261751,High,Secondary,False,False,10,Christianity,Stable
+3c279221-0953-4151-b76b-21f558ed116b,Low,Secondary,True,False,4,Traditional Beliefs,Conflict
+96633321-bde4-462f-8313-539faa7720d1,Medium,Tertiary,True,True,11,Islam,Conflict
+4adca837-2888-4d02-bad5-8325e5c32135,High,None,False,True,8,Christianity,Conflict
+997f20d7-e97a-44c0-b6e8-9b2f714fe770,High,Secondary,False,True,1,Christianity,Stable
+3f742329-405c-4937-84d5-c917f65b5774,High,Tertiary,True,False,4,Christianity,Stable
+90c5498b-4db4-45fd-a38a-592343f43c9c,Low,None,True,True,1,Traditional Beliefs,Stable
+6f9e2af4-6412-4ab7-8604-0d766bdac791,Low,Primary,False,True,1,Islam,Conflict
+4344416f-9ac0-447e-828e-47dcf0fc70fa,Low,None,False,True,9,Traditional Beliefs,Conflict
+e7d48d8f-31d8-4c9c-b239-d47e6b0ae7ba,Medium,Tertiary,False,False,9,Traditional Beliefs,Conflict
+a1b62460-75c1-4683-a7c6-1a3a0de11cb1,Low,Primary,True,True,8,Islam,Stable
+65e8ed80-a46f-4dba-8077-5f50b5763d92,Low,Tertiary,True,True,11,Islam,Conflict
+52f6d0bc-72a9-4841-b4fc-164168bbb239,Medium,Primary,False,False,7,Traditional Beliefs,Conflict
+2eef7ada-5fd2-4e6c-aac3-1189aa0e1f32,Low,Tertiary,False,False,4,Traditional Beliefs,Stable
+41c51086-f86b-4f34-a014-42b03c029dde,Medium,Secondary,False,True,6,Traditional Beliefs,Conflict
+ebffce44-70eb-4415-bc0e-c2ba11fd6d77,High,Tertiary,False,False,6,Islam,Stable
+edf8af6a-3d1a-4262-8995-c9f11cc77100,Medium,None,False,True,10,Christianity,Stable
+71490120-d8e3-4ea5-870a-fdae0a2a91f5,Medium,None,False,True,12,Islam,Stable
+85f5db22-de75-4a24-af08-f6b41d7c101f,Low,Primary,False,True,6,Traditional Beliefs,Conflict
+be1fa340-a186-4f16-ba6c-221cb7f37c15,High,Tertiary,False,True,8,Christianity,Conflict
+38a432a5-0806-4e45-89e8-4cee42f24980,Medium,Primary,False,False,2,Islam,Conflict
+a55a14d6-3b1d-49d4-8418-db2af768d6d4,Low,None,True,False,7,Traditional Beliefs,Conflict
+53be9100-9b77-4452-add9-bf5c6facbe03,High,Primary,False,False,9,Traditional Beliefs,Stable
+ecc5db94-97fe-4bc9-9203-86166c930747,Medium,Secondary,True,True,4,Islam,Stable
+825efca8-d5c7-4f40-98fa-cc75aa1d570f,Low,Secondary,False,True,2,Islam,Stable
+f908b309-5b62-42c6-b499-373238807467,Medium,Primary,True,False,12,Islam,Stable
+561df533-bd17-4ea0-81da-ffc06fe7fddf,Medium,Secondary,True,True,10,Traditional Beliefs,Stable
+f27bbdd0-3ddd-4fce-b37d-b842a12c296f,Low,Tertiary,False,False,5,Traditional Beliefs,Stable
+3a86f823-601a-4490-bf33-3714c3126bed,Low,Secondary,True,False,7,Islam,Conflict
+8d6cb537-d7e9-407a-83c9-0827cb80a405,Medium,None,True,True,11,Christianity,Stable
+a422a104-f79e-4b5f-9373-e9be42bbc80f,Medium,Primary,True,True,10,Traditional Beliefs,Stable
+c6a67072-f15b-4a60-a545-9b61b4ab610d,Medium,None,False,True,4,Traditional Beliefs,Conflict
+7ae52c31-4ee1-4954-a0df-bff6a1acda35,Low,Secondary,False,False,2,Traditional Beliefs,Conflict
+84bd1b38-6425-447c-8d89-cb7276b6970d,Low,Primary,True,True,4,Islam,Stable
+25a9fc11-77ad-40a0-9dc3-ac1e9f1b7669,Medium,Tertiary,True,False,6,Traditional Beliefs,Stable
+18a492e4-d268-4e8e-aa81-e6c647bd084d,Medium,Tertiary,False,False,4,Islam,Stable
+7ad24d49-99d8-461a-94e8-c450ec8c4941,Low,Secondary,True,False,1,Traditional Beliefs,Stable
+ca88eced-d90f-47b8-9fb5-770b51f1707f,Low,Primary,False,True,3,Traditional Beliefs,Stable
+403a1886-abd5-4a63-809c-f9afde9d9575,Low,Secondary,False,True,4,Christianity,Conflict
+64c10132-551a-47b9-b6bd-6639d84741fe,High,None,True,True,1,Christianity,Conflict
+2c598905-fd79-484a-8871-ec7ebc068692,Low,Secondary,False,True,10,Islam,Stable
+46583a1a-018d-44dd-a675-aee438b8ae66,Medium,Secondary,True,False,8,Traditional Beliefs,Stable
+beda5221-254f-4a83-87fe-3820223e4f31,Low,Primary,True,True,6,Christianity,Conflict
+425ac44f-1ede-4a6c-afbb-2d49b7f4f9e3,Medium,Primary,False,False,12,Islam,Stable
+c2189c0b-d215-44bc-8547-baf6699a4ce1,Medium,None,False,True,5,Christianity,Conflict
+81c1130d-00e2-4087-ba99-8c6ff70d2acd,Low,None,False,False,1,Islam,Stable
+c9878935-cc65-4c2f-b0f1-d985de845b56,Low,Secondary,True,True,10,Traditional Beliefs,Stable
+4417f667-9b4b-426d-bf51-d506a06ca468,High,Secondary,False,False,1,Traditional Beliefs,Conflict
+e841652b-4bb6-4518-8be0-ae17975393b5,Medium,Secondary,True,True,4,Christianity,Conflict
+54d44bf8-b6e8-4914-9045-529d40aae775,High,Secondary,True,True,9,Traditional Beliefs,Stable
+ae7c6231-fc92-4d47-974b-e0a600fab8e9,High,None,True,True,4,Traditional Beliefs,Stable
+39539f8e-b197-4351-a3e4-5956b1263acb,Medium,None,False,True,8,Islam,Stable
+12d8fe33-1268-441d-bebc-172119a34021,Medium,Primary,True,False,8,Christianity,Conflict
+0a16af95-a05e-4539-91d5-3bd600991c78,High,Primary,False,False,6,Islam,Stable
+f33275f9-d5fb-4108-a4c3-192bf3e66480,High,Tertiary,False,True,11,Christianity,Stable
+23836ea1-ed78-4c77-a2a0-c8611dde4850,High,Secondary,False,False,6,Islam,Stable
+d3c3ad34-691d-4104-82b1-8b14fe9af04e,Low,Primary,True,True,4,Islam,Stable
+0715b788-7de5-4b5d-8e4e-8c599d388355,Medium,Tertiary,True,False,3,Traditional Beliefs,Stable
+5399a36f-7b12-4c35-816b-b341a6acb313,Medium,Secondary,True,False,6,Christianity,Stable
+77f7a565-7123-442d-a65f-6e4cc28984e9,Low,Tertiary,False,True,11,Traditional Beliefs,Conflict
+0823a81f-ffbc-4d99-ad73-5d0751ccdf73,Medium,Secondary,True,True,2,Christianity,Conflict
+2249bec3-9050-4dec-b6da-3bd55f788022,Low,Tertiary,False,True,9,Islam,Conflict
+4d43853b-8c65-42b8-8a68-24f056280daa,Medium,Secondary,True,False,7,Traditional Beliefs,Stable
+9f8f20eb-b72a-4be6-9df8-87182d5864f4,Medium,None,False,False,12,Traditional Beliefs,Stable
+8be0719e-cad3-4fe8-886e-7406f875edb4,Medium,None,True,True,1,Traditional Beliefs,Conflict
+504bc118-357b-4e31-a940-6e8679d83a7c,Medium,None,False,False,4,Islam,Stable
+35eb2a15-8816-4ea1-8810-582382a43782,Low,Tertiary,True,False,4,Traditional Beliefs,Conflict
+6419250a-1d8f-44e0-b5c2-e16f27b3b07c,High,Primary,True,True,3,Traditional Beliefs,Stable
+ef56e132-17d4-44b7-b1c8-37d6f082bb2e,Low,Tertiary,True,False,4,Islam,Stable
+3acb9ac7-2373-4333-9627-142cd8a5bd5c,Medium,Secondary,True,False,8,Christianity,Stable
+f05b918c-c4f8-4584-adf4-d8f1eeffee97,High,Primary,False,False,10,Islam,Stable
+61940c6b-96c5-419a-a832-520dc338326d,High,Tertiary,True,False,5,Christianity,Stable
+ca2384ea-bc37-4278-80af-6e4a0e6fa0dd,Medium,Primary,True,False,1,Traditional Beliefs,Conflict
+d4e49655-95d2-458e-91c9-7ded35a7c9ae,Medium,Tertiary,False,True,3,Christianity,Stable
+7749fe84-5882-4261-b503-53454fe50e9e,Medium,None,False,True,4,Islam,Stable
+8904093c-9871-4971-b821-d5ca9a75e69a,Low,Primary,True,False,4,Traditional Beliefs,Stable
+6710bb64-b9e3-4c03-bbb8-586b4afd73e6,High,None,True,False,10,Traditional Beliefs,Stable
+1167b4ba-fd3e-49c2-836e-e4abd4db5045,High,None,False,False,11,Traditional Beliefs,Conflict
+eb499764-d522-4ad6-adf6-864199305c35,High,Secondary,True,True,2,Traditional Beliefs,Stable
+e6bb891a-870d-4893-a652-eae49d13fae3,High,None,False,True,12,Islam,Stable
+a84f5904-5ce9-49bd-b984-361ee18ae81e,Medium,Tertiary,False,True,5,Islam,Conflict
+d65fbbc1-c629-49c5-a0c7-e0c35d4555b4,High,None,True,False,11,Traditional Beliefs,Conflict
+242fc1b5-4ec0-4a52-bb89-3d16ecd8fc24,High,Tertiary,True,True,4,Christianity,Stable
+4d58d1ea-374a-4326-a5ad-3e4a8b4c89b8,Medium,Primary,False,True,7,Christianity,Stable
+e390e2a3-428c-4672-8585-0236b00d2e79,Low,Tertiary,True,False,3,Islam,Stable
+e40ddcd3-95e3-4b6a-a7da-71ad9967f9ef,High,None,True,False,5,Islam,Stable
+6a196c5b-f665-4d9c-9080-5d2c65b785f6,Medium,None,False,False,11,Traditional Beliefs,Stable
+cb6d2d5a-c5bf-4054-92f8-215e2fab618a,Medium,Secondary,False,True,5,Traditional Beliefs,Stable
+0b2c8d32-f4d5-494a-994e-3094afc1426e,Low,None,False,True,8,Christianity,Conflict
+655e8f4d-ba6f-40d9-96e3-09bdb062de4b,Medium,Secondary,False,True,12,Traditional Beliefs,Stable
+f9b94cc2-4d63-42d0-a350-049da56556f6,High,Primary,False,True,6,Islam,Stable
+3f685735-9286-426b-8f54-abc11d68aae8,High,Tertiary,False,False,3,Islam,Stable
+380061ea-e929-47af-9858-b3708adc3b7c,Medium,Primary,True,True,3,Islam,Conflict
+94d3e1bf-ba75-48a9-84de-00e6474d2395,Medium,None,False,True,6,Islam,Stable
+060e7e2e-b3b6-41ce-9239-2347a4e418e3,High,Tertiary,False,True,11,Traditional Beliefs,Stable
+65936646-bed3-4ae1-ab93-34c9f4cd4494,Low,Secondary,True,True,1,Islam,Stable
+b6d3d53e-87ec-4af9-841e-cea10ddede11,Medium,Primary,False,False,1,Traditional Beliefs,Stable
+66c26a34-9d51-4b8d-b5e5-c939606b6eb5,High,Tertiary,True,False,12,Traditional Beliefs,Conflict
+cd023048-1a38-4101-9a38-973bde8cf32c,Low,None,True,True,1,Christianity,Stable
+e6cee5de-5dfc-4e94-81f6-56d57387d23b,Low,Secondary,True,True,5,Traditional Beliefs,Stable
+8d08e189-aacb-4dc9-bf5a-94c662a0f256,Medium,Tertiary,True,True,3,Traditional Beliefs,Conflict
+2dc24d2e-f0e1-49ed-9f56-229ed1893828,Medium,Primary,False,True,1,Traditional Beliefs,Stable
+85980411-3fc1-4644-9144-419efe33afc9,High,Secondary,False,True,7,Traditional Beliefs,Conflict
+0b5bf695-2d0d-4015-a2d6-6cce180fa88d,Medium,Primary,False,True,6,Islam,Stable
+b6f5757f-a5cb-40c9-bcce-720ea34e5ff3,Medium,Secondary,False,False,1,Traditional Beliefs,Stable
+77435c97-acd5-4d67-ac5b-a5ee909221c8,Low,Tertiary,False,False,4,Traditional Beliefs,Conflict
+e772b5f9-28af-4396-bbe2-637fc0823d0b,Medium,None,True,False,7,Traditional Beliefs,Conflict
+1f261754-c686-4ff2-b61d-b52660f2dc78,Low,Tertiary,False,False,12,Traditional Beliefs,Stable
+aaf3ca22-6052-4e3a-a219-0357733799e0,High,Primary,False,False,6,Islam,Stable
+da6d0a85-52ad-4fbf-b650-4483f30ebc6c,Low,Secondary,True,True,10,Islam,Conflict
+fec9ff46-02aa-4ab8-b641-aca3a00a8a23,Medium,Secondary,False,False,11,Christianity,Conflict
+5fce608b-4f7a-4c26-85f2-f0471b9252db,Medium,Tertiary,True,False,8,Christianity,Stable
+1b8c51dd-7267-4519-b474-c2a3201ca52a,Low,None,False,True,10,Traditional Beliefs,Stable
+7fcb130e-9842-4887-b45e-124fd435c1b6,High,None,False,False,11,Traditional Beliefs,Conflict
+e6207d4d-5103-42aa-afdf-7d232e1dcaac,High,Tertiary,False,True,5,Christianity,Stable
+9171afe9-8121-4666-aeb8-dd668d87de5b,Low,Tertiary,True,False,5,Traditional Beliefs,Stable
+0790a3b3-e68c-4058-b625-a78916936127,High,Secondary,True,True,7,Christianity,Stable
+c41255d0-8c5c-4fe7-b06a-59431b7f6148,High,Secondary,True,True,9,Traditional Beliefs,Conflict
+3025cfdc-5e2d-47d0-8b6f-872e4926c8f9,High,None,True,False,2,Christianity,Conflict
+a7ef77ba-5cd2-48f9-a849-f1d8e2c5d56b,High,Tertiary,True,False,4,Islam,Conflict
+a43267f2-3dbf-4949-8b1a-4568b4509710,Low,Tertiary,False,True,6,Christianity,Conflict
+116bb7de-964b-4a5a-afaa-59bdcb85c879,High,Tertiary,False,False,10,Christianity,Stable
+0f93c09e-0fd2-4e72-ad7a-047279428927,Medium,None,True,False,8,Traditional Beliefs,Stable
+d10b01da-bd78-43aa-a366-e722ee257c49,High,Secondary,True,False,7,Islam,Stable
+a42a66df-0bb7-4e4d-82dc-2e5dc62c56a4,High,Tertiary,True,False,8,Islam,Stable
+f44aee5f-4adc-49e3-ac02-b90209d4b3af,High,None,False,True,9,Christianity,Stable
+c8f26fad-0aa5-43ff-bcae-d9d13c320d8b,Medium,Tertiary,True,False,3,Traditional Beliefs,Stable
+ad3edfc1-d862-4efd-ace9-671d7dce362b,Low,Tertiary,False,False,4,Islam,Conflict
+45fdf459-d1a0-49b8-a6c8-72f149c5ffa5,High,Primary,False,True,8,Islam,Stable
+a6cad5b1-3d94-419d-a425-543daa1c9eea,Medium,Tertiary,True,True,10,Traditional Beliefs,Stable
+155383ff-77b7-4ba0-9e05-3b2357095179,High,Primary,False,False,4,Islam,Stable
+738cafeb-f2d2-4124-8d83-38f5c1e81224,Medium,Tertiary,False,True,8,Christianity,Stable
+dde3226f-d3d9-47c3-a4cc-1e5abf3d941e,Medium,None,True,True,6,Traditional Beliefs,Conflict
+15325f29-f983-4d04-85e2-51bbfcc0c3bf,High,Tertiary,True,True,11,Christianity,Conflict
+8282b1e2-848c-4f20-8b46-7f3c0a94dcdb,Low,Tertiary,False,True,3,Christianity,Stable
+0e9cfd38-be1d-4692-abac-0cc27710d596,Low,Tertiary,False,False,4,Christianity,Conflict
+30df04fa-4c48-462b-a477-803e753ea07b,Medium,Secondary,False,False,1,Christianity,Stable
+18ea3a4c-701e-46ff-8751-0b87a5526a56,High,None,True,False,8,Islam,Conflict
+853ac5ea-6136-426c-b986-8ce62cb946c2,Low,Tertiary,False,True,8,Islam,Stable
+b55b407c-a193-4d89-b75d-be4966d584db,Low,Tertiary,True,True,9,Traditional Beliefs,Stable
+aeb62256-245d-4bdd-a629-9ffe5e8a260d,Low,Tertiary,False,False,9,Islam,Stable
+c997b110-caa2-473a-aa3f-05656b8e1518,Low,Tertiary,True,True,1,Traditional Beliefs,Stable
+aeddd1d5-338c-4bb9-9230-9088e8f129d3,Low,Primary,True,False,4,Traditional Beliefs,Stable
+0e1d516d-5fca-4b12-8aef-4feb8de04463,Medium,None,False,True,7,Traditional Beliefs,Stable
+67c432bd-cb64-44d5-8353-841386297495,High,Tertiary,False,True,8,Islam,Conflict
+42248e38-53e4-46c5-b5af-fc4f6941a176,High,Secondary,True,True,7,Traditional Beliefs,Stable
+1bcaaa0e-39f8-4c8d-bb9b-53f3d6e19ecb,High,None,True,False,1,Traditional Beliefs,Stable
+5bbce6ee-f294-4a6e-b314-8d2c04d354de,High,Secondary,False,True,7,Traditional Beliefs,Stable
+08085e9e-e788-435f-a37c-751e21d78439,Medium,Secondary,True,True,11,Traditional Beliefs,Stable
+45b0b1be-f58e-4a19-8dff-45b549106877,Low,Secondary,False,True,11,Islam,Conflict
+f35edb02-8376-4483-9480-425fa4980d34,Medium,None,False,False,8,Christianity,Stable
+8fb74102-cbfe-4667-978f-3f4e6a813871,Medium,None,True,True,12,Islam,Conflict
+332a2a01-65fd-46af-93ce-97696ee99f53,High,Primary,False,True,9,Christianity,Conflict
+5f8891e0-af80-45f8-a3f9-7ec6f69ab720,Low,Secondary,False,True,4,Islam,Stable
+a2257896-c338-458a-8af4-11abb39f77eb,Medium,Tertiary,True,True,12,Traditional Beliefs,Conflict
+31812274-04e4-4510-bdc4-64f63796c90e,High,Secondary,False,True,4,Christianity,Stable
+5bd6b22c-3367-4afb-91bd-85a097f10c0b,Low,Primary,False,False,1,Islam,Conflict
+41568b73-ee67-46c3-ae88-cc7cfd651b60,Low,None,True,False,4,Traditional Beliefs,Stable
+7dc05769-da25-44bf-bb82-ca62039c7ceb,High,Primary,True,False,4,Traditional Beliefs,Conflict
+5f132387-5b4a-41b8-886a-9d8f34094113,High,None,True,False,11,Islam,Stable
+8b490c3a-71bf-481a-99f4-496108fcd0c8,Low,Tertiary,False,False,2,Traditional Beliefs,Stable
+bb197fe1-3972-47a4-a5ac-63a09be56a18,Medium,None,False,True,10,Christianity,Stable
+56812d4b-b6ff-46fb-9fef-11bcb0fbc569,Medium,None,False,False,2,Islam,Stable
+5c1d43d5-d5f1-460d-abba-302db7f7fec7,High,Primary,True,False,7,Christianity,Stable
+25cc57d9-367b-42ce-acb5-9c1635f8f042,Medium,Tertiary,True,False,3,Traditional Beliefs,Conflict
+60f55a05-2f87-4862-a4b6-e2d61d5c5701,Medium,Tertiary,False,False,9,Islam,Stable
+210ba46d-1f14-42f3-a948-22afe206518a,Low,Primary,True,True,9,Traditional Beliefs,Stable
+a5d9d8ae-a871-4790-9264-9b6a1890720d,Low,None,False,False,11,Christianity,Conflict
+e19b0710-2f2c-4179-860f-7c723351aac0,High,None,True,False,11,Traditional Beliefs,Conflict
+7274b181-cdc6-4286-ad81-7b1b817a3cc2,High,Tertiary,True,True,4,Christianity,Stable
+d78087b9-ad8e-434b-bb91-d9b1508bf073,Medium,None,False,False,9,Islam,Stable
+b1e4e3e1-abb1-44e9-82d9-4dc85b17c8c8,Low,Tertiary,True,True,7,Islam,Stable
+3602d4f1-40f2-4101-b961-68ca77eceebe,Low,Primary,True,False,5,Islam,Conflict
+d15ecdc0-58fd-4e52-85c8-db59a89fbec1,High,Primary,False,True,8,Islam,Conflict
+69ee1740-0499-4bc4-94a8-161a6e5d9fe6,High,None,True,True,7,Islam,Conflict
+1537832c-5cf4-448a-8a06-205ace5485b6,High,Tertiary,True,False,7,Christianity,Conflict
+66a7215a-d296-4582-bca6-8c03295dc10f,Low,Tertiary,True,False,8,Christianity,Conflict
+d2623595-cb7d-4bb5-9ab2-e69cc102b1dc,Medium,Tertiary,False,True,11,Traditional Beliefs,Stable
+38a6114a-c5da-4b8c-a478-7097c3118b81,Low,Tertiary,False,True,3,Islam,Stable
+77a51135-b28e-468b-988a-8cb636187075,Medium,Tertiary,True,False,4,Traditional Beliefs,Stable
+4e1af26e-3a57-4508-80a2-659e22a73baf,Low,Primary,True,True,9,Traditional Beliefs,Stable
+3b2ab3db-1a25-4b8f-ba01-621d888c44d4,Medium,Tertiary,False,True,4,Islam,Stable
+b6052f05-869e-4b54-b42d-d268d581210c,Medium,Tertiary,True,True,4,Traditional Beliefs,Stable
+f7c8a047-8870-414d-aa67-628d0902ba7d,High,Primary,False,True,8,Traditional Beliefs,Conflict
+b7f64548-1aa1-4a0a-a805-2f93ed8c90c1,Low,Secondary,True,False,4,Traditional Beliefs,Stable
+3371e001-ecea-49e8-97a9-245f841b3cae,Medium,Tertiary,False,True,8,Islam,Stable
+ba850bfb-699f-40f7-82c8-2794ae11b6c5,High,None,False,True,1,Traditional Beliefs,Stable
+f4dc5620-edc8-4662-a400-d8d50ec77e55,High,Primary,True,True,10,Islam,Stable
+ada689dd-3ce7-47c7-8cd6-1c09a91726c0,Medium,Secondary,False,False,5,Traditional Beliefs,Stable
+fc471c7b-1122-42ab-ae58-f62a78888165,Medium,Primary,True,True,1,Traditional Beliefs,Stable
+0f692c33-bed1-4eba-b18f-432e1c34d7ba,Medium,Secondary,False,False,12,Christianity,Conflict
+6bacc6eb-f30d-4dd7-8898-39ceec0c1aeb,Low,Tertiary,False,False,2,Traditional Beliefs,Conflict
+96694198-0d61-44a4-b410-cf85d7293d68,Medium,Secondary,True,True,11,Islam,Conflict
+1f8f6398-d350-4d24-a3a6-b5b3c11e76e0,Low,Primary,False,True,2,Christianity,Stable
+ea44bf05-6733-4ac2-9a3c-5b33e9a5d3ae,Medium,Tertiary,True,True,2,Traditional Beliefs,Stable
+f8a298a1-9a2a-41e3-8451-2d43a97480f8,Low,None,False,True,5,Traditional Beliefs,Stable
+4305a140-60aa-40a7-bb28-932b04524fe3,High,Tertiary,False,True,11,Traditional Beliefs,Stable
+883c91a0-d17a-44fc-b79a-5ad54db4520a,Medium,Secondary,True,False,8,Christianity,Stable
+0e32e155-8252-474a-996c-f3bd8c982c59,Low,Secondary,False,True,5,Islam,Stable
+6c62edbb-7f8f-4082-b161-bfa04c3a55da,High,Tertiary,False,False,7,Islam,Stable
+6c032ec4-c00b-4d49-be13-109fd6e74440,High,Tertiary,True,False,6,Islam,Conflict
+5d1a42c2-48ba-4757-b9b2-e527bbc0290f,Low,Secondary,True,True,10,Christianity,Stable
+d5e1e993-94c6-48e4-aea9-039dc5a02b3a,Medium,Secondary,True,False,6,Islam,Stable
+ed3279a4-06b0-4a83-8ddf-4124d78b0afc,Low,Tertiary,False,False,5,Traditional Beliefs,Stable
+6e4425cc-24e0-4505-bfad-7bf60e01c601,Low,Primary,True,False,11,Christianity,Conflict
+83caf8f5-5fe0-44ae-bacb-77614b0741b0,Medium,Secondary,True,False,7,Christianity,Stable
+c97d102a-04ca-4215-9fc5-4d00583a007a,Medium,None,True,True,10,Traditional Beliefs,Stable
+85c7cf0b-87d2-4b22-9d25-085cf0e3bed9,High,None,True,True,4,Islam,Conflict
+e74c376e-f34f-4b41-9137-22b9dc1e4cb5,Medium,None,False,False,7,Islam,Stable
+5a77f75e-f060-4426-8bae-7927fc6aa1e7,Low,Primary,True,True,9,Islam,Stable
+6500f082-9eeb-48e4-a01a-5af8028e0c00,Low,Tertiary,True,True,3,Christianity,Conflict
+f5707403-b750-4005-9900-32da1b2f56b0,Low,Tertiary,True,False,2,Christianity,Conflict
+6615d21b-d5f6-405b-b802-7d2a4f554b5c,Low,Secondary,True,True,9,Traditional Beliefs,Conflict
+3cdbac5d-cff6-4c7b-bd74-1e214397cd33,Medium,Secondary,True,False,8,Christianity,Stable
+a8cb37a3-ca7b-4d0e-9bee-5b67e283b7de,High,Tertiary,False,False,9,Islam,Stable
+e9aa90bc-2765-4b97-8c29-dbb53a02a02a,Medium,Secondary,False,True,1,Traditional Beliefs,Stable
+f65baa8d-30f3-44b1-92a6-3e087caa328a,Low,None,False,False,6,Traditional Beliefs,Stable
+6fd28351-de5e-4538-bf5b-dc967f592a92,Low,Secondary,True,False,12,Traditional Beliefs,Stable
+5ee2702c-2391-409a-bf34-d9fc31fbf802,Medium,None,True,False,5,Christianity,Conflict
+c568ca92-0d65-40ad-906d-f63d500ef156,Medium,Primary,False,True,6,Islam,Stable
+f7dd0dde-8d89-4767-9520-4b389636406a,High,Tertiary,False,True,5,Islam,Stable
+cae4f507-53d2-4551-80aa-ff775ffcc671,High,Secondary,False,True,11,Traditional Beliefs,Stable
+4afebbd3-480b-49da-be87-c36e5296cb4d,High,Tertiary,True,True,7,Christianity,Conflict
+d65b5da0-ac1b-492d-b9f8-bb536d808315,High,Tertiary,False,False,11,Islam,Stable
+243b2e50-bc12-49f6-8a05-fb86b0ccf4d0,Low,None,True,True,3,Islam,Stable
+bbd43c2b-006e-485b-832d-0c8a9cf86b83,Medium,Primary,False,False,8,Islam,Stable
+4c4c7b78-c006-41fe-a582-cb8ef3ae8a99,Medium,Tertiary,True,True,3,Christianity,Stable
+376cd6ac-195b-4ded-860e-f70fc38877ff,High,Tertiary,True,False,2,Islam,Stable
+2b302c35-e67c-4be2-89c5-9c1e89906125,High,None,True,True,3,Christianity,Stable
+6ae56ff0-ef18-4982-859b-b923b575cf9e,High,Tertiary,False,False,12,Islam,Conflict
+f6b118f7-33c6-462d-bbc0-0c182288abaf,Medium,Secondary,True,True,9,Islam,Stable
+40f3695b-6523-4494-b1c1-6027d64731c0,Medium,Tertiary,False,True,10,Traditional Beliefs,Stable
+11fc3ac1-4ccf-4871-9b28-7f0e3e22a04b,Low,Tertiary,True,False,10,Islam,Stable
+da7b292b-617e-474c-ba6f-8602cb8948c2,Low,Primary,True,False,2,Traditional Beliefs,Stable
+06cc57d4-d404-44c6-93c6-b573db173efe,Medium,Primary,False,True,10,Traditional Beliefs,Stable
+839d84f7-4c6c-479a-bae6-868bcf750ac5,Medium,Primary,False,True,8,Islam,Conflict
+62f01964-136c-4f45-8eee-017eb5ef36c4,Medium,Secondary,False,False,6,Christianity,Stable
+8ca09a30-9f20-4bf4-9d4c-301444828df6,Medium,Tertiary,False,True,11,Islam,Stable
+333e1e56-d7b6-4bfd-99fb-997f1ef3ce04,Medium,None,False,False,11,Traditional Beliefs,Stable
+0c7d1afb-1ef0-43c6-9e49-d719e11b4171,High,Secondary,False,True,10,Islam,Conflict
+1a606135-e03c-4e2d-9659-ae666ab45618,Low,None,True,True,11,Christianity,Stable
+1a15af1c-1dc4-4f0a-af67-425198c4c86d,Medium,Secondary,False,False,10,Christianity,Stable
+f836bd74-7a2b-4622-9d14-4a08d5fba468,Low,Primary,True,True,4,Christianity,Stable
+bbfd7a4d-4173-4ae1-9b30-2a3487a81a47,High,Secondary,True,True,4,Traditional Beliefs,Stable
+a2c74120-769a-46ad-ada8-9521e6738fd7,Low,Primary,True,True,10,Islam,Stable
+48ac6b8b-aad7-433f-93cf-edefd7c8c3cc,Low,Primary,True,False,3,Traditional Beliefs,Stable
+4e4c3d63-16fd-4fd7-a56d-f0697c366791,Medium,Secondary,False,True,6,Islam,Stable
+4b6a461a-fc96-4b96-ac05-eda3299363c4,Low,Secondary,True,True,2,Islam,Stable
+a64b78f6-a71d-480c-90cd-647aaa22f729,Medium,Primary,True,True,9,Christianity,Conflict
+2043a3e0-077b-4598-b6f1-bccb7d451e13,Low,Tertiary,True,False,11,Traditional Beliefs,Conflict
+493c16e8-da32-4d3a-ace8-ef62778c0ff3,High,Secondary,False,True,8,Christianity,Stable
+558ae35e-a57c-4eef-be62-72a2c16fde32,High,Tertiary,False,False,11,Islam,Conflict
+de1b3d23-9973-445c-a177-46035f534abb,Medium,None,False,True,4,Christianity,Stable
+25fc24b3-691d-4a64-ac84-5ca0cb3a5165,Medium,Tertiary,False,False,1,Islam,Stable
+8b2c3782-71c1-4ade-8d9a-01a403252c93,Low,Tertiary,False,False,12,Christianity,Stable
+c5ddf4b0-1a95-4af8-b012-e28bdf39cc48,Medium,Secondary,True,True,12,Islam,Stable
+2ad19a45-0255-464c-8ff3-891b26cc960b,High,Secondary,True,True,9,Islam,Stable
+083ef982-8fdc-4eb6-b610-b2b707d54d2a,High,None,True,False,12,Islam,Stable
+0084da71-6d9f-486d-bc72-3d5a1b8b9a87,Low,Secondary,True,False,9,Traditional Beliefs,Stable
+fc6419ad-2ce9-43e2-a6ec-3a925d32e7b6,High,Tertiary,True,False,4,Islam,Stable
+14529ac5-6bd8-4e44-b727-e4f5f72a667b,High,None,True,False,6,Traditional Beliefs,Stable
+7d9f89de-2ae5-4557-b9ac-424f0896ebc2,Medium,Tertiary,False,True,7,Christianity,Stable
+3fd47315-82e3-4312-a6f6-d176ef37ab48,Medium,Tertiary,False,False,8,Christianity,Stable
+47320a5e-c6f8-4e9b-9437-25a700ee077b,Low,Tertiary,False,True,7,Christianity,Stable
+a3629138-8e74-44a8-8b2c-b1b42b6ab8d9,Medium,None,True,False,10,Christianity,Stable
+2efe096a-4597-4ad7-95af-313ae3aa0c72,Low,Secondary,True,True,3,Islam,Stable
+4e6f546b-6cd6-4e9b-bb0c-9e2acd502878,Low,Secondary,False,False,10,Islam,Conflict
+72a47aa7-8518-4672-a90f-30678243bc41,High,Primary,False,True,10,Traditional Beliefs,Conflict
+5e98fc40-2c64-401f-87e3-faa2cf2a912c,Medium,None,False,False,2,Christianity,Stable
+7cfdce3c-db73-49f2-88b0-0f296f33382f,High,None,True,False,9,Traditional Beliefs,Stable
+0023e834-dfd2-4d45-8933-24fa5078d0b6,Low,None,True,True,10,Islam,Stable
+5db199b1-d118-497f-bcbb-d293a45e5ac4,High,None,True,False,12,Traditional Beliefs,Conflict
+a112e09c-4739-4975-934d-d9ceff098a93,Medium,Tertiary,False,True,5,Traditional Beliefs,Stable
+b6f578c5-b500-4df7-85ae-b753ead67958,Low,Tertiary,False,True,2,Islam,Conflict
+8399e034-7071-42dc-8937-f7c0fbc3c23f,Medium,Primary,True,True,2,Traditional Beliefs,Stable
+99007001-a718-4b9b-8d81-813ee8ad3e81,High,Primary,False,False,4,Christianity,Stable
+250f9bb3-6672-40a5-a6ad-346d2963e88f,Low,Secondary,True,False,4,Islam,Stable
+b69317fc-fa70-4563-932e-b3126cdbae2b,Low,Primary,False,False,8,Islam,Stable
+ae593702-6d20-4252-9768-eecc450bd4f9,Medium,Primary,True,False,10,Islam,Stable
+b6955a74-3d01-455a-a85e-1af414d5624f,Low,Secondary,False,False,5,Christianity,Stable
+044ee855-79d5-45a3-bf19-218a4c40e789,Medium,Secondary,True,False,4,Christianity,Stable
+8e53f7bc-fdd8-4291-84f1-f66606fb9d9b,Low,Tertiary,False,False,8,Traditional Beliefs,Stable
+b1ea4d43-6240-4771-b59d-4a3a0d5e4063,Low,Primary,True,True,1,Islam,Stable
+75907096-2764-413c-bc74-dbdd0ef8a104,Low,None,False,True,2,Christianity,Stable
+ca3484f6-ae98-420e-a2ec-1a17b8dd1410,High,Secondary,True,True,5,Islam,Conflict
+9fca48d5-4d39-4ab7-b3aa-e97fadc1a4ab,Medium,Tertiary,False,True,2,Islam,Conflict
+9deb519c-af31-4751-bf4a-486ce8f54e39,Medium,Primary,True,False,7,Islam,Conflict
+3d947834-2eb2-4bdd-b892-2fc5a40f8f12,Medium,Primary,False,True,7,Traditional Beliefs,Stable
+210fff55-2d4e-4a0c-90f4-e87a751aacc2,High,None,False,True,6,Islam,Conflict
+746fac7d-2870-4849-a04d-3c3940b5a7ed,Low,None,True,True,10,Traditional Beliefs,Conflict
+6f764e73-4c74-4c4f-9735-2b0fb2f4aa66,High,Primary,True,False,10,Christianity,Stable
+060ac9de-296b-4cc5-9767-566631caf1da,Medium,None,True,True,8,Islam,Conflict
+29cee8f9-2958-459d-bc75-8e9d31b97359,High,Primary,True,False,8,Islam,Stable
+5febee61-04fc-48d3-ae25-9a35cd428a36,High,Secondary,True,False,7,Islam,Conflict
+f9305d5c-ca09-49b5-878a-c1e63600e57f,Low,Primary,True,False,9,Islam,Conflict
+f608d82d-9a49-4732-95ee-2e62e1676531,High,None,True,True,8,Islam,Conflict
+14ef6a6b-af31-43bd-ac39-b899dd6b6b21,Low,None,False,True,11,Traditional Beliefs,Conflict
+8a2905cb-17a1-4727-a36c-f2143766f8ac,Medium,Tertiary,True,True,3,Islam,Stable
+5fbdf6cd-298e-4c16-a029-684c8d091ac5,Medium,Tertiary,False,False,6,Islam,Stable
+e39dd2bc-3a59-4d0d-98a1-bd38b68c4ebb,Low,Secondary,False,True,11,Traditional Beliefs,Conflict
+1f02dbc6-69c1-4209-9ce0-d0b31f0b43db,Low,None,False,True,3,Christianity,Stable
+cd813020-b922-4d9e-baa3-453ea086b1eb,Low,None,False,True,11,Christianity,Stable
+9eec638e-0de3-47f5-be07-6ff27619c7e0,Medium,Tertiary,True,True,5,Traditional Beliefs,Conflict
+2e7d5063-4ec8-4f64-af78-982470a064c6,Medium,None,False,False,3,Christianity,Stable
+0f0a943a-ab57-43f0-a590-df5ae2e3f92d,High,Secondary,False,False,8,Traditional Beliefs,Stable
+40694ff3-c1ca-4b9b-ba88-d0ce44671278,Medium,None,False,True,5,Islam,Stable
+28c669db-a47d-4e7f-a933-709c36d9ef06,Medium,Secondary,False,True,11,Christianity,Stable
+6e31426b-af7d-4e89-9a33-75141454a298,High,None,True,False,2,Christianity,Conflict
+fc5ccaf0-44c5-491b-811d-4e5e0860592c,High,Secondary,False,False,1,Traditional Beliefs,Conflict
+d379fe44-9270-48be-a58b-e9af023613aa,High,None,False,False,1,Islam,Stable
+8abf887e-d36e-4137-ad26-84bc7bf388d9,High,Secondary,False,False,4,Islam,Conflict
+5da3ed39-f1e0-42fe-9460-1e47d9f766f8,Low,Primary,False,True,9,Christianity,Conflict
+390dea92-a313-4c80-8fba-dc224354b186,Medium,Secondary,False,True,12,Traditional Beliefs,Conflict
+aa9af11c-6ba1-4f9d-b26d-80a193aa56c7,Low,None,False,False,8,Traditional Beliefs,Stable
+2d3a8ee2-7f7d-49e5-b387-a98540b57122,High,None,False,False,3,Traditional Beliefs,Stable
+2fe85933-7f8d-4913-a0e2-e11bec8762b3,High,Tertiary,True,True,5,Christianity,Conflict
+8d51328c-0ac2-4005-923f-11cfb8c5b723,Low,Tertiary,False,False,10,Islam,Conflict
+29706640-b02f-48f5-b617-6f9bada1aba1,High,None,True,False,3,Traditional Beliefs,Conflict
+63728216-1aee-43cb-8a5c-37803317b70a,High,Primary,False,False,4,Islam,Stable
+254e2ae5-010e-465f-8edf-e0b48496ef6f,Medium,Secondary,False,True,8,Traditional Beliefs,Conflict
+1c79d45f-5cc0-4183-9b7b-e7d4688fcbb5,Medium,Primary,True,False,6,Islam,Stable
+a846dea4-c0e6-4f43-84fc-3426996c14fb,Low,Secondary,True,True,12,Christianity,Stable
+63dcb1bb-629c-47cc-be8c-6ec3b60b0790,High,Tertiary,False,False,6,Christianity,Stable
+e1b1e1d8-ffba-403a-a465-736251a4b078,Medium,None,True,False,6,Christianity,Conflict
+02b66e46-1a8a-4fbe-8ca8-9df49112f397,Medium,Primary,True,False,6,Traditional Beliefs,Stable
+c5b7b371-d5d2-4f55-979e-d0f75e116baa,Medium,Tertiary,True,True,2,Traditional Beliefs,Stable
+7e034cb7-736f-47ad-95c3-30fd988bce49,High,None,True,True,11,Islam,Conflict
+d3637bf6-b684-488d-8b07-a58315cfeffb,Medium,Tertiary,True,True,2,Christianity,Stable
+95baaee4-53d7-4c03-bb3b-4f9719297a8f,Low,Secondary,False,True,7,Christianity,Stable
+7bcd06b3-6db6-49b7-8ef8-e4cf067c3700,High,Secondary,False,False,10,Islam,Stable
+90d98b8c-3b6e-4c0f-a3e3-b2606a279249,Medium,Tertiary,True,False,9,Islam,Stable
+c73f6b55-c270-408a-b61e-00dd10406151,Medium,None,False,False,11,Islam,Stable
+c31c7c19-b660-4809-b005-856a4505a532,Low,Secondary,False,False,1,Islam,Conflict
+62e39306-baf5-42f2-a6f8-26acbf6dc196,Medium,None,False,False,10,Islam,Stable
+064c114b-61d4-4497-89e5-caa11a40435d,Low,Primary,False,False,10,Traditional Beliefs,Stable
+63055631-0bc7-47f8-84c1-5b3e5314405c,High,None,True,False,8,Christianity,Conflict
+cdc7f093-4d27-44bd-96a9-4bcafd0b0007,Low,Primary,False,False,7,Islam,Conflict
+1737458f-c4b4-4484-9405-8946c5953bb3,Low,Secondary,True,False,1,Christianity,Stable
+c6631e68-9608-4785-8824-b12be1b056f6,Low,Tertiary,True,True,5,Christianity,Stable
+e76488b4-4c91-4fd4-9246-78aa7e0ccdb2,High,Tertiary,True,False,9,Christianity,Stable
+cb885d6a-74ec-4218-800c-f983357c8df6,High,None,False,False,2,Christianity,Stable
+36e5ebc8-6e96-4c26-bd4e-745e5109c493,Medium,Primary,True,False,2,Christianity,Stable
+94032a10-89e1-4b84-ba12-541a6a2e40a4,Medium,None,False,True,9,Islam,Stable
+7ead6c45-7eba-4fc2-bbc5-e62cab35cd57,High,Tertiary,True,True,3,Traditional Beliefs,Stable
+08029753-932e-44a6-bdc2-f81d4968e465,Medium,Primary,True,False,7,Christianity,Stable
+c2ba565c-2dc7-4274-a1a4-b470129d7ea7,High,Secondary,False,True,11,Islam,Conflict
+51fdc28d-b52a-4b16-816a-e6cb09015068,Medium,Tertiary,False,True,12,Islam,Stable
+59fb6766-9cda-48f8-a359-fe9984effbe6,Low,None,True,True,1,Traditional Beliefs,Stable
+8d483d6e-ec42-46fc-b35a-b4c3f7558d0b,Medium,Primary,True,True,8,Christianity,Stable
+1f3bd83e-3a91-4466-9b0a-5fef30f7bf8a,Low,None,True,False,7,Islam,Stable
+33608409-e28e-4bac-9985-dec8f48563a3,High,Secondary,True,False,8,Christianity,Stable
+eaf37cbc-ac71-47bb-afb9-8ec4108be982,Low,Primary,False,True,4,Christianity,Conflict
+192277dd-3bec-4e19-a7e4-515701cb14eb,Low,Tertiary,True,True,5,Islam,Stable
+ab77d3fc-571c-4bea-a68e-97ee808183a0,Low,Tertiary,True,True,11,Traditional Beliefs,Stable
+18a0bf00-7d8a-4bf6-a2f0-8512ec3b0855,Medium,Secondary,True,True,2,Traditional Beliefs,Conflict
+c6d7204d-8e2f-424c-b735-186edddb516c,High,Tertiary,False,False,6,Islam,Conflict
+17f45a53-cac4-4a9c-8cd2-6f4fe02b473a,Low,Tertiary,True,True,6,Traditional Beliefs,Stable
+ce8c98dd-1048-4705-a36a-fa74487f63be,High,None,False,True,2,Traditional Beliefs,Stable
+f082da6c-6f7e-468a-a9d5-a6370a56762f,Medium,None,True,False,4,Islam,Stable
+c589dae7-684f-423c-b7f4-224dbd0675fb,Low,Primary,False,True,9,Traditional Beliefs,Conflict
+a8a66f6f-b50b-4413-9493-024c8e8356df,Low,Primary,True,False,5,Traditional Beliefs,Stable
+571f97ad-24c4-49a3-a1d2-6a05de248e39,Low,Primary,True,True,3,Traditional Beliefs,Conflict
+1e19de18-36fb-47c9-ab4e-76c6510f74f9,High,Primary,False,False,11,Christianity,Stable
+04c3a25b-e683-4873-8e86-30e35bc7713c,Medium,None,True,False,7,Islam,Conflict
+b2e0ffbb-b068-42c7-9878-6db2aa775dce,High,None,True,False,11,Traditional Beliefs,Stable
+3c74debe-cd2f-44e3-8fa3-f6ce685fa61b,High,Tertiary,True,True,2,Christianity,Conflict
+adac78eb-6262-4d5a-bcca-995f90a634df,High,Tertiary,False,True,11,Christianity,Stable
+2835faa3-e34e-4793-b183-a37188fc411c,Low,None,True,False,4,Christianity,Stable
+2b3a3a01-64b1-44f5-a919-7dc72229f840,Low,Tertiary,True,True,1,Islam,Stable
+ed52aa6f-ed1a-44b5-9062-7126bb9627de,Medium,Secondary,False,False,9,Christianity,Stable
+3149d031-f5a6-4f23-ab16-877706010ea5,Low,None,False,False,5,Traditional Beliefs,Stable
+13da84f1-6c3d-423d-9c6a-1bbb458a459a,Low,Primary,False,False,7,Christianity,Stable
+72173e3b-fee4-4ac1-ab6a-f887b9e77fea,Low,Secondary,False,True,12,Islam,Conflict
+14e3fb08-22c3-4842-83c7-8701f8e0b1be,Low,None,False,True,12,Islam,Stable
+36167862-009e-43b3-b9c6-95dbd0f69e2f,Low,Primary,False,False,2,Christianity,Stable
+52d4d524-6a54-4f2b-8c71-7980156527e8,Low,Primary,False,False,6,Traditional Beliefs,Stable
+7a904de3-dc04-4171-b7a6-f079246beefd,Low,Primary,True,True,8,Christianity,Stable
+9cb10177-7d42-4e26-853e-213e839807c0,High,Tertiary,False,True,8,Christianity,Stable
+a836b2e3-dbdf-4198-9990-e81c3e83402e,Low,None,True,True,1,Christianity,Stable
+d6bb8f85-2f32-4af1-8b59-9cac390c758c,Low,Tertiary,False,False,10,Islam,Stable
+f7909b61-dffe-4def-a682-8c47db286b0b,Medium,Secondary,True,True,3,Traditional Beliefs,Stable
+b262e17f-9f27-4294-9e00-00f23ccbf582,Low,Tertiary,True,True,1,Christianity,Stable
+f99e56e1-54d0-4731-92e9-4b9a9940ae44,Low,Primary,True,True,6,Traditional Beliefs,Conflict
+22a2450f-3bb2-43c1-b3bc-a976b22a4d5f,High,Tertiary,False,True,10,Islam,Stable
+50e44058-d0a7-4b9f-898c-aa56a03fd991,Medium,Tertiary,False,True,11,Christianity,Stable
+da372c8b-06ed-4cc0-9df8-f9c148b273a2,Medium,Tertiary,True,False,6,Islam,Stable
+c78169df-acf2-4342-aa80-f693e7801a43,Low,Secondary,False,True,9,Christianity,Stable
+30c38289-49cc-439f-b236-f8b596b3a81b,Medium,Tertiary,True,True,12,Traditional Beliefs,Stable
+c67c5e79-7bf7-4d10-b9b8-7d2f98b6de27,Low,Primary,False,True,5,Christianity,Conflict
+f27f470f-51ab-4cc9-b3f3-2f229971bc69,Medium,Secondary,True,False,12,Islam,Conflict
+7b5802b7-4e95-405d-85ab-d39f983bd171,Low,None,False,False,5,Traditional Beliefs,Conflict
+4d0473f8-aec0-468a-8ac4-c451901c91c0,Medium,Tertiary,True,False,10,Traditional Beliefs,Stable
+117281d8-1056-47ef-bde0-7107888ad5a8,High,None,True,False,7,Islam,Stable
+8a06b2bb-9599-4dd1-a074-aaf59d159705,Low,Secondary,False,False,8,Traditional Beliefs,Stable
+7ba4babe-982b-47ce-8853-879d0595f1b4,High,Tertiary,False,False,8,Islam,Stable
+f6141c94-8a3d-40da-8685-0d5834228d53,Medium,Secondary,True,False,3,Traditional Beliefs,Stable
+1eef6b83-b815-4952-926c-ca87fa29f302,Medium,Tertiary,False,False,4,Islam,Stable
+1eee22a1-faec-4624-b003-b71f9748d19d,High,Tertiary,False,False,5,Traditional Beliefs,Stable
+bd80f751-df41-4dea-8da6-110a5eb425bf,Low,None,True,True,4,Traditional Beliefs,Stable
+b9c13474-2cc1-41ac-9e84-fed85eb99859,Low,Primary,False,False,11,Traditional Beliefs,Stable
+d67f23fe-736d-49b6-ad91-c0c46fb4038d,Medium,None,True,False,6,Traditional Beliefs,Conflict
+aeedb34b-c6bc-4f9b-8f91-97b0b6cd9e9e,Medium,None,False,False,11,Traditional Beliefs,Stable
+eead4bf1-d898-4960-9186-650794a61909,Medium,None,True,True,1,Traditional Beliefs,Stable
+58c6c395-0e3f-468e-bb8c-9cca30b5a4f3,Medium,Secondary,False,False,3,Christianity,Conflict
+5f8573fc-e465-46ed-ac58-3fa26e1acecb,Low,Secondary,True,True,7,Christianity,Stable
+2f9cffa9-9c64-48e2-8402-7fa1b8cc6ba6,Low,Primary,False,False,3,Islam,Stable
+9b5f6e97-6026-41a0-9cbe-532e72a66f47,Low,None,False,True,10,Traditional Beliefs,Conflict
+e5d862b4-644c-468a-91a5-5e5f8418a2a6,Medium,Secondary,True,True,4,Islam,Conflict
+a9e91dc1-63a2-49b9-b70c-5bd1b235186e,High,Tertiary,True,True,4,Traditional Beliefs,Stable
+5641814c-7a7f-4728-bf5e-e7ac9b381e6c,Medium,Primary,False,False,8,Traditional Beliefs,Stable
+7ada8096-af18-46f1-b7bc-00a1b89209d7,Low,Tertiary,False,True,12,Traditional Beliefs,Conflict
+503b39f2-c99f-4d53-8378-0816a87b9627,High,None,True,False,6,Traditional Beliefs,Stable
+91037096-62fe-4f4b-977e-93cebf6f22a6,High,Tertiary,False,False,4,Christianity,Stable
+20899be0-22fb-4c18-81cf-d6a0901a401e,Medium,Secondary,True,False,1,Traditional Beliefs,Conflict
+a00d41eb-30a3-497b-8196-784b82260f38,High,Primary,True,True,2,Christianity,Stable
+745a1307-d430-4691-a96f-8c2d7c16429f,High,Primary,True,True,10,Traditional Beliefs,Stable
+cf678708-6b7e-4745-9c2c-b233662dbef1,Medium,None,True,True,2,Islam,Conflict
+e93ac1df-46c1-472d-9340-5b88268e2038,Low,Secondary,False,False,11,Christianity,Stable
+96e4a925-7846-46fb-890e-50ab0c02969e,High,Tertiary,False,False,5,Christianity,Stable
+4abf03d5-937b-4c08-9ee8-78a73ae15e95,Low,None,False,True,3,Traditional Beliefs,Stable
+1eb0d839-21be-4af2-8c9e-ae7684a1b797,High,Secondary,False,True,8,Christianity,Stable
+8d49579e-76f6-4977-b989-0062fce68bd9,Low,Primary,False,False,5,Christianity,Stable
+f12c1519-76f6-4ec9-ab55-b3218e9add38,Medium,Primary,False,False,4,Islam,Stable
+1c452704-26c3-4f1b-842b-c650654570d4,Medium,Primary,False,True,11,Christianity,Stable
+bab3353e-14cc-4619-a368-fa087a6f992a,Medium,Tertiary,True,False,6,Traditional Beliefs,Stable
+9ef6e70c-3d0c-44e5-8ee6-fc0adf303a8d,Low,None,True,True,4,Islam,Stable
+c2a448c2-08a1-437b-b8b4-d53810f3ea34,High,Primary,True,True,8,Islam,Stable
+fd58ec1a-6012-4df9-9f2a-44528ee511c9,Medium,Primary,False,False,7,Traditional Beliefs,Stable
+3d1c659a-0b67-48f7-9cca-d10cad2caf67,Low,None,True,True,9,Islam,Conflict
+55e4aa95-1f2c-48db-af23-0149fe04b989,Medium,None,False,False,12,Islam,Stable
+3280ae20-8867-4e60-a6eb-ba306a8284c0,Medium,Secondary,False,True,3,Traditional Beliefs,Stable
+a926871b-98fa-4037-ad2e-4ecf3b2888e3,Low,Primary,False,True,9,Christianity,Stable
+4c9f9e62-2bc2-4cf0-ba5b-3c27007eda60,Low,Primary,False,True,8,Traditional Beliefs,Stable
+59e5c744-0ba9-428f-83f2-cab88d75246d,High,Tertiary,True,True,2,Traditional Beliefs,Stable
+b5583291-7aab-4bdc-aa49-40879821b88b,Medium,None,True,True,5,Islam,Stable
+f2100c7f-2e19-4ce9-84f5-e173c892590e,High,Tertiary,False,True,3,Islam,Stable
+6ea75462-df4e-49f7-a1e5-8aedb9545bdc,Medium,None,True,False,12,Christianity,Stable
+a820dcd7-9dce-46cd-a383-ae22f866163a,High,Secondary,False,False,5,Christianity,Stable
+b3ce8d93-933f-4d1b-82b3-eddbd969a2ed,Low,Secondary,True,True,3,Christianity,Stable
+c739072c-0663-497d-bfe2-ed3648829cfa,Medium,None,False,False,11,Traditional Beliefs,Stable
+c71c410e-163b-48f2-b377-d2fd4add026e,Medium,Secondary,False,False,10,Islam,Stable
+6b441000-a2e1-4c9d-8985-1207384348d4,Low,Primary,True,False,3,Traditional Beliefs,Conflict
+21058ce9-ec05-4db0-bfc4-bbb4d61b6865,High,Secondary,True,False,8,Traditional Beliefs,Conflict
+d71d4857-3b5b-4df6-9d1d-875285b52b71,Low,Secondary,True,True,12,Islam,Stable
+5786af84-203c-4630-980e-745c09be3984,Low,None,False,True,6,Traditional Beliefs,Stable
+753db904-475f-4d11-a3ae-1596d9a8e742,High,Tertiary,False,True,9,Islam,Stable
+fe6dceb7-72c1-4362-b1d3-b27fe19346d0,Medium,Secondary,True,True,10,Christianity,Stable
+64a00ff9-b61d-468c-90ea-da160bcb5419,Low,Tertiary,True,True,2,Traditional Beliefs,Stable
+c625f60b-bc86-4519-83ff-643e1554b622,Medium,Secondary,False,True,1,Traditional Beliefs,Stable
+78d3b5bf-aadd-48bc-8f59-6980095f3f2e,Medium,None,False,False,10,Islam,Conflict
+51e2baed-8f23-4e80-9014-48658d0a3233,Low,Tertiary,False,True,9,Traditional Beliefs,Stable
+dd871247-5973-4ccd-baab-8ad0729d0c54,High,Secondary,False,False,4,Traditional Beliefs,Conflict
+16061fbd-ba8f-4827-a76e-051503dd153d,Low,Primary,False,True,5,Christianity,Stable
+d20ab628-bd30-4a26-9fa2-698302f1549b,High,None,True,False,9,Christianity,Stable
+fbee5a77-863c-4963-959c-f7f349682825,High,Tertiary,True,False,1,Christianity,Stable
+da4536e6-6cec-499e-8931-caa516c6b93d,High,None,False,True,10,Traditional Beliefs,Stable
+2c9d2dd9-ea0a-424d-8d8f-cff42d459a88,Low,Tertiary,False,False,8,Christianity,Stable
+300d9385-c702-44f2-94b8-89fb738c2f91,Medium,Secondary,True,True,1,Traditional Beliefs,Stable
+c9d09bd8-fb67-4656-9113-6515368240e0,High,Tertiary,False,True,8,Christianity,Conflict
+91d8a144-b84c-4f2f-83fa-bac663c3fa1c,Medium,None,False,False,6,Islam,Stable
+ba79742a-b240-4af0-adb2-e6426323067f,Medium,Primary,False,False,10,Traditional Beliefs,Conflict
+8b1d5f94-916c-4daf-b3fa-fc214b17aede,Low,Tertiary,False,False,8,Islam,Stable
+85ea1de5-a994-42a0-bfeb-d11cddc95efc,Medium,Primary,False,True,2,Traditional Beliefs,Stable
+3ebac427-014d-482f-a25a-aac989ee6357,Low,None,False,False,5,Traditional Beliefs,Stable
+b27b6ae7-2930-4ba5-b925-8fa5941dcde8,Low,None,False,False,4,Christianity,Conflict
+53aa6128-ca1b-419e-9646-5ab8ad3fc1d3,High,Secondary,True,True,7,Christianity,Stable
+61f642bd-89dc-4445-85fa-498e80116a7e,Medium,None,True,True,8,Christianity,Stable
+3e627922-5dcd-41ce-8790-cdb80722118b,High,Secondary,True,True,1,Islam,Stable
+ed1ecf08-7e9d-434e-bdc2-7d2c778e4ab0,Medium,None,True,False,11,Islam,Conflict
+271de036-1c85-44ed-96d8-352f6a8c6674,High,Tertiary,True,True,10,Traditional Beliefs,Conflict
+99a9eb17-f74c-4e38-82df-4204a1ce3420,Low,Secondary,False,True,5,Christianity,Stable
+ce20ae2c-4c40-42bd-ae6e-87d7232b87e5,Low,Primary,False,True,1,Christianity,Stable
+00acfc39-4cbf-4f90-8a7c-4c46402f61db,Low,Primary,False,True,11,Traditional Beliefs,Conflict
+88196690-d0aa-4f58-a3e9-00202d0e0053,High,Tertiary,False,True,10,Christianity,Stable
+c9846f71-af02-459d-a30b-97d1cc354565,High,None,False,False,9,Islam,Stable
+17de3041-77fe-4047-9443-4cf39b325866,Low,Primary,False,False,12,Traditional Beliefs,Stable
+66dc49f7-8a5d-4e36-b5c4-274a2ccd4e2b,Medium,Primary,True,False,11,Traditional Beliefs,Stable
+7826b50a-060e-47f4-b17e-2a5d47e23ae2,Medium,Secondary,True,False,2,Traditional Beliefs,Stable
+b6060477-10cf-4e96-b625-41452373a2b3,Low,Secondary,False,False,3,Christianity,Stable
+6912fd26-7d3d-4837-b1a6-fa5feedf772d,Medium,Tertiary,True,False,9,Traditional Beliefs,Stable
+ac4db034-cc7b-4371-a392-c31a7b4961d0,Medium,None,False,False,10,Islam,Stable
+c3ab6850-954e-40b1-bb3f-b74755ae48fe,High,Primary,False,False,5,Christianity,Stable
+b500b34e-ab97-4de3-998e-4ace648f0fa4,Low,Tertiary,True,True,4,Islam,Stable
+78c42d3c-b5ad-4521-9995-e251ac7b896a,High,Primary,True,False,8,Christianity,Conflict
+1865a462-f41b-4264-9fae-9129fece0b65,Low,Tertiary,False,False,10,Christianity,Stable
+5448aa2e-b087-40f3-ad84-177f744f4a48,Medium,Primary,True,True,11,Traditional Beliefs,Conflict
+314446b0-ce9a-4c2c-a403-4e607c5723e9,High,Tertiary,True,False,2,Traditional Beliefs,Stable
+8d99d7c6-405d-4ca2-9ed9-8d2fbde254b1,Low,Tertiary,True,True,11,Christianity,Conflict
+1def9954-fffe-4aed-843d-80967a9fd5e5,Low,Primary,False,False,11,Christianity,Conflict
+58c29cfd-006b-4587-8741-4953238616c1,Medium,None,False,False,4,Islam,Stable
+5e405015-7e40-4954-8075-e69c83ffe7b7,High,Tertiary,True,False,11,Islam,Stable
+a4e018cc-7e36-4b0b-b8f7-70a758c9de49,Low,None,False,True,5,Traditional Beliefs,Stable
+868da154-ed56-4046-b849-df6059dc29fb,Low,Primary,True,False,11,Christianity,Stable
+e8e57688-23d1-4e12-ac28-7ecf680460c8,Medium,Tertiary,False,True,12,Traditional Beliefs,Stable
+b20500b0-acab-426a-8d0f-294b2c1a064f,High,Secondary,True,False,10,Traditional Beliefs,Stable
+0b0cce7c-13e1-467c-aecb-dc58d107549c,High,None,False,False,1,Islam,Conflict
+4a6b12cd-5977-490f-b258-96f1af468a5e,High,None,False,False,2,Islam,Stable
+b9717db0-baae-4353-9736-80e771dcc1bc,Low,Secondary,False,True,5,Traditional Beliefs,Stable
+1bca0534-5828-4128-ae8c-5b9c6bf7c135,Low,Primary,False,False,8,Christianity,Stable
+a83b82d7-2721-47d0-9102-e201548b792d,Medium,Primary,False,False,7,Traditional Beliefs,Stable
+8b71e247-a7a7-4caa-a4dd-ac71828e0a2d,Low,Primary,True,True,2,Islam,Stable
+d0fec910-0400-40a9-964a-75dd84ac9a7c,High,Tertiary,False,False,2,Christianity,Stable
+ca3d3251-d385-43b1-a0ed-b42f4f7f39f1,High,Secondary,True,False,8,Traditional Beliefs,Stable
+61ebdc09-26c1-4f8c-8ccb-df588e943cf3,Medium,Secondary,True,False,12,Traditional Beliefs,Stable
+dd678a1b-4d1c-4bb8-ae03-4435055c7394,High,Secondary,False,False,4,Traditional Beliefs,Conflict
+470edafa-aba9-4f9d-9d89-62373171b2eb,Low,Tertiary,False,False,4,Islam,Conflict
+2d1bf3db-9515-4b56-ac42-6925faafdc32,High,Primary,True,True,6,Islam,Conflict
+8f1e1fbc-5fd2-49a5-92fb-1f0f9959ebc4,Medium,None,True,True,6,Christianity,Stable
+d36b640d-1da0-4b09-b743-d2bea7868d76,High,Primary,False,False,11,Islam,Conflict
+ecf11664-dc80-49e3-8baa-fcf5181c05df,Medium,Secondary,True,True,8,Traditional Beliefs,Stable
+b81a1562-a2bc-413a-b896-b3c667f981f0,Medium,Primary,True,True,7,Christianity,Stable
+38cd175f-8789-4c3b-9072-a08b929132dd,Medium,Tertiary,False,True,1,Christianity,Conflict
+d02a85e5-4faa-41d8-88f2-38551ab38c43,High,None,True,False,9,Islam,Stable
+afd17196-7888-4949-ac64-34bc54d70e68,Low,Primary,True,True,9,Traditional Beliefs,Stable
+24152cd3-0721-4715-a8dc-ab3249b902ef,Low,Primary,False,False,12,Traditional Beliefs,Conflict
+a64e9170-07a7-415d-adf1-676394dde5df,Medium,Primary,False,True,5,Islam,Stable
+409b29d0-ef14-413f-964a-87ad6c228230,Low,Primary,True,True,10,Traditional Beliefs,Stable
+42481b50-91e7-4bd1-942e-9a315134541c,Medium,Primary,False,False,2,Christianity,Conflict
+4180c8ec-472b-48b6-9c39-9a40f7acfda8,Low,Primary,True,True,12,Christianity,Stable
+e75131a9-b869-4d87-9149-e7f5585c67e7,Low,Primary,False,True,4,Traditional Beliefs,Stable
+a6dee4d7-4731-4fc1-845c-3f9666118c4e,Medium,Primary,True,False,1,Islam,Stable
+f41bd142-910a-485f-bb73-8a2696039e60,Low,Primary,True,True,8,Christianity,Stable
+d4d24b64-767d-4146-ba63-2e6bcbfb2442,Low,None,True,True,8,Islam,Stable
+afc3e5f2-deb2-41bf-916e-0e3db7413cb5,Medium,Primary,False,True,7,Traditional Beliefs,Stable
+6df7454d-7eb0-4caf-a436-8cf67a738116,High,Primary,False,True,6,Christianity,Stable
+08a8d6a4-dd50-4359-9b7b-2b91b66d466f,Low,None,True,False,9,Traditional Beliefs,Conflict
+3358a13c-cbc6-49bc-a039-4a2f84e7b19c,High,Primary,True,True,10,Christianity,Stable
+f7f9ec8a-6216-4879-8ed0-e6b42d769f52,High,Secondary,True,False,3,Traditional Beliefs,Stable
+5494d30b-5c04-4626-9895-5a3fd640982f,Medium,Secondary,True,True,5,Christianity,Stable
+4c4c67b8-efdc-4465-8437-6e7bca76ad70,Medium,Tertiary,False,True,9,Traditional Beliefs,Conflict
+203d84c5-a726-4874-846b-b123b1b0ccab,Low,None,True,False,10,Islam,Conflict
+6bcbcfea-4a99-446b-9204-7657e70ffacd,High,Primary,False,True,4,Traditional Beliefs,Conflict
+78ec63db-cc1b-487a-bf31-ec2c5fbbedad,Low,Primary,True,True,9,Islam,Stable
+63de9f05-c1d8-469c-bd93-8afccd7ca8b8,High,Secondary,True,False,5,Traditional Beliefs,Conflict
+17c0c663-6d34-4408-81ce-b0e60e92aa5a,Low,None,False,False,5,Islam,Stable
+c9a6d27b-54d6-40c5-926d-e430abe2d763,High,Secondary,False,False,5,Christianity,Stable
+3478550d-e3f5-40a8-a373-4d6edbf7a25b,Medium,Tertiary,True,False,2,Traditional Beliefs,Conflict
+2726f1d0-4f2e-4fa6-bb7c-7eae6d3e7d46,Medium,Secondary,True,True,6,Traditional Beliefs,Stable
+39add8b3-95df-49bf-99b6-e29d81e60232,Medium,Tertiary,True,True,3,Islam,Conflict
+d85c6850-bee9-4dfc-b573-09578d285854,Low,None,True,True,9,Traditional Beliefs,Stable
+f63c14a8-905f-4d5f-b019-803073bcabe1,Medium,Tertiary,False,False,2,Islam,Conflict
+83350dc7-597e-455f-998d-8a39a4a2adb1,Low,Primary,True,True,12,Islam,Stable
+fc9c5ae8-ec98-42bb-b074-cc1cc8630d91,Medium,None,False,True,8,Traditional Beliefs,Stable
+8bb022fe-8a69-4622-b5eb-17f738ce7477,High,None,True,True,12,Islam,Stable
+de5a6665-b259-44d5-847b-1685a7785163,Low,None,False,True,9,Islam,Stable
+576d2b46-81ea-4e28-ac12-b211cd57dd92,Low,Secondary,True,True,11,Christianity,Stable
+17b5d886-39f6-460c-8ee2-9b09bce94482,Low,None,False,False,3,Traditional Beliefs,Conflict
+7b756e16-ab5f-48a1-9d84-9f403ae8ccc9,High,Secondary,True,True,2,Islam,Stable
+96a50bb9-d057-43c6-9444-46f943510852,Low,Secondary,False,False,5,Christianity,Conflict
+1eaf561d-0400-48a5-bbdd-020984cf71cc,High,Tertiary,True,True,4,Islam,Stable
+efb91b81-166c-41ef-b02b-6e133ad2e98d,Low,Tertiary,False,True,3,Christianity,Conflict
+460d80be-d123-400a-8f70-06ee3cf5f632,High,Tertiary,False,False,3,Christianity,Conflict
+fbe1855d-12f4-4fdc-943d-c0c60dc7d9f6,High,None,True,True,8,Christianity,Conflict
+746c6cbd-6738-4afe-8bbf-f6b1c3a206f0,Low,None,False,True,1,Christianity,Stable
+6519fb79-b0f1-4223-80cd-ebb8837032ae,Low,Tertiary,True,False,6,Islam,Stable
+194dc4d1-d5c1-45b7-ab2d-9403cd75b867,High,Secondary,False,True,2,Traditional Beliefs,Stable
+312f696f-0e6c-4801-9bda-d4cd5a8a42df,Low,Primary,False,False,7,Christianity,Stable
+dac8bb9d-559b-4cba-9a6f-7cee6c5ddde6,High,Primary,False,True,12,Traditional Beliefs,Stable
+31e5a220-dd9b-489f-8602-3d3e3829fbc7,Medium,Tertiary,True,True,10,Islam,Stable
+5df0b5e3-4959-480e-8c79-65663c94cdac,High,Secondary,False,False,8,Christianity,Stable
+49272921-272a-4e1f-83ca-8000e5252925,High,Primary,True,True,3,Christianity,Stable
+f4bb5db3-073a-40db-bf52-fc90db2f11be,Medium,Secondary,True,False,6,Christianity,Stable
+e09fd9e7-2a26-412a-8c2e-7c6b97019e9c,Low,Secondary,False,True,5,Islam,Conflict
+e5ddb1b1-55cc-4234-98d3-97460007f9be,Medium,Tertiary,False,True,1,Christianity,Stable
+35eccba1-79c6-487c-8d80-dd29084c812a,High,Secondary,False,True,5,Christianity,Stable
+cbf27e14-8cda-4165-8b99-dbe78175e444,High,Secondary,True,False,7,Christianity,Conflict
+cff449ef-012c-4f4c-8de3-0f8b7c7ea3c5,Low,Secondary,True,True,6,Islam,Stable
+2e06a6ce-2cc8-46e1-8911-e1f3632d376b,Low,None,False,True,9,Traditional Beliefs,Conflict
+85ffd14d-5657-4501-a0b2-8d73c45b55ed,High,None,False,True,5,Traditional Beliefs,Conflict
+331300b1-503e-45a0-99f6-718cbba41dcd,Medium,Secondary,False,False,6,Islam,Stable
+524ad955-8cb2-433e-98be-a5b1bd68c04a,High,None,True,True,11,Christianity,Stable
+ec80eba9-9385-419c-b01d-23e7ed118895,Low,Secondary,False,True,3,Islam,Stable
+7d03d5e3-eaaf-4c32-b34f-5a6f44603465,High,Secondary,True,True,3,Traditional Beliefs,Stable
+7c7f5a56-15cc-49cb-baf8-c8d03cec43aa,High,Tertiary,False,True,10,Traditional Beliefs,Stable
+88e49ce8-4bfe-4178-9e5e-80dcc7ad2ae7,Low,Primary,True,False,9,Traditional Beliefs,Stable
+c6841764-3655-43d6-8ef1-e46e0534a651,Medium,None,False,True,2,Christianity,Conflict
+2850428f-f806-4966-91c8-582a2de72a25,Low,Tertiary,True,True,4,Islam,Stable
+af03b591-36cf-43c4-96de-e240fbb778cd,High,None,False,True,5,Christianity,Conflict
+3c70f9ba-a0f8-4bba-9961-5bbb7d8578ab,Low,Tertiary,True,True,7,Christianity,Stable
+0c47b9ea-48a9-4aa9-9ab9-374894b7730c,Medium,Primary,True,True,8,Islam,Stable
+742289b5-0f37-4e0d-9307-83bf41255975,High,Primary,False,True,12,Islam,Conflict
+3aad6348-f625-4866-8b55-45b38e01bb2c,Medium,Primary,True,False,11,Christianity,Stable
+53c5c2f7-1c11-48ef-abbc-2cab5081660b,Medium,Secondary,False,False,5,Christianity,Conflict
+7b47d8b1-15d8-4bdd-b163-28fe9397f64c,High,None,True,False,1,Islam,Stable
+1bac1c07-e75a-4397-83ee-40f261a2a258,Medium,Secondary,True,True,9,Traditional Beliefs,Conflict
+b73f75ff-acd2-4d4e-9f84-28da210ef5ce,Medium,Primary,False,True,3,Traditional Beliefs,Conflict
+65e985cd-956b-43ed-baa5-5cb10f3ee52a,Low,Secondary,True,False,5,Christianity,Conflict
+c6903d80-1e41-4664-b6d3-41d168fba584,High,Secondary,False,False,2,Islam,Conflict
+58e2673c-b1a6-42a2-a38a-4e454ae85fdd,Low,Secondary,False,True,7,Islam,Conflict
+4b632b36-4579-4e79-a2ac-843a372a3ab9,High,Secondary,False,True,6,Christianity,Stable
+3a4f6d0b-0317-4311-871f-dc375584eb2a,Medium,Tertiary,False,True,10,Islam,Stable
+9e615155-ae33-44da-8556-a90b3a8980dc,High,Primary,False,False,7,Christianity,Conflict
+c597686e-2139-4bf2-b97e-da853d51271a,Medium,Primary,True,True,6,Islam,Stable
+3ee4a89c-0b6c-490b-a777-feb262fe82c7,Low,Secondary,True,True,7,Christianity,Conflict
+13b137a1-a3b9-442b-b2a7-36b4397520de,High,Primary,True,True,6,Islam,Stable
+7c750961-48a0-4886-b11d-fae6e07438f1,Low,Tertiary,False,False,6,Islam,Conflict
+f853ab89-c03b-4d82-a486-7621dd119d7d,Low,None,False,True,8,Traditional Beliefs,Conflict
+c93b7886-218b-4e55-9d31-3ec6ac2c8a8a,Low,None,True,False,5,Christianity,Stable
+d8cb183b-3a77-411c-ab64-5425373c50db,Medium,Tertiary,True,False,7,Islam,Stable
+56994dcd-4d86-44cf-bffb-4dbac43e2794,Low,None,False,True,8,Christianity,Conflict
+56aef723-da4d-4064-b060-efe8a5f3f4bc,Low,Tertiary,False,False,8,Islam,Stable
+73275e97-a447-49fa-8d6c-f9d211a18090,High,Tertiary,False,True,1,Traditional Beliefs,Stable
+687c62f3-bc5b-4626-a9f1-bc0548bbb8d8,Medium,None,True,True,1,Traditional Beliefs,Conflict
+1248ae42-ca71-4c33-bc17-9934251d6e70,High,Secondary,True,False,2,Traditional Beliefs,Stable
+8edfbfd1-83bb-4d26-90e5-88a6753c833a,High,Tertiary,False,True,11,Traditional Beliefs,Stable
+26f517c3-cf67-4cff-9f29-4e0c9554bb62,High,Primary,True,False,1,Traditional Beliefs,Stable
+02e0af56-e0d3-4739-9ae5-8a5331f09a9e,High,Secondary,True,True,4,Christianity,Conflict
+5f951282-63fe-4812-aea1-83c78f8fb40e,Low,Secondary,False,True,10,Islam,Stable
+05628824-3210-493d-84cc-417ca07cbb71,High,Primary,False,True,8,Islam,Stable
+91f06817-06f1-4e77-8bea-9a170bb17811,High,None,True,False,6,Traditional Beliefs,Stable
+649c5b9d-7fe5-4909-9339-4f5dc231793e,High,Secondary,True,True,12,Traditional Beliefs,Conflict
+2493aa97-d5e8-4463-a607-6a7fe2cf34ff,Medium,Tertiary,True,True,9,Traditional Beliefs,Stable
+dfad291c-e5f8-4fa4-afb8-befcaa6683ed,High,Primary,True,False,12,Christianity,Conflict
+533c57ab-d353-4bbb-8887-684bfb2f971b,Low,Tertiary,True,False,2,Christianity,Conflict
+7f9fb754-be45-4759-aaf7-c5267481ebab,High,Tertiary,True,True,10,Islam,Stable
+7f0d348f-6453-4392-966c-a97f2c443608,High,Primary,False,True,11,Islam,Conflict
+5fa0ac9d-aabd-4b5d-a096-39e0102a97b4,High,Secondary,False,True,10,Islam,Stable
+e987af11-f037-43f3-a603-e6666bf6d4d8,Low,Secondary,False,False,12,Traditional Beliefs,Stable
+cb114e0a-610c-4c59-a86d-8d3d454679dd,Medium,Secondary,False,False,4,Islam,Stable
+2bf6bb58-4ee2-4654-b26a-921f9fd29240,Medium,None,False,True,2,Christianity,Stable
+94f774eb-ecfc-429e-a3d0-2e00380a3700,High,Primary,True,False,2,Islam,Conflict
+34313e4f-bc78-40fa-a069-9d406031762a,Medium,Secondary,False,True,8,Christianity,Stable
+98416c2b-44ad-4264-8901-104de0be0fe3,Low,Secondary,True,True,3,Christianity,Conflict
+b7b1b808-a7bf-4d0a-b20a-a8cd33a588b8,Medium,None,True,False,2,Christianity,Stable
+9f50d899-7782-40e6-b57d-788d459cdccc,Low,Secondary,True,True,11,Christianity,Stable
+fc60b912-d235-4387-8d4d-30b08e74de9c,Low,Secondary,False,False,5,Islam,Stable
+e5b1df5c-2000-46f5-a18e-9a9e96c73f01,Low,Tertiary,True,False,2,Christianity,Conflict
+9651a3f0-a730-4dec-9732-e7d86d9a7083,Low,Tertiary,False,True,1,Christianity,Stable
+46a9f2da-858d-410c-9d0a-6671262d02e0,Low,None,False,False,4,Christianity,Stable
+14b352a4-4c7b-441a-9de8-66997ab97766,Medium,None,True,True,1,Islam,Stable
+f6175a73-d249-4f65-868f-1536824af694,High,Tertiary,True,True,4,Islam,Conflict
+5b1db32b-a165-4aeb-b2ed-cc5c93888206,Medium,Secondary,False,False,6,Islam,Stable
+bea8bd6b-f5e2-493e-bd43-970cf9690f81,High,Primary,False,False,7,Christianity,Conflict
+1535aae4-f44f-49c6-bfa4-36255ad7fa63,High,Primary,True,True,5,Islam,Stable
+1b4c5a20-0d59-4fa4-9a8f-2cca7246e3dc,Medium,Secondary,True,True,6,Christianity,Conflict
+5c2fddfa-6398-4730-a821-e99c08c626d8,Low,Tertiary,False,True,2,Islam,Stable
+762dc928-0643-4ecd-9b31-9ce03a17a5c1,Medium,None,False,True,7,Christianity,Stable
+997dabae-798c-4a10-8901-0ded9db615fb,High,Primary,False,False,9,Christianity,Stable
+e6d8d9d0-cf0c-43cd-836f-33f50d2bf11e,High,None,False,True,11,Islam,Conflict
+a04bc2c9-781e-45d0-b945-bf7186c10c0d,Low,Tertiary,True,True,7,Islam,Conflict
+b9840a3c-08ab-4361-956d-2a5165a7fab1,High,Secondary,True,False,10,Islam,Stable
+c8f78fa7-64a6-4000-b71c-39446ec72034,High,None,True,True,7,Christianity,Stable
+4b1e7fa9-7900-4e8e-80f7-3c8e6f6524e3,Low,Tertiary,False,False,3,Traditional Beliefs,Stable
+b1832412-e4cd-48e6-831e-ea1b575c3313,Low,Secondary,True,False,10,Islam,Stable
