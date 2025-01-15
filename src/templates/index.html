@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Dropout Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Student Dropout Risk Assessment</h1>
+            <p>Enter student information to analyze dropout risk and get recommendations</p>
+        </header>
+
+        <main>
+            <form id="predictionForm" class="prediction-form">
+                <div class="form-sections">
+                    <!-- Student Information -->
+                    <section class="form-section">
+                        <h2>Student Information</h2>
+                        <div class="form-group">
+                            <label for="age">Age</label>
+                            <input type="number" id="age" name="age" min="10" max="22" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="gender">Gender</label>
+                            <select id="gender" name="gender" required>
+                                <option value="Male">Male</option>
+                                <option value="Female">Female</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="marital_status">Marital Status</label>
+                            <select id="marital_status" name="marital_status" required>
+                                <option value="Single">Single</option>
+                                <option value="Married">Married</option>
+                                <option value="Divorced">Divorced</option>
+                                <option value="Widowed">Widowed</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="special_needs">Special Needs</label>
+                            <select id="special_needs" name="special_needs" required>
+                                <option value="false">No</option>
+                                <option value="true">Yes</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="num_children">Number of Children</label>
+                            <input type="number" id="num_children" name="num_children" min="0" max="5" required>
+                        </div>
+                    </section>
+
+                    <!-- Academic Information -->
+                    <section class="form-section">
+                        <h2>Academic Information</h2>
+                        <div class="form-group">
+                            <label for="previous_academic_performance">Previous Academic Performance</label>
+                            <select id="previous_academic_performance" name="previous_academic_performance" required>
+                                <option value="Excellent">Excellent</option>
+                                <option value="Good">Good</option>
+                                <option value="Average">Average</option>
+                                <option value="Poor">Poor</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="attendance_rate">Attendance Rate (%)</label>
+                            <input type="number" id="attendance_rate" name="attendance_rate" min="0" max="100" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="language_spoken">Language Spoken</label>
+                            <select id="language_spoken" name="language_spoken" required>
+                                <option value="French">French</option>
+                                <option value="English">English</option>
+                                <option value="Fulfulde">Fulfulde</option>
+                                <option value="Pidgin">Pidgin</option>
+                                <option value="Local Dialects">Local Dialects</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="school_language">School Language</label>
+                            <select id="school_language" name="school_language" required>
+                                <option value="French">French</option>
+                                <option value="English">English</option>
+                            </select>
+                        </div>
+                    </section>
+
+                    <!-- Socioeconomic Information -->
+                    <section class="form-section">
+                        <h2>Socioeconomic Information</h2>
+                        <div class="form-group">
+                            <label for="household_income">Household Income</label>
+                            <select id="household_income" name="household_income" required>
+                                <option value="Low">Low</option>
+                                <option value="Medium">Medium</option>
+                                <option value="High">High</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="parent_education">Parent Education</label>
+                            <select id="parent_education" name="parent_education" required>
+                                <option value="None">None</option>
+                                <option value="Primary">Primary</option>
+                                <option value="Secondary">Secondary</option>
+                                <option value="Tertiary">Tertiary</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="household_size">Household Size</label>
+                            <input type="number" id="household_size" name="household_size" min="1" max="20" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="electricity_access">Electricity Access</label>
+                            <select id="electricity_access" name="electricity_access" required>
+                                <option value="false">No</option>
+                                <option value="true">Yes</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="internet_access">Internet Access</label>
+                            <select id="internet_access" name="internet_access" required>
+                                <option value="false">No</option>
+                                <option value="true">Yes</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="political_state">Political State</label>
+                            <select id="political_state" name="political_state" required>
+                                <option value="Stable">Stable</option>
+                                <option value="Conflict">Conflict</option>
+                            </select>
+                        </div>
+                    </section>
+
+                    <!-- School Information -->
+                    <section class="form-section">
+                        <h2>School Information</h2>
+                        <div class="form-group">
+                            <label for="distance_to_school">Distance to School (km)</label>
+                            <input type="number" id="distance_to_school" name="distance_to_school" min="0" max="50" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="num_teachers">Number of Teachers</label>
+                            <input type="number" id="num_teachers" name="num_teachers" min="1" max="100" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="student_teacher_ratio">Student-Teacher Ratio</label>
+                            <input type="number" id="student_teacher_ratio" name="student_teacher_ratio" min="1" max="100" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="has_computer_lab">Computer Lab Available</label>
+                            <select id="has_computer_lab" name="has_computer_lab" required>
+                                <option value="false">No</option>
+                                <option value="true">Yes</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="has_library">Library Available</label>
+                            <select id="has_library" name="has_library" required>
+                                <option value="false">No</option>
+                                <option value="true">Yes</option>
+                            </select>
+                        </div>
+                    </section>
+
+                    <!-- Teacher Information -->
+                    <section class="form-section">
+                        <h2>Teacher Information</h2>
+                        <div class="form-group">
+                            <label for="qualification">Teacher Qualification</label>
+                            <select id="qualification" name="qualification" required>
+                                <option value="Bachelor's Degree">Bachelor's Degree</option>
+                                <option value="Master's Degree">Master's Degree</option>
+                                <option value="PhD">PhD</option>
+                                <option value="Diploma">Diploma</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="years_of_experience">Years of Experience</label>
+                            <input type="number" id="years_of_experience" name="years_of_experience" min="0" max="40" required>
+                        </div>
+                    </section>
+
+                    <!-- Support Information -->
+                    <section class="form-section">
+                        <h2>Support Information</h2>
+                        <div class="form-group">
+                            <label for="parental_involvement">Parental Involvement</label>
+                            <select id="parental_involvement" name="parental_involvement" required>
+                                <option value="false">No</option>
+                                <option value="true">Yes</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="community_support">Community Support</label>
+                            <select id="community_support" name="community_support" required>
+                                <option value="false">No</option>
+                                <option value="true">Yes</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="aid_coverage">Government Aid Coverage</label>
+                            <select id="aid_coverage" name="aid_coverage" required>
+                                <option value="false">No</option>
+                                <option value="true">Yes</option>
+                            </select>
+                        </div>
+                    </section>
+                </div>
+
+                <div class="form-actions">
+                    <button type="submit" class="submit-btn">Analyze Risk</button>
+                    <button type="reset" class="reset-btn">Reset Form</button>
+                </div>
+            </form>
+
+            <!-- Results section remains the same -->
+            <div id="results" class="results hidden">
+                <!-- Previous results content remains the same -->
+            </div>
+        </main>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
